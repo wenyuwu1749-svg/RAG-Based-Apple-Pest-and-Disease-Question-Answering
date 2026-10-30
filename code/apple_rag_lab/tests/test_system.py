@@ -150,6 +150,21 @@ class SystemTests(unittest.TestCase):
         self.assertIn('olive green spots', compact[0]['text'])
         self.assertEqual(lab.normalize_query('What are apple scab symptoms?')['query'], 'What are apple scab symptoms?')
 
+    def test_chinese_topic_query_and_compression_use_english_terms(self):
+        question = '\u82f9\u679c\u9ed1\u661f\u75c5\u6709\u54ea\u4e9b\u75c7\u72b6\uff1f'
+        found, _ = lab.retrieve(question, lab.corpus(), 'dense', 6)
+        self.assertTrue(found)
+        normalized = lab.normalize_query(question)
+        self.assertIn('apple scab', normalized['query'])
+        self.assertEqual(normalized['original'], question)
+
+    def test_chinese_overview_question_is_answered_in_chinese(self):
+        with patch.object(lab, 'retrieve', side_effect=AssertionError('No-RAG called retrieval')):
+            result = lab.experiment({'question': '\u82f9\u679c\u6709\u54ea\u4e9b\u75c5\u866b\u5bb3\uff1f', 'profile_ids': ['openai'], 'modes': ['non_rag'], 'answer_language': 'auto'})['results'][0]
+        self.assertEqual(result['status'], 'success')
+        self.assertIn('Simplified Chinese', result['messages'][0]['content'])
+        self.assertEqual(lab.normalize_query('\u82f9\u679c\u6709\u54ea\u4e9b\u75c5\u866b\u5bb3\uff1f')['overview'], 'both')
+
     def test_overview_covers_diseases_and_pests_in_both_rag_modes(self):
         samples = self.chunks + [
             {'id': 'fire', 'text': 'Fire blight is an apple disease caused by bacteria. Apple shoots and flowers can wilt.', 'metadata': {'title': 'Fire Blight', 'topic': 'Fire Blight', 'section': 'Symptoms', 'url': 'https://example.org/fire'}},
