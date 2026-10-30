@@ -1,4 +1,4 @@
-﻿item_id,task_id,model,condition,question_id
+item_id,task_id,model,condition,question_id
 H001,T009|gemini|standard|r1,gemini,standard,T009
 H002,T002|gemini|non_rag|r1,gemini,non_rag,T002
 H003,T001|claude|efficient|r1,claude,efficient,T001

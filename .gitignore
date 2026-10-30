@@ -13,3 +13,6 @@ data/logs/experiments.jsonl
 data/logs/*_results.jsonl
 model/
 .env
+
+# Office lock files
+~$*
