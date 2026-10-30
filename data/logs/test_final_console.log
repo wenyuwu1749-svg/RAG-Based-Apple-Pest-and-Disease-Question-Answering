@@ -3,7 +3,7 @@ Warming up embedding model ...
 python : Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate l
 imits and faster downloads.
 At line:3 char:1
-+ python -u 代码/tools/run_experiment.py run --name test_final *> $log
++ python -u code/tools/run_experiment.py run --name test_final *> $log
 + ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     + CategoryInfo          : NotSpecified: (Warning: You ar...ster downloads.:String) [], RemoteException
     + FullyQualifiedErrorId : NativeCommandError

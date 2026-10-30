@@ -58,13 +58,13 @@ Reviewer: Claude evidence check (same model as drafter). Number check against ci
 Summary: 50 reviewed; 5 edited before review sign-off (citation completeness / wording); 0 rejected.
 
 
-## 2026-10-20 去除"注明出处"类评分要求（对无 RAG 公平）
+## 2026-10-20 Removal of "cite the source" requirements from scoring (fairness to no RAG)
 
-无 RAG 条件没有资料可引用，凡要求"注明出处 / 依据资料说明"的要点会系统性偏向 RAG。以下修改只保留内容本身，
-"资料中没有某信息"改为"不把未经证实的具体内容当作定论、承认不确定"。题目、答案性质和其他要点未改。
-评委说明同步加入"不因引用或来源名称加分或扣分"（judge-v3-content-only）。
+The no-RAG condition has no material to cite, so required points asking to "cite the source / state according to the material" systematically favour RAG. The changes below keep only the content itself;
+"the material does not contain X" was changed to "does not present unverified specifics as established and acknowledges uncertainty". Questions, the nature of the answers and other points were not changed.
+The judge instructions were updated at the same time with "no credit or penalty for citations or source names" (judge-v3-content-only).
 
-| 题号 | 字段 | 修改前 | 修改后 |
+| Question | Field | Before | After |
 |---|---|---|---|
 | T007 | required_points 3 | threshold-based decision considering predators (attributed, e.g. UC 60% terminals, Penn State 4.2 leaves/shoot) | threshold-based decision considering predators (e.g. UC 60% terminals, Penn State 4.2 leaves/shoot) |
 | T008 | required_points 3 | treat only above thresholds considering parasitism (attributed, e.g. more than 5 mines per leaf) | treat only above thresholds considering parasitism (e.g. more than 5 mines per leaf) |
@@ -104,23 +104,23 @@ Summary: 50 reviewed; 5 edited before review sign-off (citation completeness / w
 | T048 | required_points 2 | reports NZ glasshouse product results with the 1% potassium carbonate caveat | glasshouse tests: lime sulphur, copper, sulphur and low-rate potassium carbonate reduced disease; 1% potassium carbonate increased severity |
 | T049 | required_points 4 | expose crown and upper roots and keep dry (attributed) | expose crown and upper roots and keep dry |
 
-## 2026-10-20 项目组人工评审（已完成）
+## 2026-10-20 Review by the project team (completed)
 
-评审人：Wenyu Wu（T001、T018、T038、T043、T048 及 15 题）、Dongyang Chen（15 题）、Mengshuai Feng（15 题），分工见 `评审分工/分工表.md`，原始评审表见 `已评审/`。方法：对照引用原文逐句核查参考答案、必答要点与重大错误，填写六项检查与评审结果。
+Reviewers: Wenyu Wu (T001, T018, T038, T043, T048 and 15 further questions), Dongyang Chen (15 questions), Mengshuai Feng (15 questions); the review workbooks are in `review_records/`. Method: reference answers, required points and major errors were checked sentence by sentence against the cited passages, and the six checks and the review result were filled in.
 
-结果：50 题中 38 题"通过"，12 题"修改后通过"，0 题拒绝。修改意见均为补充适用范围与限定条件；按意见只在参考答案末尾补充说明，未改动必答要点与重大错误（避免改变评分标准）。题库 status 改为 frozen，reviewer 改为实际评审人。
+Result: of 50 questions, 38 "passed", 12 "passed after modification" and 0 were rejected. All comments asked for added scope and qualifications; following them, notes were added only at the end of the reference answers, without changing required points or major errors (so that the scoring criteria did not change). The question bank status was set to frozen and reviewer to the actual reviewer.
 
-| 题号 | 评审人 | 评审意见（摘要） | 处理 |
+| Question | Reviewer | Comment (summary) | Action |
 |---|---|---|---|
-| T022 | Dongyang Chen | 基温、biofix、模型适用条件；不把美国时序当普适处方 | 基温与 biofix 原已写明；补充"数值来自美国项目，以当地模型与标签为准"（v2） |
-| T026 | Wenyu Wu | 耐涝性受排水、接穗、当地试验影响 | 补充说明（v2） |
-| T027 | Dongyang Chen | 布设密度依产品标签与地域 | 补充说明（v2） |
-| T028 | Mengshuai Feng | 时机与药剂依当地标签、风险模型、抗性管理 | 补充说明（v2） |
-| T032 | Mengshuai Feng | 网具结论限于研究条件；核查语料有无安装资料 | 参考答案已限定；语料中未检索到安装或逐种效果资料，未修改 |
-| T033 | Wenyu Wu | 登记与抗性因地区而异；不说所有单位点药剂失效 | 补充说明（v2） |
-| T037 | Wenyu Wu | 核对 300 mm、工具消毒、病枝处理是否出自 NZ 原文 | 已核对 S279:web:6（新西兰）原文均有，未修改 |
-| T039 | Dongyang Chen | 寄生率限定于 Appleby 1994–96 试验 | 年份原已写明；补充"不保证每个果园达到"（v2） |
-| T040 | Dongyang Chen | 区分已知信息与缺少 NZ 药剂证据；核查语料 | 核查发现语料有 NZPPS 2024 卷叶蛾抗药性管理指南（S261，未列具体药剂）：补入参考答案与引用片段（v2） |
-| T041 | Mengshuai Feng | 14 个果园为特定时期证据，交配干扰不是无条件替代 | 补充说明（v2） |
-| T044 | Wenyu Wu | 1996 试验限定，小苏打效果小 | 补充"非广泛推荐"（v2） |
-| T045 | Mengshuai Feng | 明确目标种类、地区、诱捕器；不给阈值 | 原已写明无阈值；补充"各研究对象与地区不同"（v2） |
+| T022 | Dongyang Chen | Base temperature, biofix, model conditions; US timing is not a universal prescription | Base temperature and biofix were already stated; added "values come from US programmes; follow local models and labels" (v2) |
+| T026 | Wenyu Wu | Waterlogging tolerance depends on drainage, scion and local trials | Note added (v2) |
+| T027 | Dongyang Chen | Dispenser density depends on product label and region | Note added (v2) |
+| T028 | Mengshuai Feng | Timing and products depend on local labels, risk models and resistance management | Note added (v2) |
+| T032 | Mengshuai Feng | Netting findings are limited to the study conditions; check the corpus for installation material | Reference answer already qualified; no installation or per-species material found in the corpus; not changed |
+| T033 | Wenyu Wu | Registration and resistance differ by region; do not say all single-site products have failed | Note added (v2) |
+| T037 | Wenyu Wu | Check that 300 mm, tool disinfection and handling of infected wood come from the NZ source | Checked: all are in S279:web:6 (New Zealand); not changed |
+| T039 | Dongyang Chen | Limit parasitism rates to the Appleby 1994–96 trial | Years were already stated; added "not guaranteed in every orchard" (v2) |
+| T040 | Dongyang Chen | Separate known information from the lack of NZ product evidence; check the corpus | The check found the NZPPS 2024 leafroller resistance management guide in the corpus (S261, no specific products listed); added to the reference answer and cited chunks (v2) |
+| T041 | Mengshuai Feng | 14 orchards are evidence from a specific period; mating disruption is not an unconditional replacement | Note added (v2) |
+| T044 | Wenyu Wu | Limit to the 1996 trial; small effect of sodium bicarbonate | Added "not a general recommendation" (v2) |
+| T045 | Mengshuai Feng | State target species, region and trap; give no threshold | Already stated that there is no threshold; added "study species and regions differ" (v2) |

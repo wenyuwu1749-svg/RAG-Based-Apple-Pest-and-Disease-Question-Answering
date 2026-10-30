@@ -4,7 +4,7 @@ Warming up embedding model ...
 python : Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate l
 imits and faster downloads.
 At line:4 char:1
-+ python -u 代码/tools/run_experiment.py run --name test_exp2 *>> $log
++ python -u code/tools/run_experiment.py run --name test_exp2 *>> $log
 + ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     + CategoryInfo          : NotSpecified: (Warning: You ar...ster downloads.:String) [], RemoteException
     + FullyQualifiedErrorId : NativeCommandError
@@ -1820,7 +1820,7 @@ Warming up embedding model ...
 python : Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate l
 imits and faster downloads.
 At line:5 char:1
-+ python -u 代码/tools/run_experiment.py run --name test_exp2 --retry-err ...
++ python -u code/tools/run_experiment.py run --name test_exp2 --retry-err ...
 + ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     + CategoryInfo          : NotSpecified: (Warning: You ar...ster downloads.:String) [], RemoteException
     + FullyQualifiedErrorId : NativeCommandError

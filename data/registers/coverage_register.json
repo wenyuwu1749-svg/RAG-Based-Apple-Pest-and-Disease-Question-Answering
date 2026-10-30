@@ -1,7 +1,7 @@
 [
   {
-    "topic": "Apple scab 苹果黑星病",
-    "type": "疾病",
+    "topic": "Apple scab",
+    "type": "Disease",
     "uc": [
       "S001"
     ],
@@ -21,11 +21,11 @@
       "S203",
       "S254"
     ],
-    "gap": "已取得来源；具体管理适用性和更新日期待审核"
+    "gap": "Sources obtained; specific management applicability and update dates still to be reviewed"
   },
   {
-    "topic": "Fire blight 火疫病",
-    "type": "疾病",
+    "topic": "Fire blight",
+    "type": "Disease",
     "uc": [
       "S002"
     ],
@@ -43,11 +43,11 @@
       "S200",
       "S255"
     ],
-    "gap": "已取得来源；具体管理适用性和更新日期待审核"
+    "gap": "Sources obtained; specific management applicability and update dates still to be reviewed"
   },
   {
-    "topic": "Powdery mildew 白粉病",
-    "type": "疾病",
+    "topic": "Powdery mildew",
+    "type": "Disease",
     "uc": [
       "S003"
     ],
@@ -64,11 +64,11 @@
     "nz": [
       null
     ],
-    "gap": "缺新西兰专题来源；地区适用性待审核"
+    "gap": "No New Zealand topic source; regional applicability still to be reviewed"
   },
   {
-    "topic": "European canker 欧洲溃疡病",
-    "type": "疾病",
+    "topic": "European canker",
+    "type": "Disease",
     "uc": [
       "S004"
     ],
@@ -85,11 +85,11 @@
       "S200",
       "S256"
     ],
-    "gap": "已取得来源；具体管理适用性和更新日期待审核"
+    "gap": "Sources obtained; specific management applicability and update dates still to be reviewed"
   },
   {
-    "topic": "Apple anthracnose 苹果炭疽溃疡类专题",
-    "type": "疾病",
+    "topic": "Apple anthracnose (canker) topic",
+    "type": "Disease",
     "uc": [
       null
     ],
@@ -105,11 +105,11 @@
     "nz": [
       null
     ],
-    "gap": "缺新西兰专题来源；地区适用性待审核"
+    "gap": "No New Zealand topic source; regional applicability still to be reviewed"
   },
   {
-    "topic": "Phytophthora root/crown rot 疫霉根腐病",
-    "type": "疾病",
+    "topic": "Phytophthora root/crown rot",
+    "type": "Disease",
     "uc": [
       "S005"
     ],
@@ -125,11 +125,11 @@
     "nz": [
       null
     ],
-    "gap": "缺新西兰专题来源；地区适用性待审核"
+    "gap": "No New Zealand topic source; regional applicability still to be reviewed"
   },
   {
-    "topic": "Armillaria root rot 蜜环菌根腐病",
-    "type": "疾病",
+    "topic": "Armillaria root rot",
+    "type": "Disease",
     "uc": [
       "S065"
     ],
@@ -145,11 +145,11 @@
     "nz": [
       null
     ],
-    "gap": "缺新西兰专题来源；地区适用性待审核"
+    "gap": "No New Zealand topic source; regional applicability still to be reviewed"
   },
   {
-    "topic": "Bacterial blossom blast 细菌性花枯",
-    "type": "疾病",
+    "topic": "Bacterial blossom blast",
+    "type": "Disease",
     "uc": [
       "S066"
     ],
@@ -165,11 +165,11 @@
     "nz": [
       null
     ],
-    "gap": "缺新西兰专题来源；地区适用性待审核"
+    "gap": "No New Zealand topic source; regional applicability still to be reviewed"
   },
   {
-    "topic": "Black rot / Frogeye leaf spot 黑腐病",
-    "type": "疾病",
+    "topic": "Black rot / Frogeye leaf spot",
+    "type": "Disease",
     "uc": [
       null
     ],
@@ -185,11 +185,11 @@
     "nz": [
       null
     ],
-    "gap": "缺新西兰专题来源；地区适用性待审核"
+    "gap": "No New Zealand topic source; regional applicability still to be reviewed"
   },
   {
-    "topic": "Bitter rot 苦腐病",
-    "type": "疾病",
+    "topic": "Bitter rot",
+    "type": "Disease",
     "uc": [
       null
     ],
@@ -205,11 +205,11 @@
     "nz": [
       null
     ],
-    "gap": "缺新西兰专题来源；地区适用性待审核"
+    "gap": "No New Zealand topic source; regional applicability still to be reviewed"
   },
   {
-    "topic": "White rot 白腐病",
-    "type": "疾病",
+    "topic": "White rot",
+    "type": "Disease",
     "uc": [
       null
     ],
@@ -225,11 +225,11 @@
     "nz": [
       null
     ],
-    "gap": "缺新西兰专题来源；地区适用性待审核"
+    "gap": "No New Zealand topic source; regional applicability still to be reviewed"
   },
   {
-    "topic": "Sooty blotch / Flyspeck 煤污病与蝇粪病",
-    "type": "疾病",
+    "topic": "Sooty blotch / Flyspeck",
+    "type": "Disease",
     "uc": [
       null
     ],
@@ -245,11 +245,11 @@
     "nz": [
       null
     ],
-    "gap": "缺新西兰专题来源；地区适用性待审核"
+    "gap": "No New Zealand topic source; regional applicability still to be reviewed"
   },
   {
-    "topic": "Cedar apple / Quince rust 锈病",
-    "type": "疾病",
+    "topic": "Cedar apple / Quince rust",
+    "type": "Disease",
     "uc": [
       null
     ],
@@ -266,11 +266,11 @@
     "nz": [
       null
     ],
-    "gap": "缺新西兰专题来源；地区适用性待审核"
+    "gap": "No New Zealand topic source; regional applicability still to be reviewed"
   },
   {
-    "topic": "Blue mold 青霉病",
-    "type": "采后病害",
+    "topic": "Blue mold",
+    "type": "Postharvest disease",
     "uc": [
       null
     ],
@@ -287,11 +287,11 @@
     "nz": [
       null
     ],
-    "gap": "缺新西兰专题来源；地区适用性待审核"
+    "gap": "No New Zealand topic source; regional applicability still to be reviewed"
   },
   {
-    "topic": "Gray mold 灰霉病",
-    "type": "采后病害",
+    "topic": "Gray mold",
+    "type": "Postharvest disease",
     "uc": [
       null
     ],
@@ -308,11 +308,11 @@
     "nz": [
       null
     ],
-    "gap": "缺新西兰专题来源；地区适用性待审核"
+    "gap": "No New Zealand topic source; regional applicability still to be reviewed"
   },
   {
-    "topic": "Bull's eye rot 牛眼腐病",
-    "type": "采后病害",
+    "topic": "Bull's eye rot",
+    "type": "Postharvest disease",
     "uc": [
       null
     ],
@@ -329,11 +329,11 @@
     "nz": [
       null
     ],
-    "gap": "缺新西兰专题来源；地区适用性待审核"
+    "gap": "No New Zealand topic source; regional applicability still to be reviewed"
   },
   {
-    "topic": "Mucor rot 毛霉腐烂",
-    "type": "采后病害",
+    "topic": "Mucor rot",
+    "type": "Postharvest disease",
     "uc": [
       null
     ],
@@ -349,11 +349,11 @@
     "nz": [
       null
     ],
-    "gap": "缺新西兰专题来源；地区适用性待审核"
+    "gap": "No New Zealand topic source; regional applicability still to be reviewed"
   },
   {
     "topic": "Phacidiopycnis rot",
-    "type": "采后病害",
+    "type": "Postharvest disease",
     "uc": [
       null
     ],
@@ -369,11 +369,11 @@
     "nz": [
       null
     ],
-    "gap": "缺新西兰专题来源；地区适用性待审核"
+    "gap": "No New Zealand topic source; regional applicability still to be reviewed"
   },
   {
-    "topic": "Marssonina blotch 苹果褐斑病",
-    "type": "疾病",
+    "topic": "Marssonina blotch",
+    "type": "Disease",
     "uc": [
       null
     ],
@@ -389,11 +389,11 @@
     "nz": [
       null
     ],
-    "gap": "缺新西兰专题来源；地区适用性待审核"
+    "gap": "No New Zealand topic source; regional applicability still to be reviewed"
   },
   {
-    "topic": "Crown gall 根癌病",
-    "type": "疾病",
+    "topic": "Crown gall",
+    "type": "Disease",
     "uc": [
       null
     ],
@@ -409,11 +409,11 @@
     "nz": [
       null
     ],
-    "gap": "缺新西兰专题来源；地区适用性待审核"
+    "gap": "No New Zealand topic source; regional applicability still to be reviewed"
   },
   {
-    "topic": "Core rot / Moldy core 果心腐烂",
-    "type": "疾病",
+    "topic": "Core rot / Moldy core",
+    "type": "Disease",
     "uc": [
       null
     ],
@@ -430,11 +430,11 @@
     "nz": [
       null
     ],
-    "gap": "缺新西兰专题来源；地区适用性待审核"
+    "gap": "No New Zealand topic source; regional applicability still to be reviewed"
   },
   {
-    "topic": "Apple replant disease 连作障碍专题",
-    "type": "复合问题",
+    "topic": "Apple replant disease topic",
+    "type": "Compound question",
     "uc": [
       null
     ],
@@ -450,11 +450,11 @@
     "nz": [
       null
     ],
-    "gap": "缺新西兰专题来源；地区适用性待审核"
+    "gap": "No New Zealand topic source; regional applicability still to be reviewed"
   },
   {
-    "topic": "Codling moth 苹果蠹蛾",
-    "type": "害虫",
+    "topic": "Codling moth",
+    "type": "Pest",
     "uc": [
       "S006"
     ],
@@ -471,11 +471,11 @@
       "S200",
       "S253"
     ],
-    "gap": "已取得来源；具体管理适用性和更新日期待审核"
+    "gap": "Sources obtained; specific management applicability and update dates still to be reviewed"
   },
   {
-    "topic": "Apple maggot 苹果实蝇",
-    "type": "害虫",
+    "topic": "Apple maggot",
+    "type": "Pest",
     "uc": [
       "S007"
     ],
@@ -491,11 +491,11 @@
     "nz": [
       "S260"
     ],
-    "gap": "已取得来源；具体管理适用性和更新日期待审核"
+    "gap": "Sources obtained; specific management applicability and update dates still to be reviewed"
   },
   {
-    "topic": "Woolly apple aphid 苹果绵蚜",
-    "type": "害虫",
+    "topic": "Woolly apple aphid",
+    "type": "Pest",
     "uc": [
       "S012"
     ],
@@ -511,11 +511,11 @@
     "nz": [
       "S257"
     ],
-    "gap": "已取得来源；具体管理适用性和更新日期待审核"
+    "gap": "Sources obtained; specific management applicability and update dates still to be reviewed"
   },
   {
-    "topic": "Green/apple/spirea aphids 苹果蚜类",
-    "type": "害虫",
+    "topic": "Green/apple/spirea aphids",
+    "type": "Pest",
     "uc": [
       "S009"
     ],
@@ -531,11 +531,11 @@
     "nz": [
       null
     ],
-    "gap": "缺新西兰专题来源；地区适用性待审核"
+    "gap": "No New Zealand topic source; regional applicability still to be reviewed"
   },
   {
     "topic": "Rosy apple aphid",
-    "type": "害虫",
+    "type": "Pest",
     "uc": [
       "S010"
     ],
@@ -551,11 +551,11 @@
     "nz": [
       null
     ],
-    "gap": "缺新西兰专题来源；地区适用性待审核"
+    "gap": "No New Zealand topic source; regional applicability still to be reviewed"
   },
   {
     "topic": "Apple grain aphid",
-    "type": "害虫",
+    "type": "Pest",
     "uc": [
       null
     ],
@@ -571,11 +571,11 @@
     "nz": [
       null
     ],
-    "gap": "缺新西兰专题来源；地区适用性待审核"
+    "gap": "No New Zealand topic source; regional applicability still to be reviewed"
   },
   {
-    "topic": "Leafrollers 卷叶蛾类",
-    "type": "害虫",
+    "topic": "Leafrollers",
+    "type": "Pest",
     "uc": [
       "S041",
       "S044",
@@ -598,11 +598,11 @@
     "nz": [
       null
     ],
-    "gap": "缺新西兰专题来源；地区适用性待审核"
+    "gap": "No New Zealand topic source; regional applicability still to be reviewed"
   },
   {
-    "topic": "Lightbrown apple moth 浅褐苹果蛾",
-    "type": "害虫",
+    "topic": "Lightbrown apple moth",
+    "type": "Pest",
     "uc": [
       null
     ],
@@ -619,11 +619,11 @@
       "S200",
       "S258"
     ],
-    "gap": "已取得来源；具体管理适用性和更新日期待审核"
+    "gap": "Sources obtained; specific management applicability and update dates still to be reviewed"
   },
   {
-    "topic": "European red mite 欧洲红蜘蛛",
-    "type": "螨类",
+    "topic": "European red mite",
+    "type": "Mites",
     "uc": [
       "S008"
     ],
@@ -640,11 +640,11 @@
     "nz": [
       null
     ],
-    "gap": "缺新西兰专题来源；地区适用性待审核"
+    "gap": "No New Zealand topic source; regional applicability still to be reviewed"
   },
   {
-    "topic": "Spider mites 叶螨类",
-    "type": "螨类",
+    "topic": "Spider mites",
+    "type": "Mites",
     "uc": [
       "S055"
     ],
@@ -660,11 +660,11 @@
     "nz": [
       null
     ],
-    "gap": "缺新西兰专题来源；地区适用性待审核"
+    "gap": "No New Zealand topic source; regional applicability still to be reviewed"
   },
   {
-    "topic": "Apple rust mite 苹果锈螨",
-    "type": "螨类",
+    "topic": "Apple rust mite",
+    "type": "Mites",
     "uc": [
       null
     ],
@@ -680,11 +680,11 @@
     "nz": [
       null
     ],
-    "gap": "缺新西兰专题来源；地区适用性待审核"
+    "gap": "No New Zealand topic source; regional applicability still to be reviewed"
   },
   {
-    "topic": "San Jose scale 圣何塞蚧",
-    "type": "害虫",
+    "topic": "San Jose scale",
+    "type": "Pest",
     "uc": [
       "S011"
     ],
@@ -700,11 +700,11 @@
     "nz": [
       null
     ],
-    "gap": "缺新西兰专题来源；地区适用性待审核"
+    "gap": "No New Zealand topic source; regional applicability still to be reviewed"
   },
   {
-    "topic": "Leafminers 潜叶蛾类",
-    "type": "害虫",
+    "topic": "Leafminers",
+    "type": "Pest",
     "uc": [
       "S048"
     ],
@@ -721,11 +721,11 @@
     "nz": [
       null
     ],
-    "gap": "缺新西兰专题来源；地区适用性待审核"
+    "gap": "No New Zealand topic source; regional applicability still to be reviewed"
   },
   {
-    "topic": "Leafhoppers 叶蝉类",
-    "type": "害虫",
+    "topic": "Leafhoppers",
+    "type": "Pest",
     "uc": [
       "S047"
     ],
@@ -744,11 +744,11 @@
     "nz": [
       null
     ],
-    "gap": "缺新西兰专题来源；地区适用性待审核"
+    "gap": "No New Zealand topic source; regional applicability still to be reviewed"
   },
   {
-    "topic": "Brown marmorated stink bug 褐斑蝽",
-    "type": "害虫与生物安全",
+    "topic": "Brown marmorated stink bug",
+    "type": "Pests and biosecurity",
     "uc": [
       "S069"
     ],
@@ -764,11 +764,11 @@
     "nz": [
       "S259"
     ],
-    "gap": "已取得来源；具体管理适用性和更新日期待审核"
+    "gap": "Sources obtained; specific management applicability and update dates still to be reviewed"
   },
   {
-    "topic": "Bronze beetle 铜色甲虫",
-    "type": "新西兰害虫",
+    "topic": "Bronze beetle",
+    "type": "New Zealand pests",
     "uc": [
       null
     ],
@@ -785,11 +785,11 @@
       "S201",
       "S202"
     ],
-    "gap": "已取得来源；具体管理适用性和更新日期待审核"
+    "gap": "Sources obtained; specific management applicability and update dates still to be reviewed"
   },
   {
     "topic": "Lesser appleworm",
-    "type": "害虫",
+    "type": "Pest",
     "uc": [
       null
     ],
@@ -805,11 +805,11 @@
     "nz": [
       null
     ],
-    "gap": "缺新西兰专题来源；地区适用性待审核"
+    "gap": "No New Zealand topic source; regional applicability still to be reviewed"
   },
   {
-    "topic": "Oriental fruit moth 东方果蛾",
-    "type": "害虫",
+    "topic": "Oriental fruit moth",
+    "type": "Pest",
     "uc": [
       null
     ],
@@ -825,11 +825,11 @@
     "nz": [
       null
     ],
-    "gap": "缺新西兰专题来源；地区适用性待审核"
+    "gap": "No New Zealand topic source; regional applicability still to be reviewed"
   },
   {
-    "topic": "Plum curculio 李象甲",
-    "type": "害虫",
+    "topic": "Plum curculio",
+    "type": "Pest",
     "uc": [
       null
     ],
@@ -845,11 +845,11 @@
     "nz": [
       null
     ],
-    "gap": "缺新西兰专题来源；地区适用性待审核"
+    "gap": "No New Zealand topic source; regional applicability still to be reviewed"
   },
   {
-    "topic": "Apple mosaic 苹果花叶病",
-    "type": "缺口检查",
+    "topic": "Apple mosaic",
+    "type": "Gap check",
     "uc": [
       null
     ],
@@ -865,11 +865,11 @@
     "nz": [
       null
     ],
-    "gap": "缺少独立专题；可查看综合指南，不能视为完整覆盖"
+    "gap": "No dedicated topic; general guides can be consulted but do not count as full coverage"
   },
   {
-    "topic": "Apple canker NZ management 新西兰溃疡病管理",
-    "type": "地区覆盖",
+    "topic": "Apple canker NZ management",
+    "type": "Regional coverage",
     "uc": [
       "S004"
     ],
@@ -885,6 +885,6 @@
     "nz": [
       "S200"
     ],
-    "gap": "已取得来源；具体管理适用性和更新日期待审核"
+    "gap": "Sources obtained; specific management applicability and update dates still to be reviewed"
   }
 ]

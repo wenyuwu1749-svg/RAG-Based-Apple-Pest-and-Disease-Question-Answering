@@ -1128,7 +1128,7 @@
   "coverage": [
     {
       "topic_id": "T01",
-      "topic": "Apple scab 苹果黑星病",
+      "topic": "Apple scab",
       "new_source_ids": [
         "S267",
         "S268",
@@ -1136,21 +1136,21 @@
         "S285"
       ],
       "status": "technical_or_scoped_research_added",
-      "note": "补入感染期预测历史田间研究与 2023 抗性策略；不等于已取得当前完整喷药规程。"
+      "note": "Added historical field studies on infection-period prediction and the 2023 resistance strategy; this does not amount to a current complete spray protocol."
     },
     {
       "topic_id": "T02",
-      "topic": "Fire blight 火疫病",
+      "topic": "Fire blight",
       "new_source_ids": [
         "S265",
         "S284"
       ],
       "status": "technical_or_scoped_research_added",
-      "note": "有风险监测和文化措施；HortInfo 未注明日期，1996 MARYBLYT 研究不能冒充当前软件参数。"
+      "note": "Risk monitoring and cultural measures available; HortInfo is undated, and the 1996 MARYBLYT study must not be presented as current software parameters."
     },
     {
       "topic_id": "T03",
-      "topic": "Powdery mildew 白粉病",
+      "topic": "Powdery mildew",
       "new_source_ids": [
         "S267",
         "S268",
@@ -1158,11 +1158,11 @@
         "S285"
       ],
       "status": "technical_or_scoped_research_added",
-      "note": "补入 2023 苹果专属策略及历史温室/田间研究；不能将温室乳脂/油乳剂直接推广到成熟果园。"
+      "note": "Added the 2023 apple-specific strategy and historical glasshouse and field studies; glasshouse milk-fat or oil emulsions must not be extrapolated directly to mature orchards."
     },
     {
       "topic_id": "T04",
-      "topic": "European canker 欧洲溃疡病",
+      "topic": "European canker",
       "new_source_ids": [
         "S279",
         "S273",
@@ -1171,345 +1171,345 @@
         "S292"
       ],
       "status": "technical_or_scoped_research_added",
-      "note": "有卫生、修剪、伤口易感性及 2013–2014 铜剂试验；亚磷酸试验为负结果，不能据题名推荐。"
+      "note": "Sanitation, pruning, wound susceptibility and 2013–2014 copper trials available; the phosphorous acid trial was negative and must not be recommended on the basis of its title."
     },
     {
       "topic_id": "T05",
-      "topic": "Apple anthracnose 苹果炭疽溃疡类专题",
+      "topic": "Apple anthracnose (canker) topic",
       "new_source_ids": [],
       "status": "no_new_NZ_source_this_round",
-      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+      "note": "Original scope gap kept; not filled with other crops, regulations or species records."
     },
     {
       "topic_id": "T06",
-      "topic": "Phytophthora root/crown rot 疫霉根腐病",
+      "topic": "Phytophthora root/crown rot",
       "new_source_ids": [],
       "status": "no_new_NZ_source_this_round",
-      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+      "note": "Original scope gap kept; not filled with other crops, regulations or species records."
     },
     {
       "topic_id": "T07",
-      "topic": "Armillaria root rot 蜜环菌根腐病",
+      "topic": "Armillaria root rot",
       "new_source_ids": [],
       "status": "no_new_NZ_source_this_round",
-      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+      "note": "Original scope gap kept; not filled with other crops, regulations or species records."
     },
     {
       "topic_id": "T08",
-      "topic": "Bacterial blossom blast 细菌性花枯",
+      "topic": "Bacterial blossom blast",
       "new_source_ids": [],
       "status": "no_new_NZ_source_this_round",
-      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+      "note": "Original scope gap kept; not filled with other crops, regulations or species records."
     },
     {
       "topic_id": "T09",
-      "topic": "Black rot / Frogeye leaf spot 黑腐病",
+      "topic": "Black rot / Frogeye leaf spot",
       "new_source_ids": [],
       "status": "no_new_NZ_source_this_round",
-      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+      "note": "Original scope gap kept; not filled with other crops, regulations or species records."
     },
     {
       "topic_id": "T10",
-      "topic": "Bitter rot 苦腐病",
+      "topic": "Bitter rot",
       "new_source_ids": [
         "S275",
         "S287"
       ],
       "status": "technical_or_scoped_research_added",
-      "note": "保留日期/地区/苹果寄主与试验限制；尚未制作正式参考答案。"
+      "note": "Date, region, apple-host and trial limitations kept; no formal reference answer written yet."
     },
     {
       "topic_id": "T11",
-      "topic": "White rot 白腐病",
+      "topic": "White rot",
       "new_source_ids": [],
       "status": "no_new_NZ_source_this_round",
-      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+      "note": "Original scope gap kept; not filled with other crops, regulations or species records."
     },
     {
       "topic_id": "T12",
-      "topic": "Sooty blotch / Flyspeck 煤污病与蝇粪病",
+      "topic": "Sooty blotch / Flyspeck",
       "new_source_ids": [],
       "status": "no_new_NZ_source_this_round",
-      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+      "note": "Original scope gap kept; not filled with other crops, regulations or species records."
     },
     {
       "topic_id": "T13",
-      "topic": "Cedar apple / Quince rust 锈病",
+      "topic": "Cedar apple / Quince rust",
       "new_source_ids": [],
       "status": "no_new_NZ_source_this_round",
-      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+      "note": "Original scope gap kept; not filled with other crops, regulations or species records."
     },
     {
       "topic_id": "T14",
-      "topic": "Blue mold 青霉病",
+      "topic": "Blue mold",
       "new_source_ids": [
         "S287",
         "S290"
       ],
       "status": "technical_or_scoped_research_added",
-      "note": "本地酵母/果实研究和清洗风险研究；没有完成商业储藏全流程/当前处理参数核验。"
+      "note": "Local yeast and fruit studies and a washing-risk study; the full commercial storage process and current treatment parameters have not been verified."
     },
     {
       "topic_id": "T15",
-      "topic": "Gray mold 灰霉病",
+      "topic": "Gray mold",
       "new_source_ids": [
         "S290"
       ],
       "status": "partial_research_evidence",
-      "note": "仅清洗混合腐烂试验包含 Botrytis；仍缺 NZ 灰霉病专属管理规程。"
+      "note": "Botrytis appears only in a washing trial on mixed rots; an NZ management protocol specific to gray mold is still missing."
     },
     {
       "topic_id": "T16",
-      "topic": "Bull's eye rot 牛眼腐病",
+      "topic": "Bull's eye rot",
       "new_source_ids": [
         "S277"
       ],
       "status": "technical_or_scoped_research_added",
-      "note": "本地离体果实/实验室研究；半商业热水试验只找到摘要，完整规程待补。"
+      "note": "Local detached-fruit and laboratory studies; only an abstract was found for the semi-commercial hot-water trial; a complete protocol is still needed."
     },
     {
       "topic_id": "T17",
-      "topic": "Mucor rot 毛霉腐烂",
+      "topic": "Mucor rot",
       "new_source_ids": [
         "S290"
       ],
       "status": "partial_research_evidence",
-      "note": "仅清洗混合腐烂试验包含 Mucor；仍缺 NZ 毛霉病专属管理规程。"
+      "note": "Mucor appears only in a washing trial on mixed rots; an NZ management protocol specific to Mucor rot is still missing."
     },
     {
       "topic_id": "T18",
       "topic": "Phacidiopycnis rot",
       "new_source_ids": [],
       "status": "no_new_NZ_source_this_round",
-      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+      "note": "Original scope gap kept; not filled with other crops, regulations or species records."
     },
     {
       "topic_id": "T19",
-      "topic": "Marssonina blotch 苹果褐斑病",
+      "topic": "Marssonina blotch",
       "new_source_ids": [],
       "status": "no_new_NZ_source_this_round",
-      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+      "note": "Original scope gap kept; not filled with other crops, regulations or species records."
     },
     {
       "topic_id": "T20",
-      "topic": "Crown gall 根癌病",
+      "topic": "Crown gall",
       "new_source_ids": [],
       "status": "no_new_NZ_source_this_round",
-      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+      "note": "Original scope gap kept; not filled with other crops, regulations or species records."
     },
     {
       "topic_id": "T21",
-      "topic": "Core rot / Moldy core 果心腐烂",
+      "topic": "Core rot / Moldy core",
       "new_source_ids": [],
       "status": "no_new_NZ_source_this_round",
-      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+      "note": "Original scope gap kept; not filled with other crops, regulations or species records."
     },
     {
       "topic_id": "T22",
-      "topic": "Apple replant disease 连作障碍专题",
+      "topic": "Apple replant disease topic",
       "new_source_ids": [
         "S288"
       ],
       "status": "partial_research_evidence",
-      "note": "M26 根砧及再植土壤研究，不是已验证商业土壤修复方案。"
+      "note": "Study of M26 rootstock and replant soil; not a validated commercial soil remediation method."
     },
     {
       "topic_id": "T23",
-      "topic": "Codling moth 苹果蠹蛾",
+      "topic": "Codling moth",
       "new_source_ids": [
         "S281"
       ],
       "status": "technical_or_scoped_research_added",
-      "note": "保留日期/地区/苹果寄主与试验限制；尚未制作正式参考答案。"
+      "note": "Date, region, apple-host and trial limitations kept; no formal reference answer written yet."
     },
     {
       "topic_id": "T24",
-      "topic": "Apple maggot 苹果实蝇",
+      "topic": "Apple maggot",
       "new_source_ids": [],
       "status": "no_new_NZ_source_this_round",
-      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+      "note": "Original scope gap kept; not filled with other crops, regulations or species records."
     },
     {
       "topic_id": "T25",
-      "topic": "Woolly apple aphid 苹果绵蚜",
+      "topic": "Woolly apple aphid",
       "new_source_ids": [
         "S270",
         "S271",
         "S272"
       ],
       "status": "technical_or_scoped_research_added",
-      "note": "保留日期/地区/苹果寄主与试验限制；尚未制作正式参考答案。"
+      "note": "Date, region, apple-host and trial limitations kept; no formal reference answer written yet."
     },
     {
       "topic_id": "T26",
-      "topic": "Green/apple/spirea aphids 苹果蚜类",
+      "topic": "Green/apple/spirea aphids",
       "new_source_ids": [],
       "status": "no_new_NZ_source_this_round",
-      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+      "note": "Original scope gap kept; not filled with other crops, regulations or species records."
     },
     {
       "topic_id": "T27",
       "topic": "Rosy apple aphid",
       "new_source_ids": [],
       "status": "no_new_NZ_source_this_round",
-      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+      "note": "Original scope gap kept; not filled with other crops, regulations or species records."
     },
     {
       "topic_id": "T28",
       "topic": "Apple grain aphid",
       "new_source_ids": [],
       "status": "no_new_NZ_source_this_round",
-      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+      "note": "Original scope gap kept; not filled with other crops, regulations or species records."
     },
     {
       "topic_id": "T29",
-      "topic": "Leafrollers 卷叶蛾类",
+      "topic": "Leafrollers",
       "new_source_ids": [
         "S261",
         "S280"
       ],
       "status": "technical_or_scoped_research_added",
-      "note": "保留日期/地区/苹果寄主与试验限制；尚未制作正式参考答案。"
+      "note": "Date, region, apple-host and trial limitations kept; no formal reference answer written yet."
     },
     {
       "topic_id": "T30",
-      "topic": "Lightbrown apple moth 浅褐苹果蛾",
+      "topic": "Lightbrown apple moth",
       "new_source_ids": [
         "S261",
         "S280"
       ],
       "status": "technical_or_scoped_research_added",
-      "note": "保留日期/地区/苹果寄主与试验限制；尚未制作正式参考答案。"
+      "note": "Date, region, apple-host and trial limitations kept; no formal reference answer written yet."
     },
     {
       "topic_id": "T31",
-      "topic": "European red mite 欧洲红蜘蛛",
+      "topic": "European red mite",
       "new_source_ids": [
         "S264",
         "S271"
       ],
       "status": "technical_or_scoped_research_added",
-      "note": "保留日期/地区/苹果寄主与试验限制；尚未制作正式参考答案。"
+      "note": "Date, region, apple-host and trial limitations kept; no formal reference answer written yet."
     },
     {
       "topic_id": "T32",
-      "topic": "Spider mites 叶螨类",
+      "topic": "Spider mites",
       "new_source_ids": [
         "S264"
       ],
       "status": "technical_or_scoped_research_added",
-      "note": "保留日期/地区/苹果寄主与试验限制；尚未制作正式参考答案。"
+      "note": "Date, region, apple-host and trial limitations kept; no formal reference answer written yet."
     },
     {
       "topic_id": "T33",
-      "topic": "Apple rust mite 苹果锈螨",
+      "topic": "Apple rust mite",
       "new_source_ids": [],
       "status": "no_new_NZ_source_this_round",
-      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+      "note": "Original scope gap kept; not filled with other crops, regulations or species records."
     },
     {
       "topic_id": "T34",
-      "topic": "San Jose scale 圣何塞蚧",
+      "topic": "San Jose scale",
       "new_source_ids": [],
       "status": "no_new_NZ_source_this_round",
-      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+      "note": "Original scope gap kept; not filled with other crops, regulations or species records."
     },
     {
       "topic_id": "T35",
-      "topic": "Leafminers 潜叶蛾类",
+      "topic": "Leafminers",
       "new_source_ids": [],
       "status": "no_new_NZ_source_this_round",
-      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+      "note": "Original scope gap kept; not filled with other crops, regulations or species records."
     },
     {
       "topic_id": "T36",
-      "topic": "Leafhoppers 叶蝉类",
+      "topic": "Leafhoppers",
       "new_source_ids": [
         "S263"
       ],
       "status": "technical_or_scoped_research_added",
-      "note": "保留日期/地区/苹果寄主与试验限制；尚未制作正式参考答案。"
+      "note": "Date, region, apple-host and trial limitations kept; no formal reference answer written yet."
     },
     {
       "topic_id": "T37",
-      "topic": "Brown marmorated stink bug 褐斑蝽",
+      "topic": "Brown marmorated stink bug",
       "new_source_ids": [],
       "status": "no_new_NZ_source_this_round",
-      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+      "note": "Original scope gap kept; not filled with other crops, regulations or species records."
     },
     {
       "topic_id": "T38",
-      "topic": "Bronze beetle 铜色甲虫",
+      "topic": "Bronze beetle",
       "new_source_ids": [
         "S269"
       ],
       "status": "technical_or_scoped_research_added",
-      "note": "有 Hawke’s Bay 有机苹果土壤耕作试验，年份/土壤/虫龄条件不可忽略；当前全国操作标准待补。"
+      "note": "Hawke’s Bay organic apple soil-cultivation trial available; its year, soil and larval-stage conditions must be respected; a current national operating standard is still needed."
     },
     {
       "topic_id": "T39",
       "topic": "Lesser appleworm",
       "new_source_ids": [],
       "status": "no_new_NZ_source_this_round",
-      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+      "note": "Original scope gap kept; not filled with other crops, regulations or species records."
     },
     {
       "topic_id": "T40",
-      "topic": "Oriental fruit moth 东方果蛾",
+      "topic": "Oriental fruit moth",
       "new_source_ids": [],
       "status": "no_new_NZ_source_this_round",
-      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+      "note": "Original scope gap kept; not filled with other crops, regulations or species records."
     },
     {
       "topic_id": "T41",
-      "topic": "Plum curculio 李象甲",
+      "topic": "Plum curculio",
       "new_source_ids": [],
       "status": "no_new_NZ_source_this_round",
-      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+      "note": "Original scope gap kept; not filled with other crops, regulations or species records."
     },
     {
       "topic_id": "T42",
-      "topic": "Apple mosaic 苹果花叶病",
+      "topic": "Apple mosaic",
       "new_source_ids": [],
       "status": "no_new_NZ_source_this_round",
-      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+      "note": "Original scope gap kept; not filled with other crops, regulations or species records."
     },
     {
       "topic_id": "T43",
-      "topic": "Apple leafcurling midge 苹果卷叶瘿蚊",
+      "topic": "Apple leafcurling midge",
       "new_source_ids": [
         "S266"
       ],
       "status": "technical_or_scoped_research_added",
-      "note": "区分幼树/新嫁接树与成熟树；避免把历史产品时间窗当成当前统一推荐。"
+      "note": "Distinguish young or newly grafted trees from mature trees; historical product timing windows must not be presented as current general recommendations."
     },
     {
       "topic_id": "T44",
-      "topic": "Mealybugs 粉蚧类（苹果）",
+      "topic": "Mealybugs (apple)",
       "new_source_ids": [
         "S262",
         "S278"
       ],
       "status": "technical_or_scoped_research_added",
-      "note": "技术策略＋监测会议摘要；摘要不是完整试验规程，不自动套用其他作物粉蚧阈值。"
+      "note": "Technical strategy and monitoring conference abstract; an abstract is not a complete trial protocol, and mealybug thresholds from other crops are not applied automatically."
     },
     {
       "topic_id": "T45",
-      "topic": "Alternaria 相关苹果病害",
+      "topic": "Alternaria-related apple diseases",
       "new_source_ids": [
         "S290"
       ],
       "status": "partial_research_evidence",
-      "note": "仅涉及采后混合腐烂中的 Alternaria；未补足叶斑/果斑专属 NZ 管理，不推断种名或法定状态。"
+      "note": "Covers Alternaria only within mixed postharvest rots; NZ management specific to leaf or fruit spot is still missing; species names and legal status are not inferred."
     },
     {
       "topic_id": "T46",
-      "topic": "Elsinoe 相关苹果病害",
+      "topic": "Elsinoe-related apple diseases",
       "new_source_ids": [
         "S289"
       ],
       "status": "partial_research_evidence",
-      "note": "仅 Royal Gala 温室/实验室海报摘要；仍缺成熟苹果果园验证及完整管理规程。"
+      "note": "Only a Royal Gala glasshouse/laboratory poster abstract; validation in mature apple orchards and a complete management protocol are still missing."
     }
   ],
   "receipt": {

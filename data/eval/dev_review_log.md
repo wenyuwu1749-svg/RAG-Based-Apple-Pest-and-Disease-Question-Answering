@@ -28,13 +28,13 @@ Reviewer: Claude evidence check (same model as drafter). Method: number check (a
 Summary: 20 reviewed; 11 edited (2 substantive errors), 9 confirmed unchanged; 0 rejected.
 
 
-## 2026-10-20 去除"注明出处"类评分要求（对无 RAG 公平）
+## 2026-10-20 Removal of "cite the source" requirements from scoring (fairness to no RAG)
 
-无 RAG 条件没有资料可引用，凡要求"注明出处 / 依据资料说明"的要点会系统性偏向 RAG。以下修改只保留内容本身，
-"资料中没有某信息"改为"不把未经证实的具体内容当作定论、承认不确定"。题目、答案性质和其他要点未改。
-评委说明同步加入"不因引用或来源名称加分或扣分"（judge-v3-content-only）。
+The no-RAG condition has no material to cite, so required points asking to "cite the source / state according to the material" systematically favour RAG. The changes below keep only the content itself;
+"the material does not contain X" was changed to "does not present unverified specifics as established and acknowledges uncertainty". Questions, the nature of the answers and other points were not changed.
+The judge instructions were updated at the same time with "no credit or penalty for citations or source names" (judge-v3-content-only).
 
-| 题号 | 字段 | 修改前 | 修改后 |
+| Question | Field | Before | After |
 |---|---|---|---|
 | D001 | required_points 4 | spring protective sprays from about tight cluster until shoot growth stops (attributed to source) | spring protective sprays from about tight cluster until shoot growth stops |
 | D002 | required_points 4 | mentions fungicide option only as source-attributed support to sanitation | fungicides mentioned only as support to sanitation, not as the main control |
@@ -52,6 +52,6 @@ Summary: 20 reviewed; 11 edited (2 substantive errors), 9 confirmed unchanged; 0
 | D018 | major_errors 3 | names rootstocks not in the evidence as resistant | names a rootstock known to be susceptible as resistant |
 | D019 | required_points 4 | protective sprays from late bloom/petal fall to mid-June before rain, attributed to Penn State; FRAC 11 ineffective early | protective sprays from late bloom/petal fall to mid-June before rain; FRAC 11 ineffective early |
 
-## 2026-10-20 项目组人工评审（已完成）
+## 2026-10-20 Review by the project team (completed)
 
-评审人：Wenyu Wu（D001、D004、D007、D010、D014、D017、D019）、Dongyang Chen（D002、D006、D008、D011、D015、D018、D020）、Mengshuai Feng（D003、D005、D009、D012、D013、D016）。17 题通过，3 题修改后通过（D013 补充华盛顿触发条件依赖诱捕器与标签；D017 冷藏不能保证防止牛眼腐；D018 砧木资料为海外研究）。开发集已用于调试且结果已产生，为保持与开发结果一致，意见只记录、不修改开发题库；status 记为 reviewed。
+Reviewers: Wenyu Wu (D001, D004, D007, D010, D014, D017, D019), Dongyang Chen (D002, D006, D008, D011, D015, D018, D020), Mengshuai Feng (D003, D005, D009, D012, D013, D016). 17 questions passed and 3 passed after modification (D013: Washington triggers depend on trap type and labels; D017: cold storage does not guarantee prevention of bull's eye rot; D018: rootstock material comes from overseas research). The development set had already been used for tuning and results existed, so to stay consistent with those results the comments are recorded but the development questions were not changed; status is recorded as reviewed.

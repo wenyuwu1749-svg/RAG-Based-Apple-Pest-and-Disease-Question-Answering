@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,interactive-widget=resizes-content"><title>Apple Pest & Disease Q&A</title><link rel="stylesheet" href="/style.css">
+<script>try{const t=localStorage.getItem("apple-rag-theme");if(t==="light"||t==="dark")document.documentElement.dataset.theme=t;}catch{}</script></head>
+<body>
+<div class="app" id="app">
+<aside class="sidebar" id="sidebar" aria-label="Sidebar">
+  <div class="side-top">
+    <a class="brand" href="#qa"><span class="brand-mark" aria-hidden="true">G</span><span>Apple Q&A<small>APPLE KNOWLEDGE</small></span></a>
+    <button id="collapse-sidebar" class="icon-btn" type="button" title="Collapse sidebar" aria-label="Collapse sidebar"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="4" width="18" height="16" rx="3"/><path d="M9 4v16"/></svg></button>
+  </div>
+  <button id="new-chat" class="new-chat" type="button"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg>New chat</button>
+  <div id="chat-list" class="chat-list" role="list" aria-label="Chat history"></div>
+  <nav class="side-nav" aria-label="Other pages">
+    <a href="#experiment" data-view="experiment"><span aria-hidden="true">≋</span>Experiments</a>
+    <a href="#corpus" data-view="corpus"><span aria-hidden="true">▤</span>Knowledge base</a>
+    <a href="#configuration" data-view="configuration"><span aria-hidden="true">⚙</span>API settings</a>
+  </nav>
+  <div class="sidebar-bottom"><span class="status-dot"></span>Running locally · research prototype<small id="sidebar-state">Connecting to the knowledge base…</small></div>
+</aside>
+<div id="scrim" class="scrim" hidden></div>
+<main>
+  <header class="topbar">
+    <button id="open-sidebar" class="icon-btn" type="button" title="Open sidebar" aria-label="Open sidebar"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
+    <div class="topbar-title" id="view-title">New chat</div>
+    <div class="topbar-tools" id="chat-tools">
+      <select id="qa-model" aria-label="Answer model"><option>Loading models…</option></select>
+      <button id="settings-toggle" class="icon-btn" type="button" title="Retrieval and answer settings" aria-label="Retrieval and answer settings" aria-expanded="false" aria-controls="settings-pop"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h10M18 7h2M4 17h4M12 17h8"/><circle cx="16" cy="7" r="2"/><circle cx="10" cy="17" r="2"/></svg></button>
+    </div>
+    <button id="theme-toggle" class="icon-btn" type="button" title="Switch to dark mode" aria-label="Switch to dark mode"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.5A8 8 0 0 1 9.5 4 8 8 0 1 0 20 14.5z"/></svg></button>
+  </header>
+  <div id="settings-pop" class="settings-pop" hidden>
+    <strong>Retrieval and answer settings</strong>
+    <input type="hidden" id="qa-retrieval" value="dense">
+    <div class="pop-grid"><label>Top K<input id="qa-top-k" type="number" min="1" max="30" value="6"></label><label>Max output tokens<input id="qa-output" type="number" min="32" max="8192" value="1024"></label><label hidden>Compression budget (estimated tokens)<input id="qa-budget" type="number" min="100" max="16000" value="4000"></label></div>
+    <p id="retrieval-help" class="hint"></p>
+  </div>
+  <div id="notice" role="status" aria-live="polite" hidden></div>
+  <section id="qa-view" class="view chat-view">
+    <div class="messages-wrap">
+      <div id="messages" class="messages"><div id="thread" class="thread"></div></div>
+      <button id="to-bottom" class="to-bottom" type="button" hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M6 13l6 6 6-6"/></svg>Back to bottom</button>
+    </div>
+    <div class="composer-wrap">
+      <form id="composer" class="composer">
+        <label for="qa-question" class="sr-only">Your question</label>
+        <textarea id="qa-question" rows="1" maxlength="6000" placeholder="Ask about symptoms, conditions or management of apple pests and diseases…"></textarea>
+        <div class="composer-bar">
+          <div class="mode-seg" role="radiogroup" aria-label="Answer mode">
+            <label title="Model knowledge only"><input type="radio" name="qa-mode" value="non_rag"><span>No RAG</span></label>
+            <label title="Retrieve full passages"><input type="radio" name="qa-mode" value="standard" checked><span>Standard RAG</span></label>
+            <label title="Filter and compact the evidence"><input type="radio" name="qa-mode" value="efficient"><span>Token-efficient RAG</span></label>
+          </div>
+          <button id="send" class="send" type="submit" aria-label="Send" title="Send (Enter)" disabled></button>
+        </div>
+      </form>
+      <p class="disclaimer">AI-generated answers may contain errors; check important information · each question is answered independently, without earlier turns</p>
+    </div>
+    <aside id="sources-drawer" class="sources-drawer" aria-label="Evidence" aria-hidden="true">
+      <div class="drawer-head"><h2>Evidence <span id="evidence-count" class="badge">0 items</span></h2><button id="close-sources" class="icon-btn" type="button" aria-label="Close"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+      <div id="qa-sources" class="drawer-body"></div>
+      <p class="region-note"><strong>Check where the sources apply: </strong>Management advice from US sources must be checked against local rules; species-status records are not control guidance.</p>
+    </aside>
+  </section>
+<div id="experiment-view" class="view" hidden><section id="experiment" class="panel"><h2>Batch comparison</h2><div class="grid"><div><label>Models to compare</label><div id="profiles" class="choices"></div></div><div><label>Conditions</label><div class="choices"><label><input type="checkbox" name="mode" value="non_rag" checked> No RAG · model knowledge only</label><label><input type="checkbox" name="mode" value="standard" checked> Standard RAG · full retrieved passages</label><label><input type="checkbox" name="mode" value="efficient" checked> Token-efficient RAG · filtered and compacted evidence</label></div></div></div>
+<label for="questions">Test questions (one per line)</label><textarea id="questions" rows="4">What are the symptoms of apple scab?
+How can codling moth damage be identified in apples?</textarea>
+<div class="settings"><input type="hidden" id="retrieval" value="dense"><label>Top K<input id="top-k" type="number" min="1" max="30" value="6"></label><label hidden>Evidence budget (estimated tokens)<input id="budget" type="number" min="100" max="16000" value="4000"></label><label>Max output tokens<input id="max-output" type="number" min="32" max="8192" value="1024"></label><label>Repeats<input id="repeats" type="number" min="1" max="5" value="1"></label></div>
+<p class="hint">Each request is sent independently in random order; both RAG conditions use the same retrieved passages and all conditions the same output limit. Usage is as reported by the provider; results are written to data/logs.</p><button id="run" class="primary">Run selected conditions</button><span id="run-status" class="hint"></span></section>
+<section id="results" class="panel"><div class="section-head"><h2>Answers and run records</h2><div><a href="/api/export" download="runs.json">Export full JSON</a> · <a href="/api/export.csv" download="runs.csv">Export CSV</a></div></div><p class="hint">Accuracy must be scored against reference answers. The citation check only tests the number range, not whether facts or citations are correct.</p><div id="result-list"><p class="empty">After a run, the result of each model and condition appears here.</p></div></section>
+</div>
+<div id="corpus-view" class="view" hidden><section class="panel corpus-card"><div class="section-head"><h2>Current knowledge base</h2><span class="status-dot"></span></div><div id="corpus-count" class="corpus-number">—<small>chunks</small></div><div id="summary" class="hint">Loading…</div><p id="library-description" class="hint"></p></section><section id="corpus" class="panel"><h2>Shared knowledge base</h2><p>The working knowledge base contains imported web articles and local PDF documents; answers can be traced to the source and page.</p><section class="pdf-management"><h3>Local PDF documents</h3><p class="hint" data-edit-corpus>Reads the data/pdf folder page by page; re-importing updates PDF text and keeps web content. Original PDFs are unchanged. Irrelevant or preview documents are stored but not used for Q&A; extraction is not the same as review.</p><div class="actions"><button id="import-pdfs" data-edit-corpus>Import / update PDFs</button><span id="pdf-summary" class="hint">Loading…</span></div><label for="pdf-search">Search local documents<input id="pdf-search" placeholder="Title, file name or topic"></label><div id="pdf-list" class="pdf-list"></div></section><p class="hint" data-edit-corpus>Web import replaces only the web part of the corpus, keeps PDF text and invalidates the old vector index; archived files are unchanged. The main region of each HTML page is parsed; PDFs are imported above; special pages, tables and extracted text still need review.</p><label>Search web sources<input id="source-search" placeholder="apple scab / Cornell / S001"></label><div id="source-list" class="source-list"></div><div class="actions" data-edit-corpus><button id="import-sources">Update web corpus from selected sources</button><button id="build-index">Build index with the embedding model</button></div><p class="hint" data-edit-corpus>Building the index sends the corpus to the configured embedding service. Standard and token-efficient RAG share this index.</p><label data-edit-corpus>Or import reviewed chunk JSON<input id="json-file" type="file" accept=".json,application/json"></label><button id="import-json" data-edit-corpus>Import JSON and replace the corpus</button><p class="hint" data-edit-corpus>See the project README for the format. Logs are written to data/logs and the chunk database is in data/chunks, including prompts, source metadata and API responses.</p></section></div>
+<div id="configuration-view" class="view" hidden><section id="configuration" class="panel"><h2>Model API configuration</h2><p class="hint">Choose a model, enter its model ID and API key, and save. Keys set with setx as environment variables are loaded automatically. Keys are kept only in memory and never written to a file.</p><label>Model to configure<select id="profile-editor"></select></label><form id="profile-form"><div class="grid"><label>Model ID<input id="p-model" required></label><label>API key (leave empty to keep the current key)<input id="p-key" type="password" autocomplete="new-password"></label></div><details class="advanced" hidden><summary>Advanced settings</summary><div class="grid"><label>Display name<input id="p-name" required></label><label>Base URL<input id="p-url" required placeholder="https://api.example.com/v1"></label><label>Key environment variable<input id="p-env"></label><label>Output limit parameter<select id="p-output"><option>max_tokens</option><option>max_completion_tokens</option></select></label><label>Reasoning effort (none = thinking off)<select id="p-effort"><option value="">not sent</option><option value="none">none (off)</option><option value="minimal">minimal</option><option value="low">low</option><option value="medium">medium</option><option value="high">high</option></select></label><label>Temperature<input id="p-temp" type="number" step="0.1" min="0" max="2" value="0"></label></div><label class="inline"><input id="p-send-temp" type="checkbox">Send temperature (if the model supports it)</label></details><button type="submit" class="primary">Save</button></form><p id="fixed-settings" class="hint fixed-settings"></p>
+<details class="advanced" hidden><summary>Embedding</summary><form id="embedding-form"><div class="grid"><label>Type<select id="e-adapter"><option value="local">Local sentence-transformers</option><option value="remote">Remote compatible API</option></select></label><label>Query prefix (local BGE)<input id="e-prefix"></label><label>Base URL (remote)<input id="e-url"></label><label>Embedding model ID<input id="e-model" required></label><label>Key environment variable<input id="e-env"></label><label>API key (leave empty to keep the current key)<input id="e-key" type="password" autocomplete="new-password"></label></div><button type="submit">Save embedding settings</button></form></details></section>
+</div>
+</main>
+</div>
+<script src="/app.js"></script>
+</body>
+</html>

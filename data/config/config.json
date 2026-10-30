@@ -2,7 +2,7 @@
   "profiles": [
     {
       "id": "demo",
-      "name": "离线管线演示（非真实 LLM）",
+      "name": "Offline pipeline demo (not a real LLM)",
       "adapter": "demo",
       "base_url": "",
       "model": "offline-demo",

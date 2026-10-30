@@ -673,8 +673,8 @@
     "registers/pdf_review_manifest.json": "082e6c965c2422052c4cec37dac37a21a43a08e73d11c5addf365cc09ec6707f",
     "registers/research_scope_v1_20261013.json": "ce2de55c91153398c2e54e36a448e0bcf0389fc51e885af82c3fce614cc8de21",
     "registers/source_register.json": "ea52466cbc28a78dca7a7b4bec03d5aa2df9d6ef92975dc2f4a6a87ce1fe0cc1",
-    "registers/来源登记表.md": "f59a4d2854e8ab621c3a7670eeac3623e2ffcafd73ddc415390ef27704751ce7",
-    "registers/病虫害覆盖表.md": "6cef60458635d347daf0f1ca2cfd951a1689b4917c35d03773f744322a641556"
+    "registers/source_register.md": "f59a4d2854e8ab621c3a7670eeac3623e2ffcafd73ddc415390ef27704751ce7",
+    "registers/pest_disease_coverage.md": "6cef60458635d347daf0f1ca2cfd951a1689b4917c35d03773f744322a641556"
   },
   "unfreeze": "Rename or remove this file and record the reason; any corpus change requires re-verification and a new version."
 }

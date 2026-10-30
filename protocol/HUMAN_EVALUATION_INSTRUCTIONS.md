@@ -4,7 +4,7 @@
 To check whether the automatic judge's 0–4 accuracy scores agree with human judgement, as promised in the proposal ("automatic and blinded human scoring"). Human scores are entered only by the raters; no script or AI fills them in.
 
 ## Sample
-60 answers from the formal experiment (repeat 1 only), 5 from each model × condition stratum, drawn with a fixed seed by `代码/tools/human_eval.py export`. All three raters (Wenyu Wu, Dongyang Chen, Mengshuai Feng) score **the same 60 answers**, each in their own random order.
+60 answers from the formal experiment (repeat 1 only), 5 from each model × condition stratum, drawn with a fixed seed by `code/tools/human_eval.py export`. All three raters (Wenyu Wu, Dongyang Chen, Mengshuai Feng) score **the same 60 answers**, each in their own random order.
 
 ## Blinding
 The rater sheet shows: item ID, question, reference answer, required points, major errors, and the answer (citation markers removed). It does **not** show the model, condition, repeat or the automatic score. The answer key (`*_ANSWER_KEY_do_not_share.csv`) must not be opened by raters before all sheets are returned.
@@ -28,8 +28,8 @@ Estimated time: 60–90 minutes per rater.
 Save and close the file and return it to the same folder. Then run:
 
 ```
-python 代码/tools/human_eval.py import --name test_exp2
-python 代码/tools/human_eval.py agreement --name test_exp2
+python code/tools/human_eval.py import --name test_exp2
+python code/tools/human_eval.py agreement --name test_exp2
 ```
 
 Reported: exact agreement, within-one agreement, quadratic-weighted Cohen's kappa and confusion matrix for every rater pair and for each rater vs the judge, and the mean human–judge difference.

@@ -65,7 +65,7 @@
       "question_type": "symptoms_identification",
       "topic_id": "T01",
       "answerability": "answerable",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T002": {
       "question_en": "In winter I see dark, sunken, cracked patches on some branches of my apple trees. What could they be?",
@@ -73,7 +73,7 @@
       "question_type": "symptoms_identification",
       "topic_id": "T02",
       "answerability": "answerable",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T003": {
       "question_en": "Many of my apples have rough, net-like brown russeting on the skin. What could cause this?",
@@ -81,7 +81,7 @@
       "question_type": "symptoms_identification",
       "topic_id": "T03",
       "answerability": "answerable",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T004": {
       "question_en": "Some apples have tiny shallow holes like pin pricks with a little dead tissue, but no worm inside. What is causing this?",
@@ -89,7 +89,7 @@
       "question_type": "symptoms_identification",
       "topic_id": "T23",
       "answerability": "answerable",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T005": {
       "question_en": "Inside my apples there are brown winding trails and the flesh is breaking down, and the skin has small dimples. What is it?",
@@ -97,7 +97,7 @@
       "question_type": "symptoms_identification",
       "topic_id": "T24",
       "answerability": "answerable",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T006": {
       "question_en": "My apples have small red-purple rings around tiny spots, and the bark has tiny grey crusty scales. What is it and what should I do?",
@@ -105,7 +105,7 @@
       "question_type": "symptoms_identification",
       "topic_id": "T34",
       "answerability": "answerable",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T007": {
       "question_en": "The shoot tips of my apple trees are covered with green aphids and the leaves are sticky with black mould. What should I do?",
@@ -113,7 +113,7 @@
       "question_type": "management_strategy",
       "topic_id": "T26",
       "answerability": "answerable",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T008": {
       "question_en": "My apple leaves have winding or blotchy mines inside them. What is causing this and does it need treatment?",
@@ -121,7 +121,7 @@
       "question_type": "symptoms_identification",
       "topic_id": "T35",
       "answerability": "answerable",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T009": {
       "question_en": "My apple leaves have lots of tiny white speckles, and small pale insects jump off when I touch the leaves. What are they?",
@@ -129,7 +129,7 @@
       "question_type": "symptoms_identification",
       "topic_id": "T36",
       "answerability": "answerable",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T010": {
       "question_en": "The leaves on my apple trees are finely speckled pale and I can see tiny greenish-yellow mites with a dark spot on each side. What are they?",
@@ -137,7 +137,7 @@
       "question_type": "symptoms_identification",
       "topic_id": "T32",
       "answerability": "answerable",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T011": {
       "question_en": "My apples have small dimpled spots, and under the skin the flesh is hard, brown and pithy. What could cause this?",
@@ -145,7 +145,7 @@
       "question_type": "symptoms_identification",
       "topic_id": "T37",
       "answerability": "answerable",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T012": {
       "question_en": "Some apples have sunken round brown spots with pinkish ooze, and the rot goes into the fruit in a cone shape. What is it?",
@@ -153,7 +153,7 @@
       "question_type": "symptoms_identification",
       "topic_id": "T10",
       "answerability": "answerable",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T013": {
       "question_en": "My apples have dark sooty smudges and clusters of tiny black dots on the skin. What is this and is it harmful?",
@@ -161,7 +161,7 @@
       "question_type": "symptoms_identification",
       "topic_id": "T12",
       "answerability": "answerable",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T014": {
       "question_en": "My apple leaves have bright yellow-orange spots on top in spring. What is it?",
@@ -169,7 +169,7 @@
       "question_type": "symptoms_identification",
       "topic_id": "T13",
       "answerability": "answerable",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T015": {
       "question_en": "Some branches have sunken cankers with rings around buds and leaf scars, and the bark is flaky in the centre. What is it?",
@@ -177,7 +177,7 @@
       "question_type": "symptoms_identification",
       "topic_id": "T04",
       "answerability": "answerable",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T016": {
       "question_en": "Young branches on my apple trees have sunken, elliptical orange-brown cankers. What could cause this?",
@@ -185,7 +185,7 @@
       "question_type": "symptoms_identification",
       "topic_id": "T05",
       "answerability": "answerable",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T017": {
       "question_en": "My young nursery apple trees have rough, lumpy galls on the roots and at the base of the trunk. What is it?",
@@ -193,7 +193,7 @@
       "question_type": "symptoms_identification",
       "topic_id": "T20",
       "answerability": "answerable",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T018": {
       "question_en": "New apple trees I planted where an old orchard used to be are growing poorly and look stunted. What is wrong?",
@@ -201,7 +201,7 @@
       "question_type": "conditions_risk",
       "topic_id": "T22",
       "answerability": "answerable",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T019": {
       "question_en": "My apples look fine on the outside, but when I cut them the core has mould. What is this?",
@@ -209,7 +209,7 @@
       "question_type": "symptoms_identification",
       "topic_id": "T21",
       "answerability": "answerable",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T020": {
       "question_en": "The tips of new shoots on my apple trees are wilting and have a small hole with a worm inside. What is it?",
@@ -217,7 +217,7 @@
       "question_type": "symptoms_identification",
       "topic_id": "T40",
       "answerability": "answerable",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T021": {
       "question_en": "Early in spring there are huge numbers of dark green aphids on the opening buds of my apple trees. Should I spray?",
@@ -225,7 +225,7 @@
       "question_type": "management_strategy",
       "topic_id": "T28",
       "answerability": "answerable",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T022": {
       "question_en": "How should I time my sprays for codling moth?",
@@ -233,7 +233,7 @@
       "question_type": "monitoring_sampling",
       "topic_id": "T23",
       "answerability": "answerable",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T023": {
       "question_en": "There are white, mealy insects in the calyx end of my apples. What are they?",
@@ -241,7 +241,7 @@
       "question_type": "symptoms_identification",
       "topic_id": "T44",
       "answerability": "answerable",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T024": {
       "question_en": "The young leaves on my apple trees are tightly rolled, and I found tiny orange maggots inside. What is it and does it need control?",
@@ -249,7 +249,7 @@
       "question_type": "symptoms_identification",
       "topic_id": "T43",
       "answerability": "answerable",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T025": {
       "question_en": "Big holes have been chewed into my young apples in spring by green caterpillars. What are they?",
@@ -257,7 +257,7 @@
       "question_type": "symptoms_identification",
       "topic_id": "T29",
       "answerability": "answerable",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T026": {
       "question_en": "Part of my orchard often stays waterlogged after rain. Which apple rootstocks should I avoid there?",
@@ -265,7 +265,7 @@
       "question_type": "management_strategy",
       "topic_id": "T06",
       "answerability": "answerable",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T027": {
       "question_en": "How do I put out pheromone dispensers to control codling moth?",
@@ -273,7 +273,7 @@
       "question_type": "management_strategy",
       "topic_id": "T23",
       "answerability": "answerable",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T028": {
       "question_en": "When should I spray blossoms to protect against fire blight?",
@@ -281,7 +281,7 @@
       "question_type": "monitoring_sampling",
       "topic_id": "T02",
       "answerability": "answerable",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T029": {
       "question_en": "What can I do to reduce apple scab next year?",
@@ -289,7 +289,7 @@
       "question_type": "management_strategy",
       "topic_id": "T01",
       "answerability": "answerable",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T030": {
       "question_en": "Should I protect the lady beetles and predatory mites in my orchard, and how?",
@@ -297,7 +297,7 @@
       "question_type": "management_strategy",
       "topic_id": "T31",
       "answerability": "answerable",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T031": {
       "question_en": "Some apple leaves have small blisters that started green or red and are turning brown or black. What is it?",
@@ -305,7 +305,7 @@
       "question_type": "symptoms_identification",
       "topic_id": "T33",
       "answerability": "answerable",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T032": {
       "question_en": "Can I use insect netting to keep pests off my apple trees?",
@@ -313,7 +313,7 @@
       "question_type": "management_strategy",
       "topic_id": "T23",
       "answerability": "partial",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T033": {
       "question_en": "Which fungicides should I worry about losing effectiveness against powdery mildew?",
@@ -321,7 +321,7 @@
       "question_type": "management_strategy",
       "topic_id": "T03",
       "answerability": "partial",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T034": {
       "question_en": "How do I know if my apple trees have woolly apple aphid on the roots?",
@@ -329,7 +329,7 @@
       "question_type": "monitoring_sampling",
       "topic_id": "T25",
       "answerability": "answerable",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T035": {
       "question_en": "Brown, papery dead blossoms are hanging on my apple trees after a frosty spell at bloom, but there is no ooze. What is it?",
@@ -337,7 +337,7 @@
       "question_type": "symptoms_identification",
       "topic_id": "T08",
       "answerability": "answerable",
-      "style": "农户口吻"
+      "style": "Farmer's voice"
     },
     "T036": {
       "question_en": "We had a cold, wet spring with long rainy periods during bloom. Now my apple leaves have olive spots. Why did the weather matter?",
@@ -345,7 +345,7 @@
       "question_type": "conditions_risk",
       "topic_id": "T01",
       "answerability": "answerable",
-      "style": "附带地区/环境"
+      "style": "With region or environment context"
     },
     "T037": {
       "question_en": "I'm in New Zealand. How should I prune out European canker in my orchard?",
@@ -353,7 +353,7 @@
       "question_type": "management_strategy",
       "topic_id": "T04",
       "answerability": "answerable",
-      "style": "附带地区/环境"
+      "style": "With region or environment context"
     },
     "T038": {
       "question_en": "I'm in Hawke's Bay, New Zealand. When is the fire blight risk highest and how do I know when to act?",
@@ -361,7 +361,7 @@
       "question_type": "conditions_risk",
       "topic_id": "T02",
       "answerability": "answerable",
-      "style": "附带地区/环境"
+      "style": "With region or environment context"
     },
     "T039": {
       "question_en": "I'm in Nelson, New Zealand. Can parasitic wasps control woolly apple aphid in my orchard?",
@@ -369,7 +369,7 @@
       "question_type": "management_strategy",
       "topic_id": "T25",
       "answerability": "answerable",
-      "style": "附带地区/环境"
+      "style": "With region or environment context"
     },
     "T040": {
       "question_en": "I'm in New Zealand and have lightbrown apple moth caterpillars in my apples. What should I spray?",
@@ -377,7 +377,7 @@
       "question_type": "boundary_insufficient",
       "topic_id": "T30",
       "answerability": "partial",
-      "style": "附带地区/环境"
+      "style": "With region or environment context"
     },
     "T041": {
       "question_en": "I'm in New Zealand. Does mating disruption work for codling moth in apple orchards?",
@@ -385,7 +385,7 @@
       "question_type": "management_strategy",
       "topic_id": "T23",
       "answerability": "answerable",
-      "style": "附带地区/环境"
+      "style": "With region or environment context"
     },
     "T042": {
       "question_en": "It has been a very hot, dry, dusty summer and my apple leaves are bronzing with lots of tiny mites. Why is this happening and what can I change?",
@@ -393,7 +393,7 @@
       "question_type": "conditions_risk",
       "topic_id": "T32",
       "answerability": "answerable",
-      "style": "附带地区/环境"
+      "style": "With region or environment context"
     },
     "T043": {
       "question_en": "I'm in New Zealand and some apple leaves have pale mosaic patterns. Is this apple mosaic virus and how is it managed?",
@@ -401,7 +401,7 @@
       "question_type": "boundary_insufficient",
       "topic_id": "T42",
       "answerability": "unanswerable",
-      "style": "附带地区/环境"
+      "style": "With region or environment context"
     },
     "T044": {
       "question_en": "I'm an organic grower in New Zealand. What can I use against powdery mildew?",
@@ -409,7 +409,7 @@
       "question_type": "management_strategy",
       "topic_id": "T03",
       "answerability": "answerable",
-      "style": "附带地区/环境"
+      "style": "With region or environment context"
     },
     "T045": {
       "question_en": "I'm in New Zealand and found mealybugs in my apple orchard. How can I monitor them?",
@@ -417,7 +417,7 @@
       "question_type": "monitoring_sampling",
       "topic_id": "T44",
       "answerability": "partial",
-      "style": "附带地区/环境"
+      "style": "With region or environment context"
     },
     "T046": {
       "question_en": "My stored apples have a spongy rot that turns black, with brown-black specks around the lenticels. What could it be?",
@@ -425,7 +425,7 @@
       "question_type": "postharvest",
       "topic_id": "T18",
       "answerability": "answerable",
-      "style": "偏僻专题"
+      "style": "Rare topic"
     },
     "T047": {
       "question_en": "Young apples have crescent-shaped scars on the skin. What could cause this?",
@@ -433,7 +433,7 @@
       "question_type": "symptoms_identification",
       "topic_id": "T41",
       "answerability": "answerable",
-      "style": "偏僻专题"
+      "style": "Rare topic"
     },
     "T048": {
       "question_en": "I'm in New Zealand. My apple leaves have small dark spots and I've heard about Elsinoe leaf spot. Could that be it, and what works against it?",
@@ -441,7 +441,7 @@
       "question_type": "boundary_insufficient",
       "topic_id": "T46",
       "answerability": "partial",
-      "style": "偏僻专题"
+      "style": "Rare topic"
     },
     "T049": {
       "question_en": "One of my apple trees is declining, and there is a white fan-shaped fungal growth under the bark at the base. What is it?",
@@ -449,7 +449,7 @@
       "question_type": "symptoms_identification",
       "topic_id": "T07",
       "answerability": "answerable",
-      "style": "偏僻专题"
+      "style": "Rare topic"
     },
     "T050": {
       "question_en": "Small worms are feeding just under the skin of my apples, leaving shallow trails, but they don't reach the core. What could they be?",
@@ -457,7 +457,7 @@
       "question_type": "symptoms_identification",
       "topic_id": "T39",
       "answerability": "answerable",
-      "style": "偏僻专题"
+      "style": "Rare topic"
     }
   },
   "models": {

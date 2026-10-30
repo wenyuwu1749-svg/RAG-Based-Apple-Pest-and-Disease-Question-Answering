@@ -1,6 +1,6 @@
 # AUDIT_REPORT — G6 Apple RAG system (stage 1, 2026-10-21)
 
-Scope: code under `代码/`, data under `data/`, submitted proposal (`Desktop/158888/Proposal/G6_proposal.docx`), current report (`论文/最终版/G6_Final_Report.docx`), Massey report guide. No system code was modified during this audit. No API call was made. A baseline backup with SHA-256 manifest was created at `backups/historical_baseline_20261021/` (108 files).
+Scope: code under `code/`, data under `data/`, the submitted proposal, the report draft at that time, and the Massey report guide. No system code was modified during this audit. No API call was made. A baseline backup with a SHA-256 manifest was created (108 files; not included in this repository).
 
 ## 1. Verification of the report's historical claims
 
