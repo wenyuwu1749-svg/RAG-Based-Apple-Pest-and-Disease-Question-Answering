@@ -38,7 +38,7 @@ protocol/                        experiment protocol, model and API records, aud
 
 ## Notes on the data
 
-All files in this repository are in English. The project was carried out with Chinese working labels, and the documents, workbooks, registers and code were translated for publication; the translation changed labels and notes only, while questions, reference answers, required points, scores and all numbers are unchanged. Two consequences follow from keeping the experimental record intact:
+All files in this repository are in English. The project was carried out with Chinese working labels, and the documents, workbooks, registers and code were translated for publication; the translation changed labels and notes only, while questions, reference answers, required points, scores and all numbers are unchanged. The application itself still accepts Chinese questions (a glossary maps Chinese pest and disease terms to English retrieval terms, and answers follow the language of the question) and has a Chinese/English interface switch; in the code, Chinese text is stored as `\uXXXX` escapes. Two consequences follow from keeping the experimental record intact:
 
 - The formal-experiment log contains one raw model answer (T026, DeepSeek, no RAG) in which the model itself wrote a few Chinese words. Model outputs are published exactly as returned and are not edited.
 - The SHA-256 values recorded in `data/experiments/formal/test_exp2_plan.json` and `data/registers/corpus_freeze.json` identify the files that were used in the experiments, before translation. The translated workbooks and registers in this repository therefore have different hashes.
