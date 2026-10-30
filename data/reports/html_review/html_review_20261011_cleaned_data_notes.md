@@ -32,4 +32,4 @@ Use and later updates:
 
 Verification: 20 regression tests passed, and local retrieval and the compression budget were checked on 6 Chinese and English questions; no external model was called. The retrieval check is not an accuracy evaluation.
 
-[Per-item review table](<html_review_20261011_results.md>) · [Removal receipt](<html_review_20261011_deletion_receipt.json>) · retrieval check (not included)
+[Per-item review table](<html_review_20261011_results.md>) · removal receipt and retrieval check (not included)

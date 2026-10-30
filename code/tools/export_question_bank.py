@@ -1,7 +1,7 @@
 """Export the development and test question banks into one workbook (sheet 1 notes, sheet 2 dev, sheet 3 test).
 
 python code/tools/export_question_bank.py
-Reads data/eval/dev_questions.xlsx and test_questions.xlsx (unchanged) and writes data/eval/G6_question_bank.xlsx.
+Reads data/eval/questions/dev_questions.xlsx and test_questions.xlsx (unchanged) and writes data/eval/questions/G6_question_bank.xlsx.
 """
 import collections
 import hashlib
@@ -15,7 +15,7 @@ ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT / 'code' / 'tools'))
 import question_bank as qb  # noqa: E402
 
-OUT = ROOT / 'data' / 'eval' / 'G6_question_bank.xlsx'
+OUT = ROOT / 'data' / 'eval' / 'questions' / 'G6_question_bank.xlsx'
 FIELDS = [('question_id', 'Question ID', 9), ('question_type', 'Question type', 18), ('answerability', 'Answerability', 12), ('style', 'Question style', 12),
           ('topic_id', 'Topic', 7), ('region', 'Region', 18), ('stage', 'Stage', 12), ('question_en', 'Question', 50),
           ('reference_answer_en', 'Reference answer', 70), ('required_points', 'Required points', 50), ('major_errors', 'Major errors', 40),
@@ -50,8 +50,8 @@ def sheet(wb, title, rows):
 
 
 def main():
-    dev = qb.read_rows(ROOT / 'data' / 'eval' / 'dev_questions.xlsx')
-    test = qb.read_rows(ROOT / 'data' / 'eval' / 'test_questions.xlsx')
+    dev = qb.read_rows(ROOT / 'data' / 'eval' / 'questions' / 'dev_questions.xlsx')
+    test = qb.read_rows(ROOT / 'data' / 'eval' / 'questions' / 'test_questions.xlsx')
     wb = Workbook()
     ws = wb.active
     ws.title = 'Notes'
@@ -83,9 +83,9 @@ def main():
         ('Source IDs / cited chunks', 'Source and chunk identifiers in the frozen corpus corpus-v1-20261014; traceable to the original text in the database'),
         ('Reviewer / status', 'Reviewed by the three team members; test set status frozen, development set reviewed'),
         ('', None),
-        ('Data source', 'Exported by code/tools/export_question_bank.py from data/eval/dev_questions.xlsx and test_questions.xlsx without changing the content.'),
-        ('Source file SHA-256', f"dev {hashlib.sha256((ROOT / 'data/eval/dev_questions.xlsx').read_bytes()).hexdigest()[:16]}…; test {hashlib.sha256((ROOT / 'data/eval/test_questions.xlsx').read_bytes()).hexdigest()[:16]}…"),
-        ('Change log', 'See data/eval/dev_review_log.md and test_review_log.md'),
+        ('Data source', 'Exported by code/tools/export_question_bank.py from data/eval/questions/dev_questions.xlsx and test_questions.xlsx without changing the content.'),
+        ('Source file SHA-256', f"dev {hashlib.sha256((ROOT / 'data/eval/questions/dev_questions.xlsx').read_bytes()).hexdigest()[:16]}…; test {hashlib.sha256((ROOT / 'data/eval/questions/test_questions.xlsx').read_bytes()).hexdigest()[:16]}…"),
+        ('Change log', 'See data/eval/question_review/*/'),
     ]
     for i, (k, v) in enumerate(lines, 1):
         a = ws.cell(i, 1, k)

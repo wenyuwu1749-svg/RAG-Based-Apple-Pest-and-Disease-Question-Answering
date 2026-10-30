@@ -10,7 +10,7 @@ To check whether the automatic judge's 0–4 accuracy scores agree with human ju
 The rater sheet shows: item ID, question, reference answer, required points, major errors, and the answer (citation markers removed). It does **not** show the model, condition, repeat or the automatic score. The answer key (`*_ANSWER_KEY_do_not_share.csv`) must not be opened by raters before all sheets are returned.
 
 ## How to score
-Open your own file `data/eval/human_eval/test_exp2_rater_<YourName>.xlsx`, sheet `scoring`, and enter a whole number 0–4 in column G for every row:
+Open your own file `data/eval/human_blind_scoring/rater_<YourName>.xlsx`, sheet `scoring`, and enter a whole number 0–4 in column G for every row:
 
 | Score | Definition |
 |---|---|

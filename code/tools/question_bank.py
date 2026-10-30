@@ -20,7 +20,7 @@ from openpyxl.worksheet.datavalidation import DataValidation
 PROJECT = Path(__file__).resolve().parents[2]
 DB = PROJECT / 'data' / 'chunks' / 'corpus.sqlite3'
 SCOPE = PROJECT / 'data' / 'registers' / 'research_scope_v1_20261013.json'
-EVAL = PROJECT / 'data' / 'eval'
+EVAL = PROJECT / 'data' / 'eval' / 'questions'
 
 SPLITS = ['dev', 'test']
 QUESTION_TYPES = ['symptoms_identification', 'conditions_risk', 'monitoring_sampling', 'management_strategy', 'postharvest', 'boundary_insufficient']

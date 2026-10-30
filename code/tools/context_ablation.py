@@ -1,7 +1,7 @@
 """Offline retrieval-quality evaluation and token-efficient context ablation (no API calls).
 
-python code/tools/context_ablation.py --name dev_v8 --bank data/eval/dev_questions.xlsx
-python code/tools/context_ablation.py --name test_final --bank data/eval/test_questions.xlsx
+python code/tools/context_ablation.py --name dev_v8 --bank data/eval/questions/dev_questions.xlsx
+python code/tools/context_ablation.py --name test_final --bank data/eval/questions/test_questions.xlsx
 
 Uses the candidate passages actually saved in <name>_results.jsonl (one efficient-condition record
 per question; retrieval is deterministic, so all models share the same candidates) and the gold

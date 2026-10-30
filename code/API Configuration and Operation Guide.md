@@ -59,10 +59,10 @@ Add `--list gemini` to list the model IDs available to that key.
 ## 4. Batch experiment and scoring
 
 ```bash
-python code/tools/run_experiment.py plan --name test_final --bank data/eval/test_questions.xlsx --models claude gemini deepseek
+python code/tools/run_experiment.py plan --name test_final --bank data/eval/questions/test_questions.xlsx --models claude gemini deepseek
 python code/tools/run_experiment.py run --name test_final
 python code/tools/run_experiment.py summary --name test_final
-python code/tools/judge_answers.py run --name test_final --bank data/eval/test_questions.xlsx
+python code/tools/judge_answers.py run --name test_final --bank data/eval/questions/test_questions.xlsx
 python code/tools/judge_answers.py summary --name test_final
 ```
 

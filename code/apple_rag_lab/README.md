@@ -32,7 +32,7 @@ You can also run `python launcher.py`, or `python launcher.py --port 8767` for a
 After the corpus audit of 2026-10-13, 52 of 65 PDFs are admitted with a reviewed scope (199 chunks; 694 pages kept), and 198 web articles provide
 1,845 chunks (one more article is background only), giving **2,044 retrievable chunks**. Many research papers contribute only checked abstract
 excerpts; the rest of their text can be reviewed later and must not be treated as fully reviewed. The audit report is
-`data/reports/corpus_audit_20261013_report.md`; the PDF scope manifest is `data/registers/pdf_review_manifest.json`.
+`data/reports/corpus_audit/corpus_audit_20261013_report.md`; the PDF scope manifest is `data/registers/pdf_review_manifest.json`.
 
 Chinese questions are mapped to English retrieval terms through a glossary of apple pest and disease terms (`query_support.py`), and the answer
 follows the language of the question; this is not general machine translation, so terms outside the glossary should be asked in English.

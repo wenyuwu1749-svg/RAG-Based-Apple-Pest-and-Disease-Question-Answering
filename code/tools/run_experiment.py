@@ -1,7 +1,7 @@
 """Batch experiment runner for the three-condition comparison (no RAG / standard RAG / token-efficient RAG).
 
 Typical use (from the project root):
-  python code/tools/run_experiment.py plan    --name dev_pilot --bank data/eval/dev_questions.xlsx --models gemini deepseek
+  python code/tools/run_experiment.py plan    --name dev_pilot --bank data/eval/questions/dev_questions.xlsx --models gemini deepseek
   python code/tools/run_experiment.py run     --name dev_pilot
   python code/tools/run_experiment.py status  --name dev_pilot
   python code/tools/run_experiment.py summary --name dev_pilot

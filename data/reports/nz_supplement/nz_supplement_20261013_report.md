@@ -115,7 +115,7 @@ Database at this point: 65 PDFs with 1,123 pages and 199 web pages, 4,023 retrie
 
 - Original PDFs: `data/pdf/S269.pdf` etc.; original web pages: `data/other/Apple_Corpus_Sources/raw/S261.html` etc.; cleaned text and reading copies: `cleaned` in the same folder (not included in this repository).
 - Database: `data/chunks/corpus.sqlite3`; reading copies are split into `data/chunks/readable/all_pdf_chunks.md` and `web_chunks.md` (not included in this repository).
-- Review: `data/registers/pdf_review_manifest.json`, `data/reports/nz_supplement_20261013_import_receipt.json`; coverage update: `data/registers/nz_evidence_update_20261013.json`.
+- Review: `data/registers/pdf_review_manifest.json`, the import receipt (not included); coverage update: `data/registers/screening/nz_evidence_update_20261013.json`.
 - Database backup before import: `data/other/backups/corpus-before-nz-supplement-20261013T051808362701.sqlite3` (not included in this repository). Copies of the source register and review manifest from before the import are also kept.
 
 Collection, scope and extraction review are not an expert fact check and do not mean that all New Zealand management evidence is available. Complete management protocols, recent thresholds and rates, and evidence for extending glasshouse or laboratory results to commercial orchards are still gaps, as listed in the table.

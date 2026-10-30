@@ -482,7 +482,7 @@ def dense_state():
 
 
 # Local cross-encoder reranker (v9). Chosen on the development set: dense Top-10 pool -> rerank -> Top-6
-# (data/logs/reranker_eval_dev.csv). Weights are loaded only from the project folder, never downloaded here.
+# (data/experiments/development/reranker_eval_dev.csv). Weights are loaded only from the project folder, never downloaded here.
 RERANK_DIR = PROJECT_ROOT / 'model' / 'ms-marco-MiniLM-L6-v2'
 RERANK_MODEL = 'cross-encoder/ms-marco-MiniLM-L6-v2'
 RERANK_REVISION = '233902d25c440f23af6f7d6e94d2946bac0bee0a'

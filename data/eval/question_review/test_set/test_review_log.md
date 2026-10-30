@@ -106,7 +106,7 @@ The judge instructions were updated at the same time with "no credit or penalty 
 
 ## 2026-10-20 Review by the project team (completed)
 
-Reviewers: Wenyu Wu (T001, T018, T038, T043, T048 and 15 further questions), Dongyang Chen (15 questions), Mengshuai Feng (15 questions); the review workbooks are in `review_records/`. Method: reference answers, required points and major errors were checked sentence by sentence against the cited passages, and the six checks and the review result were filled in.
+Reviewers: Wenyu Wu (T001, T018, T038, T043, T048 and 15 further questions), Dongyang Chen (15 questions), Mengshuai Feng (15 questions); the review workbooks are in `data/eval/question_review/` (test_set and development_set). Method: reference answers, required points and major errors were checked sentence by sentence against the cited passages, and the six checks and the review result were filled in.
 
 Result: of 50 questions, 38 "passed", 12 "passed after modification" and 0 were rejected. All comments asked for added scope and qualifications; following them, notes were added only at the end of the reference answers, without changing required points or major errors (so that the scoring criteria did not change). The question bank status was set to frozen and reviewer to the actual reviewer.
 

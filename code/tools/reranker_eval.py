@@ -1,6 +1,6 @@
 """Offline evaluation of a local cross-encoder reranker on the DEVELOPMENT set (no API calls).
 
-python code/tools/reranker_eval.py --bank data/eval/dev_questions.xlsx --pool 10 20 30
+python code/tools/reranker_eval.py --bank data/eval/questions/dev_questions.xlsx --pool 10 20 30
 
 Baseline: dense cosine Top-6. Reranked: dense Top-N pool -> cross-encoder score on (question,
 title | section | passage) -> Top-6. Same-source management expansion is applied afterwards in both

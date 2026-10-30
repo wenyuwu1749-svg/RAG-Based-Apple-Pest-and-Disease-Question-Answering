@@ -1,6 +1,6 @@
 """Blinded human scoring: export a stratified sample, import filled sheets, compute agreement.
 
-python code/tools/human_eval.py export --name test_v9 --bank data/eval/test_questions.xlsx --n 60 --raters "Wenyu Wu" "Dongyang Chen" "Mengshuai Feng"
+python code/tools/human_eval.py export --name test_v9 --bank data/eval/questions/test_questions.xlsx --n 60 --raters "Wenyu Wu" "Dongyang Chen" "Mengshuai Feng"
 python code/tools/human_eval.py import --name test_v9
 python code/tools/human_eval.py agreement --name test_v9
 
@@ -31,7 +31,7 @@ sys.path.insert(0, str(ROOT / 'code' / 'tools'))
 import question_bank as qb  # noqa: E402
 
 LOGS = ROOT / 'data' / 'logs'
-OUT = ROOT / 'data' / 'eval' / 'human_eval'
+OUT = ROOT / 'data' / 'eval' / 'human_blind_scoring'
 RUBRIC = [('4', 'Core answer (diagnosis or main fact) correct; advice complete and correct'),
           ('3', 'Core answer correct; main advice correct, only secondary details missing'),
           ('2', 'Core answer correct, but advice sparse or generic'),

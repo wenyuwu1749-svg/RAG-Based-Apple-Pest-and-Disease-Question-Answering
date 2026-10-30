@@ -2,7 +2,7 @@
 
 Values as reported in the final report (Section 6.2, Table 7, Section 7.9). The exact request of every call, the model name
 returned by the provider, token usage, finish reason and retry information are stored per call in
-`data/logs/test_exp2_results_public.jsonl` (formal experiment) and `data/logs/test_final_results_public.jsonl` (preliminary experiment).
+`data/experiments/formal/test_exp2_results_public.jsonl` and `data/experiments/preliminary/test_final_results_public.jsonl`.
 
 ## Models
 

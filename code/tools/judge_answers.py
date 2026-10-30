@@ -1,6 +1,6 @@
 """Score experiment answers against the question bank with an LLM judge (per-point grading).
 
-python code/tools/judge_answers.py run --name dev_final3 --bank data/eval/dev_questions.xlsx
+python code/tools/judge_answers.py run --name dev_final3 --bank data/eval/questions/dev_questions.xlsx
 python code/tools/judge_answers.py summary --name dev_final3
 
 Reads data/logs/<name>_answers.csv (from run_experiment.py summary) and writes

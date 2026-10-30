@@ -7,8 +7,8 @@ Scope: code under `code/`, data under `data/`, the submitted proposal, the repor
 | Claim in report | Evidence checked | Result |
 |---|---|---|
 | 250 sources, 2,044 chunks (199 PDF + 1,845 web) | `data/chunks/corpus.sqlite3`, `data/reports/corpus_verification.json`, freeze record | Verified (corpus hash 412c2b17…, freeze corpus-v1-20261014) |
-| 20 dev / 50 test questions | `data/eval/dev_questions.xlsx`, `test_questions.xlsx` (validator: 0 errors) | Verified; T043 has no gold chunk (unanswerable by design) |
-| 3 LLMs × 3 conditions, 450 test answers | `data/logs/test_final_plan.json` (450 tasks), `test_final_results.jsonl` (450 records, 450 success, 0 duplicate task IDs) | Verified |
+| 20 dev / 50 test questions | `data/eval/questions/dev_questions.xlsx`, `test_questions.xlsx` (validator: 0 errors) | Verified; T043 has no gold chunk (unanswerable by design) |
+| 3 LLMs × 3 conditions, 450 test answers | `data/experiments/preliminary/test_final_plan.json` (450 tasks), `test_final_results.jsonl` (450 records, 450 success, 0 duplicate task IDs) | Verified |
 | 450 judged answers | `test_final_judged.jsonl` (450 with score) | Verified |
 | Dev runs | `dev_final3` (180/180, judged 180 Haiku + 120 GPT), `dev_v8` (180/180, judged 180) | Verified |
 | Repeats | All plans have `repeats = 1` | Report correctly states one call per item |
