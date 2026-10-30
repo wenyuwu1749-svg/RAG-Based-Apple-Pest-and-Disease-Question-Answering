@@ -36,15 +36,12 @@ data/
 protocol/                        experiment protocol, model and API records, audit of the preliminary experiment
 ```
 
-> **Language.** The project was carried out with Chinese working labels. For this repository all file names, documents, workbooks,
-> registers, logs and code have been translated into English, with three deliberate exceptions:
-> (1) the Chinese query glossary in `code/apple_rag_lab/query_support.py` and the Chinese questions in its tests are kept, because the
-> application accepts Chinese questions and maps them to English retrieval terms; (2) one model answer in the formal-experiment logs
-> (T026, DeepSeek, no RAG) contains Chinese words produced by the model itself and is kept unchanged as raw output;
-> (3) in logged commands, the original Chinese name of the code folder was replaced by `code`.
-> Because the workbooks and registers were translated, their SHA-256 values differ from the hashes recorded in
-> `data/experiments/formal/test_exp2_plan.json` and `data/registers/corpus_freeze.json`, which refer to the original Chinese-labelled files used in the experiments.
-> The translation changed labels and notes only; questions, reference answers, required points, scores and all numbers are unchanged.
+## Notes on the data
+
+All files in this repository are in English. The project was carried out with Chinese working labels, and the documents, workbooks, registers and code were translated for publication; the translation changed labels and notes only, while questions, reference answers, required points, scores and all numbers are unchanged. Two consequences follow from keeping the experimental record intact:
+
+- The formal-experiment log contains one raw model answer (T026, DeepSeek, no RAG) in which the model itself wrote a few Chinese words. Model outputs are published exactly as returned and are not edited.
+- The SHA-256 values recorded in `data/experiments/formal/test_exp2_plan.json` and `data/registers/corpus_freeze.json` identify the files that were used in the experiments, before translation. The translated workbooks and registers in this repository therefore have different hashes.
 
 ---
 

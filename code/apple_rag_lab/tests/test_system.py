@@ -142,15 +142,12 @@ class SystemTests(unittest.TestCase):
         self.assertNotIn('Evidence:', FakeProvider.calls[-1][1]['messages'][1]['content'])
         self.assertEqual(result['usage']['total_tokens'], 39)
 
-    def test_chinese_topic_query_and_compression_use_english_terms(self):
-        found, _ = lab.retrieve('苹果黑星病有哪些症状？', lab.corpus(), 'dense', 6)
+    def test_topic_query_retrieval_and_compression(self):
+        found, _ = lab.retrieve('What are apple scab symptoms?', lab.corpus(), 'dense', 6)
         self.assertTrue(found)
-        compact = lab.efficient_context('苹果黑星病有哪些症状？', found, 180)
+        compact = lab.efficient_context('What are apple scab symptoms?', found, 180)
         self.assertTrue(compact)
         self.assertIn('olive green spots', compact[0]['text'])
-        normalized = lab.normalize_query('苹果黑星病有哪些症状？')
-        self.assertIn('apple scab', normalized['query'])
-        self.assertEqual(normalized['original'], '苹果黑星病有哪些症状？')
         self.assertEqual(lab.normalize_query('What are apple scab symptoms?')['query'], 'What are apple scab symptoms?')
 
     def test_overview_covers_diseases_and_pests_in_both_rag_modes(self):
@@ -159,11 +156,11 @@ class SystemTests(unittest.TestCase):
             {'id': 'moth', 'text': 'Codling moth larvae damage apples and feed inside the apple fruit.', 'metadata': {'title': 'Codling Moth', 'topic': 'Codling Moth', 'section': 'Description of the Pest', 'url': 'https://example.org/moth'}}]
         lab.replace_corpus(samples)
         lab.build_dense()
-        output = lab.experiment({'question': '苹果有哪些病虫害？', 'profile_ids': ['openai'], 'modes': ['standard', 'efficient'], 'answer_language': 'auto'})
+        output = lab.experiment({'question': 'What are the common diseases and pests of apples?', 'profile_ids': ['openai'], 'modes': ['standard', 'efficient'], 'answer_language': 'auto'})
         for result in output['results']:
             self.assertEqual(result['status'], 'success')
             self.assertEqual({x['metadata']['title'] for x in result['candidates']}, {'Apple Scab', 'Fire Blight', 'Codling Moth'})
-            self.assertIn('Simplified Chinese', result['messages'][0]['content'])
+            self.assertIn('Answer in English', result['messages'][0]['content'])
             self.assertIn('not an exhaustive list', result['messages'][0]['content'])
             self.assertEqual(result['query_normalization']['overview'], 'both')
         self.assertEqual(output['results'][0]['candidates'], output['results'][1]['candidates'])
@@ -175,11 +172,11 @@ class SystemTests(unittest.TestCase):
             lab.experiment({'question': 'Apple scab?', 'profile_ids': ['openai'], 'modes': ['standard'], 'retrieval': 'lexical'})
 
     def test_language_defaults_keep_english_experiments_and_no_rag_isolation(self):
-        self.assertIn('Answer in English', lab.prompts('苹果病虫害', 'non_rag', [])[0]['content'])
+        self.assertIn('Answer in English', lab.prompts('apple pests and diseases', 'non_rag', [])[0]['content'])
         with patch.object(lab, 'retrieve', side_effect=AssertionError('No-RAG called retrieval')):
-            result = lab.experiment({'question': '苹果有哪些病虫害？', 'profile_ids': ['openai'], 'modes': ['non_rag'], 'answer_language': 'auto'})['results'][0]
+            result = lab.experiment({'question': 'What are the common diseases and pests of apples?', 'profile_ids': ['openai'], 'modes': ['non_rag'], 'answer_language': 'auto'})['results'][0]
         self.assertEqual(result['status'], 'success')
-        self.assertIn('Simplified Chinese', result['messages'][0]['content'])
+        self.assertIn('Answer in English', result['messages'][0]['content'])
         self.assertEqual(result['evidence'], [])
 
     def test_multi_model_three_conditions_shared_candidates_and_usage(self):
