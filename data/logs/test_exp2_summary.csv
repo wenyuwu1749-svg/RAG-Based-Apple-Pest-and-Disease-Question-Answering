@@ -1,0 +1,13 @@
+﻿model,condition,tasks,success,errors,truncated,median_end_to_end_s,median_service_s,median_generation_s,median_input_tokens,median_output_tokens,median_total_tokens,total_hidden_reasoning_tokens,tasks_with_cache_hits,tasks_retried,total_retry_wait_s
+claude,efficient,150,150,0,1,4.246,4.246,3.865,2702.5,536.5,3188.0,0,0,0,0.0
+claude,headers_only,150,150,0,2,4.448,4.448,4.082,2995.5,577.0,3560.5,0,0,0,0.0
+claude,non_rag,150,150,0,0,4.31,4.31,4.272,275.5,532.5,809.5,0,0,0,0.0
+claude,standard,150,150,0,5,4.696,4.696,4.295,4136.5,640.5,4841.0,0,0,0,0.0
+deepseek,efficient,150,150,0,0,3.041,3.041,2.659,1716.0,295.0,1985.0,0,150,0,0.0
+deepseek,headers_only,150,150,0,0,3.162,3.162,2.816,1875.5,320.5,2261.0,0,150,0,0.0
+deepseek,non_rag,150,150,0,0,3.724,3.724,3.685,173.0,342.5,511.5,0,0,0,0.0
+deepseek,standard,150,150,0,0,3.28,3.28,2.896,2572.0,336.0,2933.5,0,150,0,0.0
+gemini,efficient,150,150,0,0,2.912,2.912,2.534,1704.5,177.5,1829.5,0,0,0,0.0
+gemini,headers_only,150,150,0,0,3.129,3.129,2.755,1872.5,199.5,2107.5,0,0,0,0.0
+gemini,non_rag,150,150,0,0,3.643,3.643,3.6,163.0,298.5,458.5,0,0,0,0.0
+gemini,standard,150,150,0,0,3.177,3.177,2.796,2626.5,220.0,2853.5,0,0,0,0.0

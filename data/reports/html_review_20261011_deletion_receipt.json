@@ -1,0 +1,266 @@
+[
+  {
+    "source_id": "S030",
+    "path": "D:\\CodexWork\\Working\\158888\\data\\other\\Apple_Corpus_Sources\\raw\\S030.html",
+    "reason": "目录／发现入口：不是独立技术文章，已保留有效子文章及来源网址。",
+    "original_sha256": "5095d5a864fa4730d72352789e9103bd8e27798f74d0d58861ff26922ca854fd",
+    "action": "sent_to_windows_recycle_bin",
+    "completed_at": "2026-10-11T06:14:05.5362104Z"
+  },
+  {
+    "source_id": "S031",
+    "path": "D:\\CodexWork\\Working\\158888\\data\\other\\Apple_Corpus_Sources\\raw\\S031.html",
+    "reason": "目录／发现入口：不是独立技术文章，已保留有效子文章及来源网址。",
+    "original_sha256": "692abe135f794805f7f75840d8609fba0dc0838d67bb7dcf7a46c82e77639ef4",
+    "action": "sent_to_windows_recycle_bin",
+    "completed_at": "2026-10-11T06:14:05.5627343Z"
+  },
+  {
+    "source_id": "S032",
+    "path": "D:\\CodexWork\\Working\\158888\\data\\other\\Apple_Corpus_Sources\\raw\\S032.html",
+    "reason": "目录／发现入口：不是独立技术文章，已保留有效子文章及来源网址。",
+    "original_sha256": "79868a684a05c1e546c0c04ba00f99d1233b8661aa2b237362d343edf7f70fca",
+    "action": "sent_to_windows_recycle_bin",
+    "completed_at": "2026-10-11T06:14:05.5743149Z"
+  },
+  {
+    "source_id": "S033",
+    "path": "D:\\CodexWork\\Working\\158888\\data\\other\\Apple_Corpus_Sources\\raw\\S033.html",
+    "reason": "目录／发现入口：不是独立技术文章，已保留有效子文章及来源网址。",
+    "original_sha256": "707ee50229a668a8855b43e9e9da2368d981f73fd4487d6a7c25f2bea25b76ef",
+    "action": "sent_to_windows_recycle_bin",
+    "completed_at": "2026-10-11T06:14:05.5850325Z"
+  },
+  {
+    "source_id": "S034",
+    "path": "D:\\CodexWork\\Working\\158888\\data\\other\\Apple_Corpus_Sources\\raw\\S034.html",
+    "reason": "目录／发现入口：不是独立技术文章，已保留有效子文章及来源网址。",
+    "original_sha256": "b262f72fedbfe22c77199af418f56e7d57aee9abea1adbc9261f2f1a60d65a21",
+    "action": "sent_to_windows_recycle_bin",
+    "completed_at": "2026-10-11T06:14:05.5955343Z"
+  },
+  {
+    "source_id": "S035",
+    "path": "D:\\CodexWork\\Working\\158888\\data\\other\\Apple_Corpus_Sources\\raw\\S035.html",
+    "reason": "目录／发现入口：不是独立技术文章，已保留有效子文章及来源网址。",
+    "original_sha256": "7f46b95b4b370e6961a443ed3d92f9037014b6f0467683f0dd97885ad1b0d9da",
+    "action": "sent_to_windows_recycle_bin",
+    "completed_at": "2026-10-11T06:14:05.6062565Z"
+  },
+  {
+    "source_id": "S081",
+    "path": "D:\\CodexWork\\Working\\158888\\data\\other\\Apple_Corpus_Sources\\raw\\S081.html",
+    "reason": "梨园梨木虱生物防治为主要应用范围；未确认本文管理措施适用于苹果。",
+    "original_sha256": "45643d2eaf3723bda3cd83de40e8861b618bca5e43bcbb7c40732f853201cf65",
+    "action": "sent_to_windows_recycle_bin",
+    "completed_at": "2026-10-11T06:14:05.6263172Z"
+  },
+  {
+    "source_id": "S094",
+    "path": "D:\\CodexWork\\Working\\158888\\data\\other\\Apple_Corpus_Sources\\raw\\S094.html",
+    "reason": "California prionus：正文未确认苹果适用性；不以泛果树描述代替苹果证据。",
+    "original_sha256": "0a14cf7ee149d4524f46d0bc3f15e75bdac610539ccd42600db645c6725323e4",
+    "action": "sent_to_windows_recycle_bin",
+    "completed_at": "2026-10-11T06:14:05.6371079Z"
+  },
+  {
+    "source_id": "S097",
+    "path": "D:\\CodexWork\\Working\\158888\\data\\other\\Apple_Corpus_Sources\\raw\\S097.html",
+    "reason": "Carpenterworm：主要描述其他树种，正文未确认苹果适用性。",
+    "original_sha256": "4d8e6347bc0075934b792b4d884a88afa02ded8063bfdf8ea09a4d531cb1eb32",
+    "action": "sent_to_windows_recycle_bin",
+    "completed_at": "2026-10-11T06:14:05.6609925Z"
+  },
+  {
+    "source_id": "S104",
+    "path": "D:\\CodexWork\\Working\\158888\\data\\other\\Apple_Corpus_Sources\\raw\\S104.html",
+    "reason": "Eriophyes inaequalis：涉及樱桃斑驳叶病毒及野生苦樱桃宿主，非苹果专题。",
+    "original_sha256": "8806c566d1bd1d57e1641752eb22e84a8b7a46ffd22c31e4f0cf67259fb230f4",
+    "action": "sent_to_windows_recycle_bin",
+    "completed_at": "2026-10-11T06:14:05.6719419Z"
+  },
+  {
+    "source_id": "S110",
+    "path": "D:\\CodexWork\\Working\\158888\\data\\other\\Apple_Corpus_Sources\\raw\\S110.html",
+    "reason": "Grasshoppers：通用果园资料，本文未建立苹果应用范围。",
+    "original_sha256": "d9572bf9d286eb18e9cae464310f3b3e6caee113b0d3903d3c83327b9d6bede3",
+    "action": "sent_to_windows_recycle_bin",
+    "completed_at": "2026-10-11T06:14:05.6828654Z"
+  },
+  {
+    "source_id": "S130",
+    "path": "D:\\CodexWork\\Working\\158888\\data\\other\\Apple_Corpus_Sources\\raw\\S130.html",
+    "reason": "Peachtree borer：所列宿主为核果，非苹果专题。",
+    "original_sha256": "090905870fc3b990dae123dbb209ccaa71c2386cec84b283bc8551f810c77474",
+    "action": "sent_to_windows_recycle_bin",
+    "completed_at": "2026-10-11T06:14:05.6935231Z"
+  },
+  {
+    "source_id": "S139",
+    "path": "D:\\CodexWork\\Working\\158888\\data\\other\\Apple_Corpus_Sources\\raw\\S139.html",
+    "reason": "Sawflies in general：简短通用介绍；未建立苹果物种、危害或管理证据。",
+    "original_sha256": "6a4d38217f6f179fc740cde3a34cbdce9ac0545a88625bcf9a13f6890e422f98",
+    "action": "sent_to_windows_recycle_bin",
+    "completed_at": "2026-10-11T06:14:05.7041777Z"
+  },
+  {
+    "source_id": "S149",
+    "path": "D:\\CodexWork\\Working\\158888\\data\\other\\Apple_Corpus_Sources\\raw\\S149.html",
+    "reason": "Trechnites：本文针对梨木虱的寄生蜂资料，不能直接作为苹果防治依据。",
+    "original_sha256": "46070457dc2af43801318e9c0373ba9b35e4f197bf0ea01b74b85af5db8f0906",
+    "action": "sent_to_windows_recycle_bin",
+    "completed_at": "2026-10-11T06:14:05.7143602Z"
+  },
+  {
+    "source_id": "S152",
+    "path": "D:\\CodexWork\\Working\\158888\\data\\other\\Apple_Corpus_Sources\\raw\\S152.html",
+    "reason": "Vespid wasps：主要讨论梨木虱，缺少可用于苹果问题的具体证据。",
+    "original_sha256": "4617ad8a8213eff623860ee1fb51692ecd8a8915c604b8439c219cef827fa434",
+    "action": "sent_to_windows_recycle_bin",
+    "completed_at": "2026-10-11T06:14:05.7251285Z"
+  },
+  {
+    "source_id": "S173",
+    "path": "D:\\CodexWork\\Working\\158888\\data\\other\\Apple_Corpus_Sources\\raw\\S173.html",
+    "reason": "目录／发现入口：不是独立技术文章，已保留有效子文章及来源网址。",
+    "original_sha256": "e32e5195617d284eee0975af90b3006ed0b0a96d93ea58611d4a94a7d9680457",
+    "action": "sent_to_windows_recycle_bin",
+    "completed_at": "2026-10-11T06:14:05.7357590Z"
+  },
+  {
+    "source_id": "S186",
+    "path": "D:\\CodexWork\\Working\\158888\\data\\other\\Apple_Corpus_Sources\\raw\\S186.html",
+    "reason": "目录／发现入口：不是独立技术文章，已保留有效子文章及来源网址。",
+    "original_sha256": "a2afb4b26edf2898ec37f9988ac17f831b68f77e210ef924f23d03d449cfcaa3",
+    "action": "sent_to_windows_recycle_bin",
+    "completed_at": "2026-10-11T06:14:05.7463100Z"
+  },
+  {
+    "source_id": "S187",
+    "path": "D:\\CodexWork\\Working\\158888\\data\\other\\Apple_Corpus_Sources\\raw\\S187.html",
+    "reason": "目录／发现入口：不是独立技术文章，已保留有效子文章及来源网址。",
+    "original_sha256": "405885dc0e868ab92d914ef9f4b5d17944f64051e78c71e01165806ed89a6621",
+    "action": "sent_to_windows_recycle_bin",
+    "completed_at": "2026-10-11T06:14:05.7671574Z"
+  },
+  {
+    "source_id": "S188",
+    "path": "D:\\CodexWork\\Working\\158888\\data\\other\\Apple_Corpus_Sources\\raw\\S188.html",
+    "reason": "目录／发现入口：不是独立技术文章，已保留有效子文章及来源网址。",
+    "original_sha256": "8a3e12518aa881f7f6b6638cc5df59c7ac27c5b02873184240d4963d3f04e32f",
+    "action": "sent_to_windows_recycle_bin",
+    "completed_at": "2026-10-11T06:14:05.7775551Z"
+  },
+  {
+    "source_id": "S189",
+    "path": "D:\\CodexWork\\Working\\158888\\data\\other\\Apple_Corpus_Sources\\raw\\S189.html",
+    "reason": "目录／发现入口：不是独立技术文章，已保留有效子文章及来源网址。",
+    "original_sha256": "a196a8b4006c726d974348b1ba85f579eb6701ef4212e331a5a1fbe19ce81399",
+    "action": "sent_to_windows_recycle_bin",
+    "completed_at": "2026-10-11T06:14:05.7886097Z"
+  },
+  {
+    "source_id": "S190",
+    "path": "D:\\CodexWork\\Working\\158888\\data\\other\\Apple_Corpus_Sources\\raw\\S190.html",
+    "reason": "目录／发现入口：不是独立技术文章，已保留有效子文章及来源网址。",
+    "original_sha256": "3aab80ef48560382bbce3825204c424ab87fcadeff508a8f53e3a23f917043ea",
+    "action": "sent_to_windows_recycle_bin",
+    "completed_at": "2026-10-11T06:14:05.7996378Z"
+  },
+  {
+    "source_id": "S191",
+    "path": "D:\\CodexWork\\Working\\158888\\data\\other\\Apple_Corpus_Sources\\raw\\S191.html",
+    "reason": "目录／发现入口：不是独立技术文章，已保留有效子文章及来源网址。",
+    "original_sha256": "fa4f447bba30d09158c94c591972b8212f5e9ddc871133c0ab646b4e8e330fa8",
+    "action": "sent_to_windows_recycle_bin",
+    "completed_at": "2026-10-11T06:14:05.8101299Z"
+  },
+  {
+    "source_id": "S192",
+    "path": "D:\\CodexWork\\Working\\158888\\data\\other\\Apple_Corpus_Sources\\raw\\S192.html",
+    "reason": "目录／发现入口：不是独立技术文章，已保留有效子文章及来源网址。",
+    "original_sha256": "5fe0f25ff22dbd90f8f1f0868764272c30bd25a4c8c27e1ec425a0492b3cf246",
+    "action": "sent_to_windows_recycle_bin",
+    "completed_at": "2026-10-11T06:14:05.8209923Z"
+  },
+  {
+    "source_id": "S193",
+    "path": "D:\\CodexWork\\Working\\158888\\data\\other\\Apple_Corpus_Sources\\raw\\S193.html",
+    "reason": "目录／发现入口：不是独立技术文章，已保留有效子文章及来源网址。",
+    "original_sha256": "123fe67dddc86508dcc58a8d1be5ebe60469031e5c12320ddda1ef1e5a30e3d7",
+    "action": "sent_to_windows_recycle_bin",
+    "completed_at": "2026-10-11T06:14:05.8328683Z"
+  },
+  {
+    "source_id": "S194",
+    "path": "D:\\CodexWork\\Working\\158888\\data\\other\\Apple_Corpus_Sources\\raw\\S194.html",
+    "reason": "目录／发现入口：不是独立技术文章，已保留有效子文章及来源网址。",
+    "original_sha256": "8e6425e669439a88fa5f00ad8a05f5b064687d7820b9b5d586c89849b10f64bb",
+    "action": "sent_to_windows_recycle_bin",
+    "completed_at": "2026-10-11T06:14:05.8438495Z"
+  },
+  {
+    "source_id": "S195",
+    "path": "D:\\CodexWork\\Working\\158888\\data\\other\\Apple_Corpus_Sources\\raw\\S195.html",
+    "reason": "目录／发现入口：不是独立技术文章，已保留有效子文章及来源网址。",
+    "original_sha256": "a6f8f163fec3c70a0c656227f3ec8e82e02493374a743a6356823b6a648005ba",
+    "action": "sent_to_windows_recycle_bin",
+    "completed_at": "2026-10-11T06:14:05.8681949Z"
+  },
+  {
+    "source_id": "S196",
+    "path": "D:\\CodexWork\\Working\\158888\\data\\other\\Apple_Corpus_Sources\\raw\\S196.html",
+    "reason": "目录／发现入口：不是独立技术文章，已保留有效子文章及来源网址。",
+    "original_sha256": "e275dc31a9fdd073a1037b8af3d7e986d1f75551445103d84a2b2b3dd0124a08",
+    "action": "sent_to_windows_recycle_bin",
+    "completed_at": "2026-10-11T06:14:05.8794393Z"
+  },
+  {
+    "source_id": "S197",
+    "path": "D:\\CodexWork\\Working\\158888\\data\\other\\Apple_Corpus_Sources\\raw\\S197.html",
+    "reason": "目录／发现入口：不是独立技术文章，已保留有效子文章及来源网址。",
+    "original_sha256": "1d761249c0112f1e95358590c0ed759f8db53c8a1b64e5427c31436e1440e917",
+    "action": "sent_to_windows_recycle_bin",
+    "completed_at": "2026-10-11T06:14:05.8904293Z"
+  },
+  {
+    "source_id": "S198",
+    "path": "D:\\CodexWork\\Working\\158888\\data\\other\\Apple_Corpus_Sources\\raw\\S198.html",
+    "reason": "目录／发现入口：不是独立技术文章，已保留有效子文章及来源网址。",
+    "original_sha256": "192db86c29a649a0409266656956bc097754f0f4dcbc64096c0f1521440526cc",
+    "action": "sent_to_windows_recycle_bin",
+    "completed_at": "2026-10-11T06:14:05.9011699Z"
+  },
+  {
+    "source_id": "S199",
+    "path": "D:\\CodexWork\\Working\\158888\\data\\other\\Apple_Corpus_Sources\\raw\\S199.html",
+    "reason": "目录／发现入口：不是独立技术文章，已保留有效子文章及来源网址。",
+    "original_sha256": "9cd800f1b9a02e1eecc84beb7f3613437efb25e682c3fe0c4d7829e42d9bb598",
+    "action": "sent_to_windows_recycle_bin",
+    "completed_at": "2026-10-11T06:14:05.9133618Z"
+  },
+  {
+    "source_id": "S225",
+    "path": "D:\\CodexWork\\Working\\158888\\data\\other\\Apple_Corpus_Sources\\raw\\S225.html",
+    "reason": "Japanese beetle：本文聚焦桃果实危害，未确认苹果应用范围。",
+    "original_sha256": "b1e8e490d581a55f071e80d07bbbb49bdb56fd98345767b24709baa4fe61d76c",
+    "action": "sent_to_windows_recycle_bin",
+    "completed_at": "2026-10-11T06:14:05.9245770Z"
+  },
+  {
+    "source_id": "S229",
+    "path": "D:\\CodexWork\\Working\\158888\\data\\other\\Apple_Corpus_Sources\\raw\\S229.html",
+    "reason": "Pear slug：该文为商业梨园资料；不凭害虫名称推断苹果管理适用性。",
+    "original_sha256": "559c0d0539c96d8c32bf58cbf2a7d899206a13ea4d412dc8cb9c3dd9c1e9c6b1",
+    "action": "sent_to_windows_recycle_bin",
+    "completed_at": "2026-10-11T06:14:05.9357002Z"
+  },
+  {
+    "source_id": "S231",
+    "path": "D:\\CodexWork\\Working\\158888\\data\\other\\Apple_Corpus_Sources\\raw\\S231.html",
+    "reason": "Periodical cicada：通用树木及宾夕法尼亚州发生周期资料；本文没有苹果专题适用证据，暂不纳入苹果问答库。",
+    "original_sha256": "6687d38a2b5977bf4e8556edaacd96239b5ce1107d6abfb4add54acec004db3b",
+    "action": "sent_to_windows_recycle_bin",
+    "completed_at": "2026-10-11T06:14:05.9492915Z"
+  }
+]

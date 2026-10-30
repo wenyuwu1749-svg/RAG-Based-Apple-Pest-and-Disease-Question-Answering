@@ -1,0 +1,890 @@
+[
+  {
+    "topic": "Apple scab 苹果黑星病",
+    "type": "疾病",
+    "uc": [
+      "S001"
+    ],
+    "wsu": [
+      null
+    ],
+    "cornell": [
+      "S036",
+      "S174"
+    ],
+    "penn_state": [
+      "S024",
+      "S215"
+    ],
+    "nz": [
+      "S200",
+      "S203",
+      "S254"
+    ],
+    "gap": "已取得来源；具体管理适用性和更新日期待审核"
+  },
+  {
+    "topic": "Fire blight 火疫病",
+    "type": "疾病",
+    "uc": [
+      "S002"
+    ],
+    "wsu": [
+      "S015"
+    ],
+    "cornell": [
+      "S025",
+      "S036"
+    ],
+    "penn_state": [
+      "S024"
+    ],
+    "nz": [
+      "S200",
+      "S255"
+    ],
+    "gap": "已取得来源；具体管理适用性和更新日期待审核"
+  },
+  {
+    "topic": "Powdery mildew 白粉病",
+    "type": "疾病",
+    "uc": [
+      "S003"
+    ],
+    "wsu": [
+      "S014"
+    ],
+    "cornell": [
+      "S036",
+      "S175"
+    ],
+    "penn_state": [
+      "S210"
+    ],
+    "nz": [
+      null
+    ],
+    "gap": "缺新西兰专题来源；地区适用性待审核"
+  },
+  {
+    "topic": "European canker 欧洲溃疡病",
+    "type": "疾病",
+    "uc": [
+      "S004"
+    ],
+    "wsu": [
+      null
+    ],
+    "cornell": [
+      "S184"
+    ],
+    "penn_state": [
+      null
+    ],
+    "nz": [
+      "S200",
+      "S256"
+    ],
+    "gap": "已取得来源；具体管理适用性和更新日期待审核"
+  },
+  {
+    "topic": "Apple anthracnose 苹果炭疽溃疡类专题",
+    "type": "疾病",
+    "uc": [
+      null
+    ],
+    "wsu": [
+      "S072"
+    ],
+    "cornell": [
+      "S181"
+    ],
+    "penn_state": [
+      null
+    ],
+    "nz": [
+      null
+    ],
+    "gap": "缺新西兰专题来源；地区适用性待审核"
+  },
+  {
+    "topic": "Phytophthora root/crown rot 疫霉根腐病",
+    "type": "疾病",
+    "uc": [
+      "S005"
+    ],
+    "wsu": [
+      "S076"
+    ],
+    "cornell": [
+      null
+    ],
+    "penn_state": [
+      null
+    ],
+    "nz": [
+      null
+    ],
+    "gap": "缺新西兰专题来源；地区适用性待审核"
+  },
+  {
+    "topic": "Armillaria root rot 蜜环菌根腐病",
+    "type": "疾病",
+    "uc": [
+      "S065"
+    ],
+    "wsu": [
+      null
+    ],
+    "cornell": [
+      null
+    ],
+    "penn_state": [
+      null
+    ],
+    "nz": [
+      null
+    ],
+    "gap": "缺新西兰专题来源；地区适用性待审核"
+  },
+  {
+    "topic": "Bacterial blossom blast 细菌性花枯",
+    "type": "疾病",
+    "uc": [
+      "S066"
+    ],
+    "wsu": [
+      null
+    ],
+    "cornell": [
+      null
+    ],
+    "penn_state": [
+      null
+    ],
+    "nz": [
+      null
+    ],
+    "gap": "缺新西兰专题来源；地区适用性待审核"
+  },
+  {
+    "topic": "Black rot / Frogeye leaf spot 黑腐病",
+    "type": "疾病",
+    "uc": [
+      null
+    ],
+    "wsu": [
+      null
+    ],
+    "cornell": [
+      "S177"
+    ],
+    "penn_state": [
+      "S248"
+    ],
+    "nz": [
+      null
+    ],
+    "gap": "缺新西兰专题来源；地区适用性待审核"
+  },
+  {
+    "topic": "Bitter rot 苦腐病",
+    "type": "疾病",
+    "uc": [
+      null
+    ],
+    "wsu": [
+      null
+    ],
+    "cornell": [
+      "S179"
+    ],
+    "penn_state": [
+      null
+    ],
+    "nz": [
+      null
+    ],
+    "gap": "缺新西兰专题来源；地区适用性待审核"
+  },
+  {
+    "topic": "White rot 白腐病",
+    "type": "疾病",
+    "uc": [
+      null
+    ],
+    "wsu": [
+      null
+    ],
+    "cornell": [
+      "S185"
+    ],
+    "penn_state": [
+      null
+    ],
+    "nz": [
+      null
+    ],
+    "gap": "缺新西兰专题来源；地区适用性待审核"
+  },
+  {
+    "topic": "Sooty blotch / Flyspeck 煤污病与蝇粪病",
+    "type": "疾病",
+    "uc": [
+      null
+    ],
+    "wsu": [
+      null
+    ],
+    "cornell": [
+      "S178"
+    ],
+    "penn_state": [
+      "S024"
+    ],
+    "nz": [
+      null
+    ],
+    "gap": "缺新西兰专题来源；地区适用性待审核"
+  },
+  {
+    "topic": "Cedar apple / Quince rust 锈病",
+    "type": "疾病",
+    "uc": [
+      null
+    ],
+    "wsu": [
+      null
+    ],
+    "cornell": [
+      "S176",
+      "S182"
+    ],
+    "penn_state": [
+      "S250"
+    ],
+    "nz": [
+      null
+    ],
+    "gap": "缺新西兰专题来源；地区适用性待审核"
+  },
+  {
+    "topic": "Blue mold 青霉病",
+    "type": "采后病害",
+    "uc": [
+      null
+    ],
+    "wsu": [
+      "S017",
+      "S038"
+    ],
+    "cornell": [
+      "S180"
+    ],
+    "penn_state": [
+      null
+    ],
+    "nz": [
+      null
+    ],
+    "gap": "缺新西兰专题来源；地区适用性待审核"
+  },
+  {
+    "topic": "Gray mold 灰霉病",
+    "type": "采后病害",
+    "uc": [
+      null
+    ],
+    "wsu": [
+      "S018",
+      "S039"
+    ],
+    "cornell": [
+      null
+    ],
+    "penn_state": [
+      null
+    ],
+    "nz": [
+      null
+    ],
+    "gap": "缺新西兰专题来源；地区适用性待审核"
+  },
+  {
+    "topic": "Bull's eye rot 牛眼腐病",
+    "type": "采后病害",
+    "uc": [
+      null
+    ],
+    "wsu": [
+      "S016",
+      "S037"
+    ],
+    "cornell": [
+      null
+    ],
+    "penn_state": [
+      null
+    ],
+    "nz": [
+      null
+    ],
+    "gap": "缺新西兰专题来源；地区适用性待审核"
+  },
+  {
+    "topic": "Mucor rot 毛霉腐烂",
+    "type": "采后病害",
+    "uc": [
+      null
+    ],
+    "wsu": [
+      "S074"
+    ],
+    "cornell": [
+      null
+    ],
+    "penn_state": [
+      null
+    ],
+    "nz": [
+      null
+    ],
+    "gap": "缺新西兰专题来源；地区适用性待审核"
+  },
+  {
+    "topic": "Phacidiopycnis rot",
+    "type": "采后病害",
+    "uc": [
+      null
+    ],
+    "wsu": [
+      "S075"
+    ],
+    "cornell": [
+      null
+    ],
+    "penn_state": [
+      null
+    ],
+    "nz": [
+      null
+    ],
+    "gap": "缺新西兰专题来源；地区适用性待审核"
+  },
+  {
+    "topic": "Marssonina blotch 苹果褐斑病",
+    "type": "疾病",
+    "uc": [
+      null
+    ],
+    "wsu": [
+      null
+    ],
+    "cornell": [
+      null
+    ],
+    "penn_state": [
+      "S209"
+    ],
+    "nz": [
+      null
+    ],
+    "gap": "缺新西兰专题来源；地区适用性待审核"
+  },
+  {
+    "topic": "Crown gall 根癌病",
+    "type": "疾病",
+    "uc": [
+      null
+    ],
+    "wsu": [
+      null
+    ],
+    "cornell": [
+      "S183"
+    ],
+    "penn_state": [
+      null
+    ],
+    "nz": [
+      null
+    ],
+    "gap": "缺新西兰专题来源；地区适用性待审核"
+  },
+  {
+    "topic": "Core rot / Moldy core 果心腐烂",
+    "type": "疾病",
+    "uc": [
+      null
+    ],
+    "wsu": [
+      null
+    ],
+    "cornell": [
+      null
+    ],
+    "penn_state": [
+      "S208",
+      "S211"
+    ],
+    "nz": [
+      null
+    ],
+    "gap": "缺新西兰专题来源；地区适用性待审核"
+  },
+  {
+    "topic": "Apple replant disease 连作障碍专题",
+    "type": "复合问题",
+    "uc": [
+      null
+    ],
+    "wsu": [
+      "S073"
+    ],
+    "cornell": [
+      null
+    ],
+    "penn_state": [
+      null
+    ],
+    "nz": [
+      null
+    ],
+    "gap": "缺新西兰专题来源；地区适用性待审核"
+  },
+  {
+    "topic": "Codling moth 苹果蠹蛾",
+    "type": "害虫",
+    "uc": [
+      "S006"
+    ],
+    "wsu": [
+      "S019"
+    ],
+    "cornell": [
+      null
+    ],
+    "penn_state": [
+      "S022"
+    ],
+    "nz": [
+      "S200",
+      "S253"
+    ],
+    "gap": "已取得来源；具体管理适用性和更新日期待审核"
+  },
+  {
+    "topic": "Apple maggot 苹果实蝇",
+    "type": "害虫",
+    "uc": [
+      "S007"
+    ],
+    "wsu": [
+      "S077"
+    ],
+    "cornell": [
+      null
+    ],
+    "penn_state": [
+      "S218"
+    ],
+    "nz": [
+      "S260"
+    ],
+    "gap": "已取得来源；具体管理适用性和更新日期待审核"
+  },
+  {
+    "topic": "Woolly apple aphid 苹果绵蚜",
+    "type": "害虫",
+    "uc": [
+      "S012"
+    ],
+    "wsu": [
+      "S020"
+    ],
+    "cornell": [
+      null
+    ],
+    "penn_state": [
+      "S244"
+    ],
+    "nz": [
+      "S257"
+    ],
+    "gap": "已取得来源；具体管理适用性和更新日期待审核"
+  },
+  {
+    "topic": "Green/apple/spirea aphids 苹果蚜类",
+    "type": "害虫",
+    "uc": [
+      "S009"
+    ],
+    "wsu": [
+      "S084"
+    ],
+    "cornell": [
+      null
+    ],
+    "penn_state": [
+      "S223"
+    ],
+    "nz": [
+      null
+    ],
+    "gap": "缺新西兰专题来源；地区适用性待审核"
+  },
+  {
+    "topic": "Rosy apple aphid",
+    "type": "害虫",
+    "uc": [
+      "S010"
+    ],
+    "wsu": [
+      "S136"
+    ],
+    "cornell": [
+      null
+    ],
+    "penn_state": [
+      "S236"
+    ],
+    "nz": [
+      null
+    ],
+    "gap": "缺新西兰专题来源；地区适用性待审核"
+  },
+  {
+    "topic": "Apple grain aphid",
+    "type": "害虫",
+    "uc": [
+      null
+    ],
+    "wsu": [
+      "S086"
+    ],
+    "cornell": [
+      null
+    ],
+    "penn_state": [
+      "S216"
+    ],
+    "nz": [
+      null
+    ],
+    "gap": "缺新西兰专题来源；地区适用性待审核"
+  },
+  {
+    "topic": "Leafrollers 卷叶蛾类",
+    "type": "害虫",
+    "uc": [
+      "S041",
+      "S044",
+      "S050",
+      "S051",
+      "S052"
+    ],
+    "wsu": [
+      "S021"
+    ],
+    "cornell": [
+      null
+    ],
+    "penn_state": [
+      "S227",
+      "S234",
+      "S241",
+      "S245"
+    ],
+    "nz": [
+      null
+    ],
+    "gap": "缺新西兰专题来源；地区适用性待审核"
+  },
+  {
+    "topic": "Lightbrown apple moth 浅褐苹果蛾",
+    "type": "害虫",
+    "uc": [
+      null
+    ],
+    "wsu": [
+      null
+    ],
+    "cornell": [
+      null
+    ],
+    "penn_state": [
+      null
+    ],
+    "nz": [
+      "S200",
+      "S258"
+    ],
+    "gap": "已取得来源；具体管理适用性和更新日期待审核"
+  },
+  {
+    "topic": "European red mite 欧洲红蜘蛛",
+    "type": "螨类",
+    "uc": [
+      "S008"
+    ],
+    "wsu": [
+      null
+    ],
+    "cornell": [
+      null
+    ],
+    "penn_state": [
+      "S213",
+      "S252"
+    ],
+    "nz": [
+      null
+    ],
+    "gap": "缺新西兰专题来源；地区适用性待审核"
+  },
+  {
+    "topic": "Spider mites 叶螨类",
+    "type": "螨类",
+    "uc": [
+      "S055"
+    ],
+    "wsu": [
+      "S142"
+    ],
+    "cornell": [
+      null
+    ],
+    "penn_state": [
+      null
+    ],
+    "nz": [
+      null
+    ],
+    "gap": "缺新西兰专题来源；地区适用性待审核"
+  },
+  {
+    "topic": "Apple rust mite 苹果锈螨",
+    "type": "螨类",
+    "uc": [
+      null
+    ],
+    "wsu": [
+      "S089"
+    ],
+    "cornell": [
+      null
+    ],
+    "penn_state": [
+      "S251"
+    ],
+    "nz": [
+      null
+    ],
+    "gap": "缺新西兰专题来源；地区适用性待审核"
+  },
+  {
+    "topic": "San Jose scale 圣何塞蚧",
+    "type": "害虫",
+    "uc": [
+      "S011"
+    ],
+    "wsu": [
+      "S138"
+    ],
+    "cornell": [
+      null
+    ],
+    "penn_state": [
+      "S237"
+    ],
+    "nz": [
+      null
+    ],
+    "gap": "缺新西兰专题来源；地区适用性待审核"
+  },
+  {
+    "topic": "Leafminers 潜叶蛾类",
+    "type": "害虫",
+    "uc": [
+      "S048"
+    ],
+    "wsu": [
+      "S157"
+    ],
+    "cornell": [
+      null
+    ],
+    "penn_state": [
+      "S217",
+      "S240"
+    ],
+    "nz": [
+      null
+    ],
+    "gap": "缺新西兰专题来源；地区适用性待审核"
+  },
+  {
+    "topic": "Leafhoppers 叶蝉类",
+    "type": "害虫",
+    "uc": [
+      "S047"
+    ],
+    "wsu": [
+      "S135",
+      "S158"
+    ],
+    "cornell": [
+      null
+    ],
+    "penn_state": [
+      "S233",
+      "S235",
+      "S243"
+    ],
+    "nz": [
+      null
+    ],
+    "gap": "缺新西兰专题来源；地区适用性待审核"
+  },
+  {
+    "topic": "Brown marmorated stink bug 褐斑蝽",
+    "type": "害虫与生物安全",
+    "uc": [
+      "S069"
+    ],
+    "wsu": [
+      "S093"
+    ],
+    "cornell": [
+      null
+    ],
+    "penn_state": [
+      "S219"
+    ],
+    "nz": [
+      "S259"
+    ],
+    "gap": "已取得来源；具体管理适用性和更新日期待审核"
+  },
+  {
+    "topic": "Bronze beetle 铜色甲虫",
+    "type": "新西兰害虫",
+    "uc": [
+      null
+    ],
+    "wsu": [
+      null
+    ],
+    "cornell": [
+      null
+    ],
+    "penn_state": [
+      null
+    ],
+    "nz": [
+      "S201",
+      "S202"
+    ],
+    "gap": "已取得来源；具体管理适用性和更新日期待审核"
+  },
+  {
+    "topic": "Lesser appleworm",
+    "type": "害虫",
+    "uc": [
+      null
+    ],
+    "wsu": [
+      "S118"
+    ],
+    "cornell": [
+      null
+    ],
+    "penn_state": [
+      "S023"
+    ],
+    "nz": [
+      null
+    ],
+    "gap": "缺新西兰专题来源；地区适用性待审核"
+  },
+  {
+    "topic": "Oriental fruit moth 东方果蛾",
+    "type": "害虫",
+    "uc": [
+      null
+    ],
+    "wsu": [
+      "S126"
+    ],
+    "cornell": [
+      null
+    ],
+    "penn_state": [
+      "S228"
+    ],
+    "nz": [
+      null
+    ],
+    "gap": "缺新西兰专题来源；地区适用性待审核"
+  },
+  {
+    "topic": "Plum curculio 李象甲",
+    "type": "害虫",
+    "uc": [
+      null
+    ],
+    "wsu": [
+      null
+    ],
+    "cornell": [
+      null
+    ],
+    "penn_state": [
+      "S232"
+    ],
+    "nz": [
+      null
+    ],
+    "gap": "缺新西兰专题来源；地区适用性待审核"
+  },
+  {
+    "topic": "Apple mosaic 苹果花叶病",
+    "type": "缺口检查",
+    "uc": [
+      null
+    ],
+    "wsu": [
+      null
+    ],
+    "cornell": [
+      null
+    ],
+    "penn_state": [
+      null
+    ],
+    "nz": [
+      null
+    ],
+    "gap": "缺少独立专题；可查看综合指南，不能视为完整覆盖"
+  },
+  {
+    "topic": "Apple canker NZ management 新西兰溃疡病管理",
+    "type": "地区覆盖",
+    "uc": [
+      "S004"
+    ],
+    "wsu": [
+      null
+    ],
+    "cornell": [
+      null
+    ],
+    "penn_state": [
+      null
+    ],
+    "nz": [
+      "S200"
+    ],
+    "gap": "已取得来源；具体管理适用性和更新日期待审核"
+  }
+]

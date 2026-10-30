@@ -1,0 +1,2744 @@
+{
+  "policy": {
+    "scope_version": "1.0",
+    "confirmed_on": "2026-10-13",
+    "language_of_table": "zh-CN",
+    "crop": "Apple (Malus domestica); apple-specific portions of mixed-host sources only",
+    "primary_region": "New Zealand",
+    "include_postharvest_storage_transport": true,
+    "include_specific_management": true,
+    "include_regulations": false,
+    "include_species_status": false,
+    "supplementary_regions": "Explicitly identified source countries/regions; no automatic transfer to New Zealand",
+    "research_outcomes": [
+      "Accuracy",
+      "Response latency",
+      "Token consumption"
+    ],
+    "changes_to_live_database": false,
+    "runtime_code_modified": false
+  },
+  "topics": [
+    {
+      "id": "T01",
+      "topic": "Apple scab 苹果黑星病",
+      "category": "疾病",
+      "lifecycle_stage": "生长/结果至采收",
+      "question_types": "症状与鉴别；湿润/感染条件；监测；清园、抗病品种及干预时机",
+      "region": "新西兰优先；现有来源：United States、United States - California、United States - New York、United States - Pennsylvania；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "New Zealand priority",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。新西兰优先专题。",
+      "admitted_source_ids": [
+        "S001",
+        "S036",
+        "S174",
+        "S024",
+        "S215"
+      ],
+      "planning_source_ids": [
+        "NZR01",
+        "NZR02"
+      ],
+      "display_source_ids": [
+        "S001",
+        "S036",
+        "NZR01",
+        "NZR02"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T02",
+      "topic": "Fire blight 火疫病",
+      "category": "疾病",
+      "lifecycle_stage": "生长/结果至采收",
+      "question_types": "花/枝/果实症状；传播与风险；巡查；卫生、修剪与干预策略",
+      "region": "新西兰优先；现有来源：United States、United States - California、United States - New York、United States - Pacific Northwest、United States - Pennsylvania；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "New Zealand priority",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。新西兰优先专题。",
+      "admitted_source_ids": [
+        "S002",
+        "S015",
+        "S025",
+        "S036",
+        "S024"
+      ],
+      "planning_source_ids": [
+        "NZR01"
+      ],
+      "display_source_ids": [
+        "S002",
+        "S015",
+        "S036",
+        "NZR01"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T03",
+      "topic": "Powdery mildew 白粉病",
+      "category": "疾病",
+      "lifecycle_stage": "生长/结果至采收",
+      "question_types": "叶/梢/果实症状；发生条件；监测；品种、修剪及防治时机",
+      "region": "新西兰优先；现有来源：United States、United States - California、United States - New York、United States - Pacific Northwest、United States - Pennsylvania；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "New Zealand priority",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。新西兰优先专题。",
+      "admitted_source_ids": [
+        "S003",
+        "S014",
+        "S036",
+        "S175",
+        "S210"
+      ],
+      "planning_source_ids": [
+        "NZR01"
+      ],
+      "display_source_ids": [
+        "S003",
+        "S014",
+        "S036",
+        "NZR01"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T04",
+      "topic": "European canker 欧洲溃疡病",
+      "category": "疾病",
+      "lifecycle_stage": "树体生长/根系；必要时涉及果实",
+      "question_types": "枝干与果实危害；伤口/传播条件；巡查；病枝和伤口管理",
+      "region": "新西兰优先；现有来源：New Zealand；United States、United States - California",
+      "decision": "included",
+      "priority": "New Zealand priority",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。新西兰优先专题。新西兰 S200 只支持识别、传播和危害，不提供已审核的完整管理流程；NZR08 公开 PDF 已核对，试验未见显著降低溃疡发生，不能据题名推荐其有效。",
+      "admitted_source_ids": [
+        "S004",
+        "S184",
+        "S200"
+      ],
+      "planning_source_ids": [
+        "NZR08"
+      ],
+      "display_source_ids": [
+        "S200",
+        "S004",
+        "S184",
+        "NZR08"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T05",
+      "topic": "Apple anthracnose 苹果炭疽溃疡类专题",
+      "category": "疾病",
+      "lifecycle_stage": "田间感染或损伤＋采后表现",
+      "question_types": "树皮溃疡与果腐识别；传播；巡查；病枝和果园卫生管理",
+      "region": "地区限定补充；现有来源：United States、United States - Pacific Northwest；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "region-labelled supplementary",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。海外案例明确注明地区，不冒充新西兰方案。苹果 Neofabraea 炭疽溃疡类，与 Colletotrichum 苦腐病分开；保留地区与物种限定。",
+      "admitted_source_ids": [
+        "S072",
+        "S181",
+        "S171"
+      ],
+      "planning_source_ids": [],
+      "display_source_ids": [
+        "S072",
+        "S181",
+        "S171"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T06",
+      "topic": "Phytophthora root/crown rot 疫霉根腐病",
+      "category": "疾病",
+      "lifecycle_stage": "树体生长/根系；必要时涉及果实",
+      "question_types": "根/根颈症状与鉴别；土壤水分；监测；排水、灌溉与砧木策略",
+      "region": "地区限定补充；现有来源：United States - California、United States - Pacific Northwest；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "region-labelled supplementary",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。海外案例明确注明地区，不冒充新西兰方案。不可把 NZR05 的果实 sprinkler rot 试验直接当成根/根颈腐病处理依据；新西兰根病管理待补。",
+      "admitted_source_ids": [
+        "S005",
+        "S076",
+        "S161"
+      ],
+      "planning_source_ids": [],
+      "display_source_ids": [
+        "S005",
+        "S076",
+        "S161"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T07",
+      "topic": "Armillaria root rot 蜜环菌根腐病",
+      "category": "疾病",
+      "lifecycle_stage": "树体生长/根系；必要时涉及果实",
+      "question_types": "根系/树体衰退识别；传播；监测；果园土壤与感染材料管理",
+      "region": "地区限定补充；现有来源：United States - California；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "region-labelled supplementary",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。海外案例明确注明地区，不冒充新西兰方案。",
+      "admitted_source_ids": [
+        "S065"
+      ],
+      "planning_source_ids": [],
+      "display_source_ids": [
+        "S065"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T08",
+      "topic": "Bacterial blossom blast 细菌性花枯",
+      "category": "疾病",
+      "lifecycle_stage": "生长/结果至采收",
+      "question_types": "花部损伤鉴别；发生条件；巡查；预防与病害管理",
+      "region": "地区限定补充；现有来源：United States - California；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "region-labelled supplementary",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。海外案例明确注明地区，不冒充新西兰方案。",
+      "admitted_source_ids": [
+        "S066"
+      ],
+      "planning_source_ids": [],
+      "display_source_ids": [
+        "S066"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T09",
+      "topic": "Black rot / Frogeye leaf spot 黑腐病",
+      "category": "疾病",
+      "lifecycle_stage": "生长/结果至采收",
+      "question_types": "叶斑/果腐/枝干症状；侵染条件；巡查；病果和感染材料管理",
+      "region": "地区限定补充；现有来源：United States、United States - Pennsylvania；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "region-labelled supplementary",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。海外案例明确注明地区，不冒充新西兰方案。",
+      "admitted_source_ids": [
+        "S177",
+        "S248"
+      ],
+      "planning_source_ids": [],
+      "display_source_ids": [
+        "S177",
+        "S248"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T10",
+      "topic": "Bitter rot 苦腐病",
+      "category": "疾病",
+      "lifecycle_stage": "田间感染或损伤＋采后表现",
+      "question_types": "果腐识别；田间与采后发病条件；监测；卫生及防治时机",
+      "region": "新西兰优先；现有来源：United States；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "New Zealand priority",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。新西兰优先专题。",
+      "admitted_source_ids": [
+        "S179"
+      ],
+      "planning_source_ids": [
+        "NZR05"
+      ],
+      "display_source_ids": [
+        "S179",
+        "NZR05"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T11",
+      "topic": "White rot 白腐病",
+      "category": "疾病",
+      "lifecycle_stage": "田间感染或损伤＋采后表现",
+      "question_types": "果腐/枝干症状；发生条件；巡查；果园卫生与病果管理",
+      "region": "地区限定补充；现有来源：United States；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "region-labelled supplementary",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。海外案例明确注明地区，不冒充新西兰方案。",
+      "admitted_source_ids": [
+        "S185"
+      ],
+      "planning_source_ids": [],
+      "display_source_ids": [
+        "S185"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T12",
+      "topic": "Sooty blotch / Flyspeck 煤污病与蝇粪病",
+      "category": "疾病",
+      "lifecycle_stage": "生长/结果至采收",
+      "question_types": "果面病斑鉴别；湿润条件；监测；通风、清园与干预时机",
+      "region": "地区限定补充；现有来源：United States、United States - Pennsylvania；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "region-labelled supplementary",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。海外案例明确注明地区，不冒充新西兰方案。",
+      "admitted_source_ids": [
+        "S178",
+        "S024"
+      ],
+      "planning_source_ids": [],
+      "display_source_ids": [
+        "S178",
+        "S024"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T13",
+      "topic": "Cedar apple / Quince rust 锈病",
+      "category": "疾病",
+      "lifecycle_stage": "生长/结果至采收",
+      "question_types": "叶/果锈斑识别；病害周期；监测；寄主相关与防治策略",
+      "region": "地区限定补充；现有来源：United States、United States - Pennsylvania；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "region-labelled supplementary",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。海外案例明确注明地区，不冒充新西兰方案。海外苹果锈病的寄主和病害周期限资料地区；不根据缺少本地资料推断新西兰有无该病。",
+      "admitted_source_ids": [
+        "S176",
+        "S182",
+        "S250"
+      ],
+      "planning_source_ids": [],
+      "display_source_ids": [
+        "S176",
+        "S182"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T14",
+      "topic": "Blue mold 青霉病",
+      "category": "采后病害",
+      "lifecycle_stage": "采收、储藏、运输",
+      "question_types": "采后症状与鉴别；伤口/储藏条件；检查；采收卫生与储藏管理",
+      "region": "地区限定补充；现有来源：United States、United States - Pacific Northwest；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "region-labelled supplementary",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。海外案例明确注明地区，不冒充新西兰方案。",
+      "admitted_source_ids": [
+        "S017",
+        "S038",
+        "S180"
+      ],
+      "planning_source_ids": [],
+      "display_source_ids": [
+        "S017",
+        "S038"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T15",
+      "topic": "Gray mold 灰霉病",
+      "category": "采后病害",
+      "lifecycle_stage": "采收、储藏、运输",
+      "question_types": "采后症状与鉴别；感染/储藏条件；检查；卫生与抗性管理",
+      "region": "地区限定补充；现有来源：United States - Pacific Northwest；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "region-labelled supplementary",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。海外案例明确注明地区，不冒充新西兰方案。",
+      "admitted_source_ids": [
+        "S018",
+        "S039"
+      ],
+      "planning_source_ids": [],
+      "display_source_ids": [
+        "S018",
+        "S039"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T16",
+      "topic": "Bull's eye rot 牛眼腐病",
+      "category": "采后病害",
+      "lifecycle_stage": "田间感染或损伤＋采后表现",
+      "question_types": "潜伏感染及采后果腐识别；果园与储藏条件；检查；清园和预防",
+      "region": "新西兰优先；现有来源：United States - Pacific Northwest；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "New Zealand priority",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。新西兰优先专题。有新西兰清园研究说明，但采后完整流程及具体病原、参数仍需补齐；美国病原优势种不能自动映射到新西兰。",
+      "admitted_source_ids": [
+        "S016",
+        "S037"
+      ],
+      "planning_source_ids": [
+        "NZR02"
+      ],
+      "display_source_ids": [
+        "S016",
+        "S037",
+        "NZR02"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T17",
+      "topic": "Mucor rot 毛霉腐烂",
+      "category": "采后病害",
+      "lifecycle_stage": "采收、储藏、运输",
+      "question_types": "采后腐烂症状；污染与储藏条件；检查；果箱、果园及包装卫生",
+      "region": "地区限定补充；现有来源：United States - Pacific Northwest；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "region-labelled supplementary",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。海外案例明确注明地区，不冒充新西兰方案。",
+      "admitted_source_ids": [
+        "S074",
+        "S162"
+      ],
+      "planning_source_ids": [],
+      "display_source_ids": [
+        "S074",
+        "S162"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T18",
+      "topic": "Phacidiopycnis rot",
+      "category": "采后病害",
+      "lifecycle_stage": "田间感染或损伤＋采后表现",
+      "question_types": "苹果 speck rot 鉴别；果园/采后传播；检查；苹果与授粉树管理",
+      "region": "地区限定补充；现有来源：United States - Pacific Northwest；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "region-labelled supplementary",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。海外案例明确注明地区，不冒充新西兰方案。保留苹果 P. washingtonensis/speck rot；梨 P. pyri 的专属处理排除。",
+      "admitted_source_ids": [
+        "S075",
+        "S163"
+      ],
+      "planning_source_ids": [],
+      "display_source_ids": [
+        "S075",
+        "S163"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T19",
+      "topic": "Marssonina blotch 苹果褐斑病",
+      "category": "疾病",
+      "lifecycle_stage": "生长/结果至采收",
+      "question_types": "叶斑/早落叶识别；发生条件；巡查；预防与田间管理",
+      "region": "地区限定补充；现有来源：United States - Pennsylvania；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "region-labelled supplementary",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。海外案例明确注明地区，不冒充新西兰方案。",
+      "admitted_source_ids": [
+        "S209"
+      ],
+      "planning_source_ids": [],
+      "display_source_ids": [
+        "S209"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T20",
+      "topic": "Crown gall 根癌病",
+      "category": "疾病",
+      "lifecycle_stage": "树体生长/根系；必要时涉及果实",
+      "question_types": "瘤状症状与鉴别；传播；苗木/根部检查；预防与感染材料管理",
+      "region": "地区限定补充；现有来源：United States；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "region-labelled supplementary",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。海外案例明确注明地区，不冒充新西兰方案。",
+      "admitted_source_ids": [
+        "S183"
+      ],
+      "planning_source_ids": [],
+      "display_source_ids": [
+        "S183"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T21",
+      "topic": "Core rot / Moldy core 果心腐烂",
+      "category": "疾病",
+      "lifecycle_stage": "田间感染或损伤＋采后表现",
+      "question_types": "果心霉变/腐烂鉴别；感染条件；检查；田间和采后防控",
+      "region": "地区限定补充；现有来源：United States - Pennsylvania；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "region-labelled supplementary",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。海外案例明确注明地区，不冒充新西兰方案。",
+      "admitted_source_ids": [
+        "S208",
+        "S211"
+      ],
+      "planning_source_ids": [],
+      "display_source_ids": [
+        "S208",
+        "S211"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T22",
+      "topic": "Apple replant disease 连作障碍专题",
+      "category": "复合问题",
+      "lifecycle_stage": "树体生长/根系；必要时涉及果实",
+      "question_types": "幼树衰退与鉴别；生物性连作因素；土壤/根系监测；重植策略",
+      "region": "地区限定补充；现有来源：United States - Pacific Northwest；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "region-labelled supplementary",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。海外案例明确注明地区，不冒充新西兰方案。只纳入与生物性连作障碍相关的病因/应对；纯营养、pH 和一般施肥不是独立病虫害专题。",
+      "admitted_source_ids": [
+        "S073"
+      ],
+      "planning_source_ids": [],
+      "display_source_ids": [
+        "S073"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T23",
+      "topic": "Codling moth 苹果蠹蛾",
+      "category": "害虫",
+      "lifecycle_stage": "生长/结果至采收",
+      "question_types": "果实蛀食鉴别；生活史；诱捕/果实监测；诱控、生物及干预时机",
+      "region": "新西兰优先；现有来源：United States - California、United States - Pacific Northwest、United States - Pennsylvania；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "New Zealand priority",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。新西兰优先专题。",
+      "admitted_source_ids": [
+        "S006",
+        "S019",
+        "S022"
+      ],
+      "planning_source_ids": [
+        "NZR01",
+        "NZR07"
+      ],
+      "display_source_ids": [
+        "S006",
+        "S019",
+        "NZR01",
+        "NZR07"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T24",
+      "topic": "Apple maggot 苹果实蝇",
+      "category": "害虫",
+      "lifecycle_stage": "生长/结果至采收",
+      "question_types": "果内危害鉴别；生活史；诱捕；果园卫生与管理（限来源地区）",
+      "region": "地区限定补充；现有来源：United States - California、United States - Pacific Northwest、United States - Pennsylvania；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "region-labelled supplementary",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。海外案例明确注明地区，不冒充新西兰方案。纳入明确美国地区的苹果危害案例；不作为新西兰常规果园防治推荐，不讨论物种是否存在。",
+      "admitted_source_ids": [
+        "S007",
+        "S077",
+        "S218",
+        "S170"
+      ],
+      "planning_source_ids": [],
+      "display_source_ids": [
+        "S007",
+        "S077",
+        "S170"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T25",
+      "topic": "Woolly apple aphid 苹果绵蚜",
+      "category": "害虫",
+      "lifecycle_stage": "生长/结果至采收",
+      "question_types": "群落/根枝损伤识别；生活史；巡查；天敌、砧木及干预策略",
+      "region": "新西兰优先；现有来源：United States - California、United States - Pacific Northwest、United States - Pennsylvania；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "New Zealand priority",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。新西兰优先专题。",
+      "admitted_source_ids": [
+        "S012",
+        "S020",
+        "S244"
+      ],
+      "planning_source_ids": [
+        "NZR01",
+        "NZR04"
+      ],
+      "display_source_ids": [
+        "S012",
+        "S020",
+        "NZR01",
+        "NZR04"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T26",
+      "topic": "Green/apple/spirea aphids 苹果蚜类",
+      "category": "害虫",
+      "lifecycle_stage": "生长/结果至采收",
+      "question_types": "蚜类与受害部位识别；生活史；巡查；天敌保护与干预策略",
+      "region": "地区限定补充；现有来源：United States - California、United States - Pacific Northwest、United States - Pennsylvania；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "region-labelled supplementary",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。海外案例明确注明地区，不冒充新西兰方案。",
+      "admitted_source_ids": [
+        "S009",
+        "S084",
+        "S223"
+      ],
+      "planning_source_ids": [],
+      "display_source_ids": [
+        "S009",
+        "S084"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T27",
+      "topic": "Rosy apple aphid",
+      "category": "害虫",
+      "lifecycle_stage": "生长/结果至采收",
+      "question_types": "卷叶/畸形果等损伤鉴别；生活史；监测；天敌及干预时机",
+      "region": "地区限定补充；现有来源：United States - California、United States - Pacific Northwest、United States - Pennsylvania；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "region-labelled supplementary",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。海外案例明确注明地区，不冒充新西兰方案。",
+      "admitted_source_ids": [
+        "S010",
+        "S136",
+        "S236"
+      ],
+      "planning_source_ids": [],
+      "display_source_ids": [
+        "S010",
+        "S136"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T28",
+      "topic": "Apple grain aphid",
+      "category": "害虫",
+      "lifecycle_stage": "生长/结果至采收",
+      "question_types": "蚜虫鉴别；识别通常无需干预的情形（不设常规治疗题）",
+      "region": "地区限定补充；现有来源：United States - Pacific Northwest、United States - Pennsylvania；新西兰管理正文待补",
+      "decision": "differential_only",
+      "priority": "region-labelled supplementary",
+      "reason": "排除主损害/治疗专题；保留鉴别和无需干预对照。WSU S086 称对苹果损害很小，Penn State S216 称很少造成问题、通常无需监测/处理；只作蚜虫鉴别及避免不必要干预的对照，不列为主损害/治疗专题。",
+      "admitted_source_ids": [
+        "S086",
+        "S216"
+      ],
+      "planning_source_ids": [],
+      "display_source_ids": [
+        "S086",
+        "S216"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T29",
+      "topic": "Leafrollers 卷叶蛾类",
+      "category": "害虫",
+      "lifecycle_stage": "生长/结果至采收",
+      "question_types": "卷叶/果面取食鉴别；物种区分；诱捕；卫生、诱控与抗性管理",
+      "region": "新西兰优先；现有来源：United States - California、United States - Pacific Northwest、United States - Pennsylvania；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "New Zealand priority",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。新西兰优先专题。父专题含具体卷叶蛾子题；美国各物种不自动对应新西兰物种；统计评价时与 LBAM 避免重复计数。",
+      "admitted_source_ids": [
+        "S041",
+        "S044",
+        "S050",
+        "S051",
+        "S052",
+        "S021",
+        "S227",
+        "S234",
+        "S241",
+        "S245"
+      ],
+      "planning_source_ids": [
+        "NZR03",
+        "NZR04"
+      ],
+      "display_source_ids": [
+        "S041",
+        "S044",
+        "NZR03",
+        "NZR04"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T30",
+      "topic": "Lightbrown apple moth 浅褐苹果蛾",
+      "category": "害虫",
+      "lifecycle_stage": "生长/结果至采收",
+      "question_types": "LBAM 与其他卷叶蛾区分；生活史；诱捕；诱控及抗性管理",
+      "region": "新西兰优先；现有来源：待补；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "New Zealand priority",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。新西兰优先专题。纳入 LBAM 子专题；旧表只列 MPI/议会规则，不能算管理覆盖；NZR03 提供技术策略线索，须正文审核后入库。",
+      "admitted_source_ids": [],
+      "planning_source_ids": [
+        "NZR03"
+      ],
+      "display_source_ids": [
+        "NZR03"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T31",
+      "topic": "European red mite 欧洲红蜘蛛",
+      "category": "螨类",
+      "lifecycle_stage": "生长/结果至采收",
+      "question_types": "叶片受害/螨类鉴别；发生条件；害螨/天敌监测；生物和综合管理",
+      "region": "新西兰优先；现有来源：United States - California、United States - Pennsylvania；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "New Zealand priority",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。新西兰优先专题。",
+      "admitted_source_ids": [
+        "S008",
+        "S213",
+        "S252"
+      ],
+      "planning_source_ids": [
+        "NZR01",
+        "NZR04"
+      ],
+      "display_source_ids": [
+        "S008",
+        "S213",
+        "NZR01",
+        "NZR04"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T32",
+      "topic": "Spider mites 叶螨类",
+      "category": "螨类",
+      "lifecycle_stage": "生长/结果至采收",
+      "question_types": "螨害鉴别；发生条件；害螨/天敌监测；生物与综合管理",
+      "region": "地区限定补充；现有来源：United States - California、United States - Pacific Northwest；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "region-labelled supplementary",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。海外案例明确注明地区，不冒充新西兰方案。",
+      "admitted_source_ids": [
+        "S055",
+        "S142"
+      ],
+      "planning_source_ids": [],
+      "display_source_ids": [
+        "S055",
+        "S142"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T33",
+      "topic": "Apple rust mite 苹果锈螨",
+      "category": "螨类",
+      "lifecycle_stage": "生长/结果至采收",
+      "question_types": "锈螨及叶/果损伤鉴别；生活史；监测；天敌与综合管理",
+      "region": "地区限定补充；现有来源：United States - Pacific Northwest、United States - Pennsylvania；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "region-labelled supplementary",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。海外案例明确注明地区，不冒充新西兰方案。",
+      "admitted_source_ids": [
+        "S089",
+        "S251"
+      ],
+      "planning_source_ids": [],
+      "display_source_ids": [
+        "S089",
+        "S251"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T34",
+      "topic": "San Jose scale 圣何塞蚧",
+      "category": "害虫",
+      "lifecycle_stage": "生长/结果至采收",
+      "question_types": "枝/果蚧害识别；生活史；巡查；感染枝及干预时机",
+      "region": "地区限定补充；现有来源：United States - California、United States - Pacific Northwest、United States - Pennsylvania；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "region-labelled supplementary",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。海外案例明确注明地区，不冒充新西兰方案。",
+      "admitted_source_ids": [
+        "S011",
+        "S138",
+        "S237"
+      ],
+      "planning_source_ids": [],
+      "display_source_ids": [
+        "S011",
+        "S138"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T35",
+      "topic": "Leafminers 潜叶蛾类",
+      "category": "害虫",
+      "lifecycle_stage": "生长/结果至采收",
+      "question_types": "叶片潜食损伤鉴别；生活史；监测；天敌与干预策略",
+      "region": "地区限定补充；现有来源：United States - California、United States - Pacific Northwest、United States - Pennsylvania；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "region-labelled supplementary",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。海外案例明确注明地区，不冒充新西兰方案。",
+      "admitted_source_ids": [
+        "S048",
+        "S157",
+        "S217",
+        "S240"
+      ],
+      "planning_source_ids": [],
+      "display_source_ids": [
+        "S048",
+        "S157"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T36",
+      "topic": "Leafhoppers 叶蝉类",
+      "category": "害虫",
+      "lifecycle_stage": "生长/结果至采收",
+      "question_types": "叶片吸食损伤鉴别；物种区分；监测；天敌保护与抗性管理",
+      "region": "新西兰优先；现有来源：United States - California、United States - Pacific Northwest、United States - Pennsylvania；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "New Zealand priority",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。新西兰优先专题。NZR04 支持群体层面的历史 IPM 背景；美国叶蝉种名/阈值不可直接套用新西兰。",
+      "admitted_source_ids": [
+        "S047",
+        "S135",
+        "S158",
+        "S233",
+        "S235",
+        "S243"
+      ],
+      "planning_source_ids": [
+        "NZR04"
+      ],
+      "display_source_ids": [
+        "S047",
+        "S135",
+        "NZR04"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T37",
+      "topic": "Brown marmorated stink bug 褐斑蝽",
+      "category": "害虫与生物安全",
+      "lifecycle_stage": "生长/结果至采收",
+      "question_types": "虫体及果实刺吸损伤识别；监测；田间防控（限海外证据）",
+      "region": "地区限定补充；现有来源：United States - California、United States - Pacific Northwest、United States - Pennsylvania；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "region-labelled supplementary",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。海外案例明确注明地区，不冒充新西兰方案。仅保留地区明确的海外苹果田间危害及管理，不纳入新西兰检疫、入侵或物种状态。",
+      "admitted_source_ids": [
+        "S069",
+        "S093",
+        "S219"
+      ],
+      "planning_source_ids": [],
+      "display_source_ids": [
+        "S069",
+        "S093"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T38",
+      "topic": "Bronze beetle 铜色甲虫",
+      "category": "新西兰害虫",
+      "lifecycle_stage": "生长/结果至采收",
+      "question_types": "成虫/取食损伤识别；生活史；果实/成虫监测；管理方法待补证据",
+      "region": "新西兰优先；现有来源：New Zealand",
+      "decision": "included",
+      "priority": "New Zealand priority",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。新西兰优先专题。S202 可支持识别、生活史与果实损伤；原生/分布状态不属研究问题；S201 和 NZR06 不能代替完整管理报告。",
+      "admitted_source_ids": [
+        "S202"
+      ],
+      "planning_source_ids": [
+        "NZR06"
+      ],
+      "display_source_ids": [
+        "S202",
+        "NZR06"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T39",
+      "topic": "Lesser appleworm",
+      "category": "害虫",
+      "lifecycle_stage": "生长/结果至采收",
+      "question_types": "果实蛀食鉴别；生活史；监测；防治时机（限来源地区）",
+      "region": "地区限定补充；现有来源：United States - Pacific Northwest、United States - Pennsylvania；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "region-labelled supplementary",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。海外案例明确注明地区，不冒充新西兰方案。",
+      "admitted_source_ids": [
+        "S118",
+        "S023"
+      ],
+      "planning_source_ids": [],
+      "display_source_ids": [
+        "S118",
+        "S023"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T40",
+      "topic": "Oriental fruit moth 东方果蛾",
+      "category": "害虫",
+      "lifecycle_stage": "生长/结果至采收",
+      "question_types": "梢/果蛀食鉴别；苹果寄主条件；诱捕；苹果专属管理",
+      "region": "地区限定补充；现有来源：United States - Pacific Northwest、United States - Pennsylvania；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "region-labelled supplementary",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。海外案例明确注明地区，不冒充新西兰方案。",
+      "admitted_source_ids": [
+        "S126",
+        "S228"
+      ],
+      "planning_source_ids": [],
+      "display_source_ids": [
+        "S126",
+        "S228"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T41",
+      "topic": "Plum curculio 李象甲",
+      "category": "害虫",
+      "lifecycle_stage": "生长/结果至采收",
+      "question_types": "果实取食/产卵损伤鉴别；生活史；监测；管理（限来源地区）",
+      "region": "地区限定补充；现有来源：United States - Pennsylvania；新西兰管理正文待补",
+      "decision": "included",
+      "priority": "region-labelled supplementary",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。海外案例明确注明地区，不冒充新西兰方案。",
+      "admitted_source_ids": [
+        "S232"
+      ],
+      "planning_source_ids": [],
+      "display_source_ids": [
+        "S232"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T42",
+      "topic": "Apple mosaic 苹果花叶病",
+      "category": "缺口检查",
+      "lifecycle_stage": "生长/结果至采收",
+      "question_types": "叶部症状与鉴别；传播；苗木检查；预防（待补独立来源）",
+      "region": "新西兰为目标；来源及适用地区待补",
+      "decision": "included",
+      "priority": "region-labelled supplementary",
+      "reason": "纳入：符合苹果生长/果实或采后生物性危害范围。海外案例明确注明地区，不冒充新西兰方案。题材符合苹果病害范围；暂无已审核的独立专题，补齐病害与管理证据前不进入正式有答案评价集。",
+      "admitted_source_ids": [],
+      "planning_source_ids": [],
+      "display_source_ids": [],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Question-level gold evidence and regional applicability still require audit; scope inclusion is not evaluation readiness."
+    },
+    {
+      "id": "T43",
+      "topic": "Apple leafcurling midge 苹果卷叶瘿蚊",
+      "category": "害虫",
+      "lifecycle_stage": "幼树/新梢及采后关联",
+      "question_types": "卷叶/幼梢损伤鉴别；生活史；虫/叶监测；生物及田间管理",
+      "region": "新西兰（已核对公开线索；专题正文/管理资料待补）",
+      "decision": "included_pending_evidence",
+      "priority": "New Zealand priority",
+      "reason": "纳入新西兰优先范围，补充旧覆盖表遗漏；目录提示有研究报告，报告全文与管理证据尚未取得，不能只凭题名生成措施。",
+      "admitted_source_ids": [],
+      "planning_source_ids": [
+        "NZR01",
+        "NZR06"
+      ],
+      "display_source_ids": [
+        "NZR01",
+        "NZR06"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Await source acquisition, review and question-level evidence."
+    },
+    {
+      "id": "T44",
+      "topic": "Mealybugs 粉蚧类（苹果）",
+      "category": "害虫",
+      "lifecycle_stage": "生长/结果至采收",
+      "question_types": "虫体与苹果受害部位识别；生活史；监测；天敌与干预策略",
+      "region": "新西兰（已核对公开线索；专题正文/管理资料待补）",
+      "decision": "included_pending_evidence",
+      "priority": "New Zealand priority",
+      "reason": "纳入新西兰优先范围；旧表未独立列项。需区分具体种和苹果寄主；综述摘要和报告目录不能代替完整管理数据。",
+      "admitted_source_ids": [],
+      "planning_source_ids": [
+        "NZR04",
+        "NZR06"
+      ],
+      "display_source_ids": [
+        "NZR04",
+        "NZR06"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Await source acquisition, review and question-level evidence."
+    },
+    {
+      "id": "T45",
+      "topic": "Alternaria 相关苹果病害",
+      "category": "疾病",
+      "lifecycle_stage": "田间感染及采后关联",
+      "question_types": "症状与鉴别；危害条件；监测；果园卫生/管理",
+      "region": "新西兰（已核对公开线索；专题正文/管理资料待补）",
+      "decision": "included_pending_evidence",
+      "priority": "New Zealand priority",
+      "reason": "纳入新西兰候补专题；行业文章仅支持研究关联与卫生线索。具体病原、苹果症状和完整管理证据需补齐，暂不进入有答案评价集。",
+      "admitted_source_ids": [],
+      "planning_source_ids": [
+        "NZR02"
+      ],
+      "display_source_ids": [
+        "NZR02"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Await source acquisition, review and question-level evidence."
+    },
+    {
+      "id": "T46",
+      "topic": "Elsinoe 相关苹果病害",
+      "category": "疾病",
+      "lifecycle_stage": "田间感染及采后关联",
+      "question_types": "症状与鉴别；危害条件；监测；果园卫生/管理",
+      "region": "新西兰（已核对公开线索；专题正文/管理资料待补）",
+      "decision": "included_pending_evidence",
+      "priority": "New Zealand priority",
+      "reason": "纳入新西兰候补专题；不擅自确定种名/病名或把通用清园结论视为专属防治流程，暂不进入有答案评价集。",
+      "admitted_source_ids": [],
+      "planning_source_ids": [
+        "NZR02"
+      ],
+      "display_source_ids": [
+        "NZR02"
+      ],
+      "formal_answer_set_ready": false,
+      "readiness_note": "Await source acquisition, review and question-level evidence."
+    }
+  ],
+  "exclusions": [
+    {
+      "id": "X01",
+      "topic": "法规、法定义务、农药登记/许可、出口合规、检疫规则",
+      "question_types": "法律/合规问答",
+      "region": "所有地区",
+      "source_ids": [
+        "S200",
+        "S205",
+        "S206"
+      ],
+      "decision": "excluded_or_background",
+      "reason": "排除：用户明确暂不研究法规；S200 只保留溃疡病技术正文，不用其 Plan Rule 19 作防治标准。"
+    },
+    {
+      "id": "X02",
+      "topic": "物种/病原状态记录",
+      "question_types": "是否存在、原生/外来、禁入/受管制等",
+      "region": "所有地区",
+      "source_ids": [
+        "S034",
+        "S253",
+        "S254",
+        "S255",
+        "S256",
+        "S257",
+        "S258",
+        "S259",
+        "S260"
+      ],
+      "decision": "excluded_or_background",
+      "reason": "排除：用户明确不纳入。地区标签表示证据适用地，不等于物种状态查询。"
+    },
+    {
+      "id": "X03",
+      "topic": "梨、樱桃、桃等其他作物专属结论",
+      "question_types": "其他作物症状、管理/试验剂量",
+      "region": "资料原地区",
+      "source_ids": [
+        "S161",
+        "S163",
+        "S164"
+      ],
+      "decision": "excluded_or_background",
+      "reason": "排除相应段落；混合作物文献可保留清楚标为苹果的部分。S164 梨火疫病试验不能充当苹果管理依据。"
+    },
+    {
+      "id": "X04",
+      "topic": "Bitter pit 苦痘病、日灼、缺素等非生物性障碍",
+      "question_types": "纯生理/营养/环境损伤问答",
+      "region": "所有地区",
+      "source_ids": [],
+      "decision": "excluded_or_background",
+      "reason": "排除独立专题：不是本次病原或害虫危害范围；可作为病害鉴别中的非生物性对照。"
+    },
+    {
+      "id": "X05",
+      "topic": "纯机械损伤、一般栽培与施肥",
+      "question_types": "单独的碰伤、修枝造型、营养配方等",
+      "region": "所有地区",
+      "source_ids": [],
+      "decision": "excluded_or_background",
+      "reason": "排除独立专题；伤口预防、灌溉等与已纳入病虫害直接相关的应对仍可讨论。"
+    },
+    {
+      "id": "X06",
+      "topic": "纯 AI 图像分类、算法性能与土壤微生物组分析",
+      "question_types": "计算机模型/一般土壤研究",
+      "region": "来源地区需核对",
+      "source_ids": [],
+      "decision": "excluded_or_background",
+      "reason": "仅作论文方法或背景参考；除非有直接的苹果病虫害/管理证据，否则不进入领域有答案问答集。"
+    },
+    {
+      "id": "X07",
+      "topic": "False codling moth 等仅有检疫卡/风险材料的专题",
+      "question_types": "风险状态/边境问答",
+      "region": "USDA 等来源地区",
+      "source_ids": [],
+      "decision": "excluded_or_background",
+      "reason": "当前不纳入正式领域评价；理由是现有材料用途主要为检疫识别、缺少苹果田间管理证据，不能根据名称或状态推断新西兰危害。后续苹果技术证据充分时可版本化扩展。"
+    },
+    {
+      "id": "X08",
+      "topic": "Apple canker NZ management 旧表重复行",
+      "question_types": "溃疡病的新西兰地区维度",
+      "region": "新西兰",
+      "source_ids": [
+        "S004",
+        "S200"
+      ],
+      "decision": "excluded_or_background",
+      "reason": "合并到 European canker；地区是字段，不把同一病害再计为一种病虫害。"
+    },
+    {
+      "id": "X09",
+      "topic": "研究新闻、机构目录、在研项目题名",
+      "question_types": "研究进展或资料发现",
+      "region": "来源标注地区",
+      "source_ids": [
+        "S201",
+        "S203"
+      ],
+      "decision": "excluded_or_background",
+      "reason": "可记录背景/补采线索，但不自动作为完整治疗流程。NZR02 已有技术说明也只限其实际写明的措施，不推断未发表试验结果。"
+    }
+  ],
+  "sources": {
+    "NZR01": {
+      "source_id": "NZR01",
+      "title": "Pests, diseases and control",
+      "organization": "Te Ara – Manatū Taonga Ministry for Culture and Heritage",
+      "region": "New Zealand",
+      "publication_or_update_date": "2009-03-01",
+      "url": "https://teara.govt.nz/en/apples-and-pears/page-5",
+      "source_type": "government_encyclopedia",
+      "in_database": false,
+      "verification": "Checked primary publisher page/search text on 2026-10-13; not an admitted corpus source.",
+      "use_limits": "Historical overview of apple/pipfruit disease and pest management; not a contemporary dose schedule. Exclude regulatory history and species-status claims."
+    },
+    "NZR02": {
+      "source_id": "NZR02",
+      "title": "Spotlight On: Integrated Disease Management",
+      "organization": "New Zealand Apples & Pears",
+      "region": "New Zealand",
+      "publication_or_update_date": "2026-06-08",
+      "url": "https://www.applesandpears.nz/news-events/field-notes-autumn-2026/spotlight-on-integrated-disease-management/",
+      "source_type": "industry_research_update",
+      "in_database": false,
+      "verification": "Checked primary publisher page/search text on 2026-10-13; not an admitted corpus source.",
+      "use_limits": "Discusses sanitation and monitoring for scab, Alternaria, Elsinoe and bull’s-eye/storage rots. Research update, not a complete field protocol or finished-efficacy trial."
+    },
+    "NZR03": {
+      "source_id": "NZR03",
+      "title": "Leafroller insecticide resistance management strategy",
+      "organization": "New Zealand Plant Protection Society",
+      "region": "New Zealand",
+      "publication_or_update_date": "Updated August 2024; revised March 2022",
+      "url": "https://resistance.nzpps.org/index.php?p=insecticides/leafroller",
+      "source_type": "technical_resistance_management",
+      "in_database": false,
+      "verification": "Checked primary publisher page/search text on 2026-10-13; not an admitted corpus source.",
+      "use_limits": "Technical monitoring, crop hygiene, biological control and mode-of-action strategy. Label-claims table explicitly dated November 2002 and resistance assessment dated 2004; omit status/registration and do not call these current."
+    },
+    "NZR04": {
+      "source_id": "NZR04",
+      "title": "Past, Present, and Future of Integrated Control of Apple Pests: The New Zealand Experience",
+      "organization": "Annual Reviews / Walker, Suckling and Wearing",
+      "region": "New Zealand",
+      "publication_or_update_date": "2017",
+      "url": "https://www.annualreviews.org/content/journals/10.1146/annurev-ento-031616-035626",
+      "source_type": "peer_reviewed_review_abstract",
+      "in_database": false,
+      "verification": "Checked primary publisher page/search text on 2026-10-13; not an admitted corpus source.",
+      "use_limits": "Publisher metadata and abstract verified. Full text not acquired/reviewed here; no complete species-specific management protocol inferred from abstract or bibliography."
+    },
+    "NZR05": {
+      "source_id": "NZR05",
+      "title": "Evaluation of fungicides for control of bitter and sprinkler rots on apple fruit",
+      "organization": "New Zealand Plant Protection",
+      "region": "New Zealand",
+      "publication_or_update_date": "2015",
+      "url": "https://journal.nzpps.org/index.php/nzpp/article/view/5801",
+      "source_type": "peer_reviewed_trial_abstract",
+      "in_database": false,
+      "verification": "Checked primary publisher page/search text on 2026-10-13; not an admitted corpus source.",
+      "use_limits": "Abstract supports NZ apple bitter-rot and Phytophthora fruit/sprinkler-rot research. Full text required for trial sites, cultivars and rates. Fruit rot is not proof about root/crown-rot treatment."
+    },
+    "NZR06": {
+      "source_id": "NZR06",
+      "title": "What’s New? – Smart and Sustainable research reports",
+      "organization": "New Zealand Apples & Pears",
+      "region": "New Zealand",
+      "publication_or_update_date": "2025-09-22",
+      "url": "https://www.applesandpears.nz/news-events/field-notes-q3-2025/whats-new/",
+      "source_type": "report_discovery_index",
+      "in_database": false,
+      "verification": "Checked primary publisher page/search text on 2026-10-13; not an admitted corpus source.",
+      "use_limits": "Only a catalogue of reports on ALCM, mealybugs, bronze beetle, sanitation and postharvest. Members’ reports not accessed; catalogue titles cannot provide management answers."
+    },
+    "NZR07": {
+      "source_id": "NZR07",
+      "title": "It takes a region! Hawke’s Bay community engaged in codling moth research to protect apples",
+      "organization": "Plant & Food Research",
+      "region": "New Zealand",
+      "publication_or_update_date": "2020-07-08",
+      "url": "https://www.plantandfood.com/en-nz/article/it-takes-a-region-hawkes-bay-community-engaged-in-codling-moth-research",
+      "source_type": "research_news",
+      "in_database": false,
+      "verification": "Checked primary publisher page/search text on 2026-10-13; not an admitted corpus source.",
+      "use_limits": "NZ codling-moth monitoring/SIT research context, not an operational release protocol. Exclude export requirements and regulatory status."
+    },
+    "NZR08": {
+      "source_id": "NZR08",
+      "title": "Can phosphorous acid be used to control Neonectria ditissima in New Zealand grown apples?",
+      "organization": "New Zealand Plant Protection",
+      "region": "New Zealand",
+      "publication_or_update_date": "2019",
+      "url": "https://journal.nzpps.org/index.php/nzpp/article/download/279/10860/12482",
+      "source_type": "peer_reviewed_trial_candidate",
+      "in_database": false,
+      "verification": "Checked primary publisher page/search text on 2026-10-13; not an admitted corpus source.",
+      "use_limits": "Publisher PDF text accessed (6 pages), DOI 10.30843/nzpp.2019.72.279: 2017–2018 Tasman trials. Abstract reports no statistically significant canker reduction; do not infer an effective treatment from the title. Scoped cleaning and trial-detail review still required before import."
+    },
+    "S001": {
+      "source_id": "S001",
+      "title": "Apple Scab",
+      "organization": "University of California Agriculture and Natural Resources - UC IPM",
+      "region": "United States - California",
+      "publication_or_update_date": "Text Updated: 10/15; Treatment Table Updated: 10/15",
+      "url": "https://ipm.ucanr.edu/agriculture/apple/apple-scab/",
+      "source_type": "html",
+      "database_source_id": "S001",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S036": {
+      "source_id": "S036",
+      "title": "Apple IPM for Beginners",
+      "organization": "Cornell Cooperative Extension Lake Ontario Fruit Program",
+      "region": "United States - New York",
+      "publication_or_update_date": "2014",
+      "url": "https://blogs.cornell.edu/newfruit/files/2016/12/Apple_IPM_Beginners-21ahj65.pdf",
+      "source_type": "pdf",
+      "database_source_id": "Pc857494577bd34fb",
+      "in_database": true,
+      "qa_pages": [
+        5,
+        6,
+        17,
+        19,
+        22,
+        24,
+        26,
+        28,
+        30,
+        34,
+        36,
+        38,
+        41
+      ],
+      "use_limits": "Historical US extension source; not current pesticide authorization, rates, or New Zealand management guidance. Copyright-2014 beginner guide; selected diagnosis/biology pages and glossary only. Illustrations are retained in the PDF, not OCR-transcribed.",
+      "expert_fact_validation": false,
+      "equivalent_web_source_ids": []
+    },
+    "S174": {
+      "source_id": "S174",
+      "title": "Fact Sheet: Apple Scab",
+      "organization": "Cornell University - Khan Lab",
+      "region": "United States",
+      "publication_or_update_date": null,
+      "url": "https://blogs.cornell.edu/applevarietydatabase/fact-sheet-apple-scab/",
+      "source_type": "html",
+      "database_source_id": "S174",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S024": {
+      "source_id": "S024",
+      "title": "Pest Management in Apples in Home Fruit Plantings",
+      "organization": "Pennsylvania State University - Penn State Extension",
+      "region": "United States - Pennsylvania",
+      "publication_or_update_date": "February 25, 2026",
+      "url": "https://extension.psu.edu/pest-management-in-apples-in-home-fruit-plantings",
+      "source_type": "html",
+      "database_source_id": "S024",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Supporting IPM, monitoring or apple-associated natural-enemy biology. General or other-host statements do not establish apple-specific efficacy.",
+      "expert_fact_validation": false
+    },
+    "S215": {
+      "source_id": "S215",
+      "title": "Tree Fruit Disease - An Apple Scab Review",
+      "organization": "Pennsylvania State University - Penn State Extension",
+      "region": "United States - Pennsylvania",
+      "publication_or_update_date": "June 29, 2026",
+      "url": "https://extension.psu.edu/tree-fruit-disease-an-apple-scab-review",
+      "source_type": "html",
+      "database_source_id": "S215",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S002": {
+      "source_id": "S002",
+      "title": "Fire Blight",
+      "organization": "University of California Agriculture and Natural Resources - UC IPM",
+      "region": "United States - California",
+      "publication_or_update_date": "Text Updated: 03/09; Treatment Table Updated: 10/15",
+      "url": "https://ipm.ucanr.edu/agriculture/apple/fire-blight/",
+      "source_type": "html",
+      "database_source_id": "S002",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S015": {
+      "source_id": "S015",
+      "title": "Fire Blight of Apple and Pear",
+      "organization": "Washington State University - WSU Tree Fruit",
+      "region": "United States - Pacific Northwest",
+      "publication_or_update_date": null,
+      "url": "https://treefruit.wsu.edu/crop-protection/disease-management/fire-blight/",
+      "source_type": "html",
+      "database_source_id": "S015",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S025": {
+      "source_id": "S025",
+      "title": "Fact Sheet: Fire Blight",
+      "organization": "Cornell University - Khan Lab",
+      "region": "United States",
+      "publication_or_update_date": null,
+      "url": "https://blogs.cornell.edu/applevarietydatabase/fact-sheet-fire-blight/",
+      "source_type": "html",
+      "database_source_id": "S025",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S003": {
+      "source_id": "S003",
+      "title": "Powdery Mildew",
+      "organization": "University of California Agriculture and Natural Resources - UC IPM",
+      "region": "United States - California",
+      "publication_or_update_date": "Text Updated: 03/09; Treatment Table Updated: 10/15",
+      "url": "https://ipm.ucanr.edu/agriculture/apple/powdery-mildew/",
+      "source_type": "html",
+      "database_source_id": "S003",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S014": {
+      "source_id": "S014",
+      "title": "Apple Powdery Mildew",
+      "organization": "Washington State University - WSU Tree Fruit",
+      "region": "United States - Pacific Northwest",
+      "publication_or_update_date": "2024-07",
+      "url": "https://treefruit.wsu.edu/crop-protection/apple-powdery-mildew/",
+      "source_type": "html",
+      "database_source_id": "S014",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S175": {
+      "source_id": "S175",
+      "title": "Fact Sheet: Powdery Mildew",
+      "organization": "Cornell University - Khan Lab",
+      "region": "United States",
+      "publication_or_update_date": null,
+      "url": "https://blogs.cornell.edu/applevarietydatabase/fact-sheet-powdery-mildew/",
+      "source_type": "html",
+      "database_source_id": "S175",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S210": {
+      "source_id": "S210",
+      "title": "Apple Disease - Powdery Mildew",
+      "organization": "Pennsylvania State University - Penn State Extension",
+      "region": "United States - Pennsylvania",
+      "publication_or_update_date": "January 5, 2024",
+      "url": "https://extension.psu.edu/apple-disease-powdery-mildew",
+      "source_type": "html",
+      "database_source_id": "S210",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S004": {
+      "source_id": "S004",
+      "title": "European Canker",
+      "organization": "University of California Agriculture and Natural Resources - UC IPM",
+      "region": "United States - California",
+      "publication_or_update_date": "Text Updated: 03/09; Treatment Table Updated: 10/15",
+      "url": "https://ipm.ucanr.edu/agriculture/apple/european-canker/",
+      "source_type": "html",
+      "database_source_id": "S004",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S184": {
+      "source_id": "S184",
+      "title": "Fact Sheet: Nectria Twig Blight and Canker",
+      "organization": "Cornell University - Khan Lab",
+      "region": "United States",
+      "publication_or_update_date": null,
+      "url": "https://blogs.cornell.edu/applevarietydatabase/fact-sheet-nectria/",
+      "source_type": "html",
+      "database_source_id": "S184",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S200": {
+      "source_id": "S200",
+      "title": "European canker",
+      "organization": "Hawke's Bay Regional Council",
+      "region": "New Zealand",
+      "publication_or_update_date": null,
+      "url": "https://www.hbrc.govt.nz/environment/pest-control/pest-hub/pests/pest/60?type=2",
+      "source_type": "html",
+      "database_source_id": "S200",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Only European canker identification, spread and damage are admitted. Council programme rules and legal obligations are excluded.",
+      "expert_fact_validation": false
+    },
+    "S072": {
+      "source_id": "S072",
+      "title": "Apple Anthracnose",
+      "organization": "Washington State University - WSU Tree Fruit",
+      "region": "United States - Pacific Northwest",
+      "publication_or_update_date": "Published: June 2016",
+      "url": "https://treefruit.wsu.edu/crop-protection/disease-management/apple-anthracnose/",
+      "source_type": "html",
+      "database_source_id": "S072",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S181": {
+      "source_id": "S181",
+      "title": "Fact Sheet: Apple Anthracnose",
+      "organization": "Cornell University - Khan Lab",
+      "region": "United States",
+      "publication_or_update_date": null,
+      "url": "https://blogs.cornell.edu/applevarietydatabase/factsheet-apple-anthracnose/",
+      "source_type": "html",
+      "database_source_id": "S181",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S171": {
+      "source_id": "S171",
+      "title": "Apple Anthracnose",
+      "organization": "Washington State University - WSU Tree Fruit",
+      "region": "United States - Pacific Northwest",
+      "publication_or_update_date": "2016",
+      "url": "https://treefruit.wsu.edu/wp-content/uploads/2016/07/Anthracnose_FS2016.pdf",
+      "source_type": "pdf",
+      "database_source_id": "Pfad1d86df7e72095",
+      "in_database": true,
+      "qa_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "use_limits": "Historical US extension source; not current pesticide authorization, rates, or New Zealand management guidance. Copyright-2016 maritime Pacific Northwest apple canker/fruit-rot source. Printable counterpart of S072; not independent corroboration.",
+      "expert_fact_validation": false,
+      "equivalent_web_source_ids": [
+        "S072"
+      ]
+    },
+    "S005": {
+      "source_id": "S005",
+      "title": "Phytophthora Root and Crown Rot",
+      "organization": "University of California Agriculture and Natural Resources - UC IPM",
+      "region": "United States - California",
+      "publication_or_update_date": "Text Updated: 03/09; Treatment Table Updated: 10/15",
+      "url": "https://ipm.ucanr.edu/agriculture/apple/phytophthora-root-and-crown-rot/",
+      "source_type": "html",
+      "database_source_id": "S005",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S076": {
+      "source_id": "S076",
+      "title": "Phytophthora",
+      "organization": "Washington State University - WSU Tree Fruit",
+      "region": "United States - Pacific Northwest",
+      "publication_or_update_date": null,
+      "url": "https://treefruit.wsu.edu/crop-protection/disease-management/phytophthora/",
+      "source_type": "html",
+      "database_source_id": "S076",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S161": {
+      "source_id": "S161",
+      "title": "Phytophthora Crown, Collar, and Root Rot of Apple and Cherry",
+      "organization": "Washington State University - WSU Tree Fruit",
+      "region": "United States - Pacific Northwest",
+      "publication_or_update_date": "2019-02",
+      "url": "https://s3.us-west-2.amazonaws.com/treefruit.wsu.edu/wp-content/uploads/2019/03/20110518/FS322E_Phytophthora-Crown-Collar-Rot.pdf",
+      "source_type": "pdf",
+      "database_source_id": "Pc161390f1584f17e",
+      "in_database": true,
+      "qa_pages": [
+        2,
+        3,
+        4
+      ],
+      "use_limits": "Historical US extension source; not current pesticide authorization, rates, or New Zealand management guidance. Mixed apple/cherry title; retained apple/shared disease-cycle and cultural-control prose. Cherry rootstock guidance and chemical dosage schedules excluded. Printable counterpart of S076; not independent corroboration.",
+      "expert_fact_validation": false,
+      "equivalent_web_source_ids": [
+        "S076"
+      ]
+    },
+    "S065": {
+      "source_id": "S065",
+      "title": "Armillaria Root Rot (Oak Root Fungus)",
+      "organization": "University of California Agriculture and Natural Resources - UC IPM",
+      "region": "United States - California",
+      "publication_or_update_date": "Text Updated: 03/09",
+      "url": "https://ipm.ucanr.edu/agriculture/apple/armillaria-root-rot-oak-root-fungus/",
+      "source_type": "html",
+      "database_source_id": "S065",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S066": {
+      "source_id": "S066",
+      "title": "Bacterial Blossom Blast",
+      "organization": "University of California Agriculture and Natural Resources - UC IPM",
+      "region": "United States - California",
+      "publication_or_update_date": "Text Updated: 03/09; Treatment Table Updated: 10/15",
+      "url": "https://ipm.ucanr.edu/agriculture/apple/bacterial-blossom-blast/",
+      "source_type": "html",
+      "database_source_id": "S066",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S177": {
+      "source_id": "S177",
+      "title": "Fact Sheet: Black Rot and Frogeye Leaf Spot",
+      "organization": "Cornell University - Khan Lab",
+      "region": "United States",
+      "publication_or_update_date": null,
+      "url": "https://blogs.cornell.edu/applevarietydatabase/fact-sheet-frogeye-leaf-spot-black-rot/",
+      "source_type": "html",
+      "database_source_id": "S177",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S248": {
+      "source_id": "S248",
+      "title": "Pome Fruit Disease - Black Rot and Frogeye Leaf Spot",
+      "organization": "Pennsylvania State University - Penn State Extension",
+      "region": "United States - Pennsylvania",
+      "publication_or_update_date": "June 26, 2024",
+      "url": "https://extension.psu.edu/pome-fruit-disease-black-rot-and-frogeye-leaf-spot",
+      "source_type": "html",
+      "database_source_id": "S248",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S179": {
+      "source_id": "S179",
+      "title": "Fact Sheet: Bitter Rot",
+      "organization": "Cornell University - Khan Lab",
+      "region": "United States",
+      "publication_or_update_date": null,
+      "url": "https://blogs.cornell.edu/applevarietydatabase/fact-sheet-bitter-rot/",
+      "source_type": "html",
+      "database_source_id": "S179",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S185": {
+      "source_id": "S185",
+      "title": "Fact Sheet: White Rot",
+      "organization": "Cornell University - Khan Lab",
+      "region": "United States",
+      "publication_or_update_date": null,
+      "url": "https://blogs.cornell.edu/applevarietydatabase/fact-sheet-white-rot/",
+      "source_type": "html",
+      "database_source_id": "S185",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S178": {
+      "source_id": "S178",
+      "title": "Fact Sheet: Sooty Blotch and Fly Speck",
+      "organization": "Cornell University - Khan Lab",
+      "region": "United States",
+      "publication_or_update_date": null,
+      "url": "https://blogs.cornell.edu/applevarietydatabase/factsheet-sooty-blotch-and-fly-speck/",
+      "source_type": "html",
+      "database_source_id": "S178",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S176": {
+      "source_id": "S176",
+      "title": "Fact Sheet: Cedar Apple Rust",
+      "organization": "Cornell University - Khan Lab",
+      "region": "United States",
+      "publication_or_update_date": null,
+      "url": "https://blogs.cornell.edu/applevarietydatabase/factsheet-cedar-apple-rust/",
+      "source_type": "html",
+      "database_source_id": "S176",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S182": {
+      "source_id": "S182",
+      "title": "Fact Sheet: Quince Rust",
+      "organization": "Cornell University - Khan Lab",
+      "region": "United States",
+      "publication_or_update_date": null,
+      "url": "https://blogs.cornell.edu/applevarietydatabase/fact-sheet-quince-rust/",
+      "source_type": "html",
+      "database_source_id": "S182",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S250": {
+      "source_id": "S250",
+      "title": "Pome Fruit Disease - Rust",
+      "organization": "Pennsylvania State University - Penn State Extension",
+      "region": "United States - Pennsylvania",
+      "publication_or_update_date": "June 26, 2024",
+      "url": "https://extension.psu.edu/pome-fruit-disease-rust",
+      "source_type": "html",
+      "database_source_id": "S250",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S017": {
+      "source_id": "S017",
+      "title": "Blue Mold",
+      "organization": "Washington State University - WSU Tree Fruit",
+      "region": "United States - Pacific Northwest",
+      "publication_or_update_date": "2020-04",
+      "url": "https://treefruit.wsu.edu/crop-protection/disease-management/blue-mold/",
+      "source_type": "html",
+      "database_source_id": "S017",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S038": {
+      "source_id": "S038",
+      "title": "Blue Mold",
+      "organization": "Washington State University - WSU Tree Fruit",
+      "region": "United States - Pacific Northwest",
+      "publication_or_update_date": "2020-04",
+      "url": "https://s3.us-west-2.amazonaws.com/treefruit.wsu.edu/wp-content/uploads/2020/04/16161352/Blue_Mold-2020.04.15-1.pdf",
+      "source_type": "pdf",
+      "database_source_id": "Pc13cae94dfdf4121",
+      "in_database": true,
+      "qa_pages": [
+        1,
+        3,
+        4
+      ],
+      "use_limits": "Historical US extension source; not current pesticide authorization, rates, or New Zealand management guidance. Apple/pome-fruit biology and cultural control, not pear-only advice. Printable counterpart of S017; not independent corroboration.",
+      "expert_fact_validation": false,
+      "equivalent_web_source_ids": [
+        "S017"
+      ]
+    },
+    "S180": {
+      "source_id": "S180",
+      "title": "Fact Sheet: Blue Mold",
+      "organization": "Cornell University - Khan Lab",
+      "region": "United States",
+      "publication_or_update_date": null,
+      "url": "https://blogs.cornell.edu/applevarietydatabase/fact-sheet-blue-mold/",
+      "source_type": "html",
+      "database_source_id": "S180",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S018": {
+      "source_id": "S018",
+      "title": "Gray Mold",
+      "organization": "Washington State University - WSU Tree Fruit",
+      "region": "United States - Pacific Northwest",
+      "publication_or_update_date": "2020-04",
+      "url": "https://treefruit.wsu.edu/crop-protection/disease-management/gray-mold/",
+      "source_type": "html",
+      "database_source_id": "S018",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S039": {
+      "source_id": "S039",
+      "title": "Gray Mold",
+      "organization": "Washington State University - WSU Tree Fruit",
+      "region": "United States - Pacific Northwest",
+      "publication_or_update_date": "2020-04",
+      "url": "https://s3.us-west-2.amazonaws.com/treefruit.wsu.edu/wp-content/uploads/2020/04/15135733/GrayMold-2020.04.15.pdf",
+      "source_type": "pdf",
+      "database_source_id": "P32845825ad7b835f",
+      "in_database": true,
+      "qa_pages": [
+        1,
+        3,
+        4
+      ],
+      "use_limits": "Historical US extension source; not current pesticide authorization, rates, or New Zealand management guidance. Apple/pome-fruit biology and cultural control, not pear-only advice. Printable counterpart of S018; not independent corroboration.",
+      "expert_fact_validation": false,
+      "equivalent_web_source_ids": [
+        "S018"
+      ]
+    },
+    "S016": {
+      "source_id": "S016",
+      "title": "Bull's Eye Rot",
+      "organization": "Washington State University - WSU Tree Fruit",
+      "region": "United States - Pacific Northwest",
+      "publication_or_update_date": "2020-04",
+      "url": "https://treefruit.wsu.edu/crop-protection/disease-management/bulls-eye-rot/",
+      "source_type": "html",
+      "database_source_id": "S016",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S037": {
+      "source_id": "S037",
+      "title": "Bull’s Eye Rot",
+      "organization": "Washington State University - WSU Tree Fruit",
+      "region": "United States - Pacific Northwest",
+      "publication_or_update_date": "2020-04",
+      "url": "https://s3.us-west-2.amazonaws.com/treefruit.wsu.edu/wp-content/uploads/2020/04/15152206/Bulls-eye-rot-2020.04.15.pdf",
+      "source_type": "pdf",
+      "database_source_id": "P4ffb637265c92420",
+      "in_database": true,
+      "qa_pages": [
+        1,
+        3
+      ],
+      "use_limits": "Historical US extension source; not current pesticide authorization, rates, or New Zealand management guidance. Apple/pome-fruit biology and cultural control, not pear-only advice. Printable counterpart of S016; not independent corroboration.",
+      "expert_fact_validation": false,
+      "equivalent_web_source_ids": [
+        "S016"
+      ]
+    },
+    "S074": {
+      "source_id": "S074",
+      "title": "Mucor Rot",
+      "organization": "Washington State University - WSU Tree Fruit",
+      "region": "United States - Pacific Northwest",
+      "publication_or_update_date": "By Achour Amiri and Keith van den Broek, WSU Plant Pathology. Updated February 2020. Downloadable pdf Mucor; Updated February 2020",
+      "url": "https://treefruit.wsu.edu/crop-protection/disease-management/mucor-rot/",
+      "source_type": "html",
+      "database_source_id": "S074",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S162": {
+      "source_id": "S162",
+      "title": "Mucor Rot",
+      "organization": "Washington State University - WSU Tree Fruit",
+      "region": "United States - Pacific Northwest",
+      "publication_or_update_date": "2020-02",
+      "url": "https://s3.us-west-2.amazonaws.com/treefruit.wsu.edu/wp-content/uploads/2020/03/02215437/Mucor-2020.03.02-F.pdf",
+      "source_type": "pdf",
+      "database_source_id": "Paa7c7d83b5c4967d",
+      "in_database": true,
+      "qa_pages": [
+        1,
+        3
+      ],
+      "use_limits": "Historical US extension source; not current pesticide authorization, rates, or New Zealand management guidance. Apple/pome-fruit biology and cultural control, not pear-only advice. Printable counterpart of S074; not independent corroboration.",
+      "expert_fact_validation": false,
+      "equivalent_web_source_ids": [
+        "S074"
+      ]
+    },
+    "S075": {
+      "source_id": "S075",
+      "title": "Phacidiopycnis Rot",
+      "organization": "Washington State University - WSU Tree Fruit",
+      "region": "United States - Pacific Northwest",
+      "publication_or_update_date": "By Achour Amiri, WSU Plant Pathology. Updated April 2020. Downloadable pdf Phacidiopycnis; Updated April 2020",
+      "url": "https://treefruit.wsu.edu/crop-protection/disease-management/phacidiopycnis-rot/",
+      "source_type": "html",
+      "database_source_id": "S075",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S163": {
+      "source_id": "S163",
+      "title": "Phacidiopycnis Rots: Apple Speck Rot and Pear Phacidiopycnis Rot",
+      "organization": "Washington State University - WSU Tree Fruit",
+      "region": "United States - Pacific Northwest",
+      "publication_or_update_date": "2020-04",
+      "url": "https://s3.us-west-2.amazonaws.com/treefruit.wsu.edu/wp-content/uploads/2020/04/15154246/Phacidiopycnis-2020.04.15.pdf",
+      "source_type": "pdf",
+      "database_source_id": "Pe09a620710faea85",
+      "in_database": true,
+      "qa_pages": [
+        1,
+        2,
+        4
+      ],
+      "use_limits": "Historical US extension source; not current pesticide authorization, rates, or New Zealand management guidance. Apple speck rot caused by P. washingtonensis only; pear P. pyri advice is excluded. Printable counterpart of S075; not independent corroboration.",
+      "expert_fact_validation": false,
+      "equivalent_web_source_ids": [
+        "S075"
+      ]
+    },
+    "S209": {
+      "source_id": "S209",
+      "title": "Apple Disease - Marssonina Blotch",
+      "organization": "Pennsylvania State University - Penn State Extension",
+      "region": "United States - Pennsylvania",
+      "publication_or_update_date": "June 1, 2026",
+      "url": "https://extension.psu.edu/apple-disease-marssonina-blotch",
+      "source_type": "html",
+      "database_source_id": "S209",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S183": {
+      "source_id": "S183",
+      "title": "Fact Sheet: Crown Gall",
+      "organization": "Cornell University - Khan Lab",
+      "region": "United States",
+      "publication_or_update_date": null,
+      "url": "https://blogs.cornell.edu/applevarietydatabase/fact-sheet-crown-gall/",
+      "source_type": "html",
+      "database_source_id": "S183",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S208": {
+      "source_id": "S208",
+      "title": "Apple Disease - Core Rot",
+      "organization": "Pennsylvania State University - Penn State Extension",
+      "region": "United States - Pennsylvania",
+      "publication_or_update_date": "January 5, 2024",
+      "url": "https://extension.psu.edu/apple-disease-core-rot",
+      "source_type": "html",
+      "database_source_id": "S208",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S211": {
+      "source_id": "S211",
+      "title": "Apple Disease: Moldy Core",
+      "organization": "Pennsylvania State University - Penn State Extension",
+      "region": "United States - Pennsylvania",
+      "publication_or_update_date": "January 5, 2024",
+      "url": "https://extension.psu.edu/apple-disease-moldy-core",
+      "source_type": "html",
+      "database_source_id": "S211",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S073": {
+      "source_id": "S073",
+      "title": "Apple Replant Disease",
+      "organization": "Washington State University - WSU Tree Fruit",
+      "region": "United States - Pacific Northwest",
+      "publication_or_update_date": null,
+      "url": "https://treefruit.wsu.edu/crop-protection/disease-management/apple-replant-disease/",
+      "source_type": "html",
+      "database_source_id": "S073",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S006": {
+      "source_id": "S006",
+      "title": "Codling Moth",
+      "organization": "University of California Agriculture and Natural Resources - UC IPM",
+      "region": "United States - California",
+      "publication_or_update_date": "Text Updated: 12/09; Treatment Table Updated: 10/15",
+      "url": "https://ipm.ucanr.edu/agriculture/apple/codling-moth/",
+      "source_type": "html",
+      "database_source_id": "S006",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S019": {
+      "source_id": "S019",
+      "title": "Codling Moth Management",
+      "organization": "Washington State University - WSU Tree Fruit",
+      "region": "United States - Pacific Northwest",
+      "publication_or_update_date": null,
+      "url": "https://treefruit.wsu.edu/crop-protection/opm/codling-moth/",
+      "source_type": "html",
+      "database_source_id": "S019",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S022": {
+      "source_id": "S022",
+      "title": "Tree Fruit Insect Pest - Codling Moth",
+      "organization": "Pennsylvania State University - Penn State Extension",
+      "region": "United States - Pennsylvania",
+      "publication_or_update_date": "February 25, 2026",
+      "url": "https://extension.psu.edu/tree-fruit-insect-pest-codling-moth",
+      "source_type": "html",
+      "database_source_id": "S022",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S007": {
+      "source_id": "S007",
+      "title": "Apple Maggot",
+      "organization": "University of California Agriculture and Natural Resources - UC IPM",
+      "region": "United States - California",
+      "publication_or_update_date": "Text Updated: 03/09; Treatment Table Updated: 10/15",
+      "url": "https://ipm.ucanr.edu/agriculture/apple/apple-maggot/",
+      "source_type": "html",
+      "database_source_id": "S007",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S077": {
+      "source_id": "S077",
+      "title": "Apple maggot",
+      "organization": "Washington State University - WSU Tree Fruit",
+      "region": "United States - Pacific Northwest",
+      "publication_or_update_date": null,
+      "url": "https://treefruit.wsu.edu/crop-protection/opm/am-control_waapple-growers/",
+      "source_type": "html",
+      "database_source_id": "S077",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S218": {
+      "source_id": "S218",
+      "title": "Tree Fruit Insect Pest - Apple Maggot",
+      "organization": "Pennsylvania State University - Penn State Extension",
+      "region": "United States - Pennsylvania",
+      "publication_or_update_date": "February 25, 2026",
+      "url": "https://extension.psu.edu/tree-fruit-insect-pest-apple-maggot",
+      "source_type": "html",
+      "database_source_id": "S218",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S170": {
+      "source_id": "S170",
+      "title": "Apple Maggot Control Options for Washington Apple Growers",
+      "organization": "Washington State University - WSU Tree Fruit",
+      "region": "United States - Pacific Northwest",
+      "publication_or_update_date": null,
+      "url": "https://treefruit.wsu.edu/wp-content/uploads/2016/06/AM-control-article_6-13-16.pdf",
+      "source_type": "pdf",
+      "database_source_id": "Pc0501a174c919567",
+      "in_database": true,
+      "qa_pages": [
+        1
+      ],
+      "use_limits": "Historical US extension source; not current pesticide authorization, rates, or New Zealand management guidance. Undated Washington apple-maggot source: biology only. Quarantine counts/status and insecticide options are not current evidence. Printable counterpart of S077; not independent corroboration.",
+      "expert_fact_validation": false,
+      "equivalent_web_source_ids": [
+        "S077"
+      ]
+    },
+    "S012": {
+      "source_id": "S012",
+      "title": "Woolly Apple Aphid",
+      "organization": "University of California Agriculture and Natural Resources - UC IPM",
+      "region": "United States - California",
+      "publication_or_update_date": "Text Updated: 01/11; Treatment Table Updated: 10/15",
+      "url": "https://ipm.ucanr.edu/agriculture/apple/woolly-apple-aphid/",
+      "source_type": "html",
+      "database_source_id": "S012",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S020": {
+      "source_id": "S020",
+      "title": "Woolly Apple Aphid",
+      "organization": "Washington State University - WSU Tree Fruit",
+      "region": "United States - Pacific Northwest",
+      "publication_or_update_date": "by Elizabeth H. Beers, Stanley C. Hoyt, and Michael J. Willett, originally published 1993; revised March 2010 E. Beers; and June 2019 Robert J. Orpet.; revised March 2010",
+      "url": "https://treefruit.wsu.edu/crop-protection/opm/woolly-apple-aphid/",
+      "source_type": "html",
+      "database_source_id": "S020",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S244": {
+      "source_id": "S244",
+      "title": "Tree Fruit Insect Pest - Woolly Apple Aphid",
+      "organization": "Pennsylvania State University - Penn State Extension",
+      "region": "United States - Pennsylvania",
+      "publication_or_update_date": "January 5, 2024",
+      "url": "https://extension.psu.edu/tree-fruit-insect-pest-woolly-apple-aphid",
+      "source_type": "html",
+      "database_source_id": "S244",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S009": {
+      "source_id": "S009",
+      "title": "Green Apple Aphid",
+      "organization": "University of California Agriculture and Natural Resources - UC IPM",
+      "region": "United States - California",
+      "publication_or_update_date": "Text Updated: 01/11; Treatment Table Updated: 10/15",
+      "url": "https://ipm.ucanr.edu/agriculture/apple/green-apple-aphid/",
+      "source_type": "html",
+      "database_source_id": "S009",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S084": {
+      "source_id": "S084",
+      "title": "Apple aphid and spirea aphid",
+      "organization": "Washington State University - WSU Tree Fruit",
+      "region": "United States - Pacific Northwest",
+      "publication_or_update_date": "by Elizabeth H. Beers , Stanley C. Hoyt, and Michael J. Willett, originally published 1993",
+      "url": "https://treefruit.wsu.edu/crop-protection/opm/apple-aphid-and-spirea-aphid/",
+      "source_type": "html",
+      "database_source_id": "S084",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S223": {
+      "source_id": "S223",
+      "title": "Tree Fruit Insect Pest - Green Aphids (Apple and Spirea Aphid)",
+      "organization": "Pennsylvania State University - Penn State Extension",
+      "region": "United States - Pennsylvania",
+      "publication_or_update_date": "February 25, 2026",
+      "url": "https://extension.psu.edu/tree-fruit-insect-pest-green-aphids-apple-and-spirea-aphid",
+      "source_type": "html",
+      "database_source_id": "S223",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S010": {
+      "source_id": "S010",
+      "title": "Rosy Apple Aphid",
+      "organization": "University of California Agriculture and Natural Resources - UC IPM",
+      "region": "United States - California",
+      "publication_or_update_date": "Text Updated: 01/11; Treatment Table Updated: 10/15",
+      "url": "https://ipm.ucanr.edu/agriculture/apple/rosy-apple-aphid/",
+      "source_type": "html",
+      "database_source_id": "S010",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S136": {
+      "source_id": "S136",
+      "title": "Rosy apple aphid",
+      "organization": "Washington State University - WSU Tree Fruit",
+      "region": "United States - Pacific Northwest",
+      "publication_or_update_date": "by Elizabeth H. Beers and Michael J. Willett, originally published 1993; revised December 2007; revised December 2007",
+      "url": "https://treefruit.wsu.edu/crop-protection/opm/rosy-apple-aphid/",
+      "source_type": "html",
+      "database_source_id": "S136",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S236": {
+      "source_id": "S236",
+      "title": "Tree Fruit Insect Pest - Rosy Apple Aphid",
+      "organization": "Pennsylvania State University - Penn State Extension",
+      "region": "United States - Pennsylvania",
+      "publication_or_update_date": "February 25, 2026",
+      "url": "https://extension.psu.edu/tree-fruit-insect-pest-rosy-apple-aphid",
+      "source_type": "html",
+      "database_source_id": "S236",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S086": {
+      "source_id": "S086",
+      "title": "Apple grain aphid",
+      "organization": "Washington State University - WSU Tree Fruit",
+      "region": "United States - Pacific Northwest",
+      "publication_or_update_date": "by Michael J. Willett, originally published 1993",
+      "url": "https://treefruit.wsu.edu/crop-protection/opm/apple-grain-aphid/",
+      "source_type": "html",
+      "database_source_id": "S086",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S216": {
+      "source_id": "S216",
+      "title": "Tree Fruit Insect Pest - Apple Grain Aphid",
+      "organization": "Pennsylvania State University - Penn State Extension",
+      "region": "United States - Pennsylvania",
+      "publication_or_update_date": "February 25, 2026",
+      "url": "https://extension.psu.edu/tree-fruit-insect-pest-apple-grain-aphid",
+      "source_type": "html",
+      "database_source_id": "S216",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S041": {
+      "source_id": "S041",
+      "title": "Apple Pandemis",
+      "organization": "University of California Agriculture and Natural Resources - UC IPM",
+      "region": "United States - California",
+      "publication_or_update_date": "Text Updated: 03/09; Treatment Table Updated: 10/15",
+      "url": "https://ipm.ucanr.edu/agriculture/apple/apple-pandemis/",
+      "source_type": "html",
+      "database_source_id": "S041",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S044": {
+      "source_id": "S044",
+      "title": "Fruittree Leafroller",
+      "organization": "University of California Agriculture and Natural Resources - UC IPM",
+      "region": "United States - California",
+      "publication_or_update_date": "Text Updated: 03/09; Treatment Table Updated: 10/15",
+      "url": "https://ipm.ucanr.edu/agriculture/apple/fruittree-leafroller/",
+      "source_type": "html",
+      "database_source_id": "S044",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S050": {
+      "source_id": "S050",
+      "title": "Obliquebanded Leafroller",
+      "organization": "University of California Agriculture and Natural Resources - UC IPM",
+      "region": "United States - California",
+      "publication_or_update_date": "Text Updated: 03/09; Treatment Table Updated: 10/15",
+      "url": "https://ipm.ucanr.edu/agriculture/apple/obliquebanded-leafroller/",
+      "source_type": "html",
+      "database_source_id": "S050",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S051": {
+      "source_id": "S051",
+      "title": "Omnivorous Leafroller",
+      "organization": "University of California Agriculture and Natural Resources - UC IPM",
+      "region": "United States - California",
+      "publication_or_update_date": "Text Updated: 03/09; Treatment Table Updated: 10/15",
+      "url": "https://ipm.ucanr.edu/agriculture/apple/omnivorous-leafroller/",
+      "source_type": "html",
+      "database_source_id": "S051",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S052": {
+      "source_id": "S052",
+      "title": "Orange Tortrix",
+      "organization": "University of California Agriculture and Natural Resources - UC IPM",
+      "region": "United States - California",
+      "publication_or_update_date": "Text Updated: 03/09; Treatment Table Updated: 10/15",
+      "url": "https://ipm.ucanr.edu/agriculture/apple/orange-tortrix/",
+      "source_type": "html",
+      "database_source_id": "S052",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S021": {
+      "source_id": "S021",
+      "title": "Leafrollers",
+      "organization": "Washington State University - WSU Tree Fruit",
+      "region": "United States - Pacific Northwest",
+      "publication_or_update_date": "by Jay Brunner, originally published 1993. Updated 2019.",
+      "url": "https://treefruit.wsu.edu/crop-protection/opm/leafrollers/",
+      "source_type": "html",
+      "database_source_id": "S021",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S227": {
+      "source_id": "S227",
+      "title": "Tree Fruit Insect Pest - Obliquebanded Leafroller",
+      "organization": "Pennsylvania State University - Penn State Extension",
+      "region": "United States - Pennsylvania",
+      "publication_or_update_date": "February 25, 2026",
+      "url": "https://extension.psu.edu/tree-fruit-insect-pest-obliquebanded-leafroller",
+      "source_type": "html",
+      "database_source_id": "S227",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S234": {
+      "source_id": "S234",
+      "title": "Tree Fruit Insect Pest - Redbanded Leafroller",
+      "organization": "Pennsylvania State University - Penn State Extension",
+      "region": "United States - Pennsylvania",
+      "publication_or_update_date": "February 25, 2026",
+      "url": "https://extension.psu.edu/tree-fruit-insect-pest-redbanded-leafroller",
+      "source_type": "html",
+      "database_source_id": "S234",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S241": {
+      "source_id": "S241",
+      "title": "Tree Fruit Insect Pest - Variegated Leafroller",
+      "organization": "Pennsylvania State University - Penn State Extension",
+      "region": "United States - Pennsylvania",
+      "publication_or_update_date": "November 1, 2023",
+      "url": "https://extension.psu.edu/tree-fruit-insect-pest-variegated-leafroller",
+      "source_type": "html",
+      "database_source_id": "S241",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S245": {
+      "source_id": "S245",
+      "title": "Tree Fruit Insect Pest -Tufted Apple Bud Moth",
+      "organization": "Pennsylvania State University - Penn State Extension",
+      "region": "United States - Pennsylvania",
+      "publication_or_update_date": "November 1, 2023",
+      "url": "https://extension.psu.edu/tree-fruit-insect-pest-tufted-apple-bud-moth",
+      "source_type": "html",
+      "database_source_id": "S245",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S008": {
+      "source_id": "S008",
+      "title": "European Red Mite",
+      "organization": "University of California Agriculture and Natural Resources - UC IPM",
+      "region": "United States - California",
+      "publication_or_update_date": "Text Updated: 03/09; Treatment Table Updated: 10/15",
+      "url": "https://ipm.ucanr.edu/agriculture/apple/european-red-mite/",
+      "source_type": "html",
+      "database_source_id": "S008",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S213": {
+      "source_id": "S213",
+      "title": "Orchard IPM - European Red Mite Biological Control",
+      "organization": "Pennsylvania State University - Penn State Extension",
+      "region": "United States - Pennsylvania",
+      "publication_or_update_date": "September 22, 2025",
+      "url": "https://extension.psu.edu/orchard-ipm-european-red-mite-biological-control",
+      "source_type": "html",
+      "database_source_id": "S213",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S252": {
+      "source_id": "S252",
+      "title": "Tree Fruit Mite Pest - European Red Mite",
+      "organization": "Pennsylvania State University - Penn State Extension",
+      "region": "United States - Pennsylvania",
+      "publication_or_update_date": "October 30, 2023",
+      "url": "https://extension.psu.edu/tree-fruit-mite-pest-european-red-mite",
+      "source_type": "html",
+      "database_source_id": "S252",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S055": {
+      "source_id": "S055",
+      "title": "Webspinning Spider Mites",
+      "organization": "University of California Agriculture and Natural Resources - UC IPM",
+      "region": "United States - California",
+      "publication_or_update_date": "Text Updated: 03/09; Treatment Table Updated: 10/15",
+      "url": "https://ipm.ucanr.edu/agriculture/apple/webspinning-spider-mites/",
+      "source_type": "html",
+      "database_source_id": "S055",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S142": {
+      "source_id": "S142",
+      "title": "Twospotted spider mite",
+      "organization": "Washington State University - WSU Tree Fruit",
+      "region": "United States - Pacific Northwest",
+      "publication_or_update_date": "by Elizabeth H. Beers and Stanley C. Hoyt, originally published 1993; by Stanley C. Hoyt and Elizabeth H. Beers, originally published 1993; by Elizabeth H. Beers and Peter H. Westigard, originally published 1993; by Elizabeth H. Beers and Stanley C. Hoyt, originally published 1993; revised December 2007; by Elizabeth H. Beers, Published online December 2007; revised December 2007",
+      "url": "https://treefruit.wsu.edu/crop-protection/opm/spider-mites/",
+      "source_type": "html",
+      "database_source_id": "S142",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S089": {
+      "source_id": "S089",
+      "title": "Apple rust mite",
+      "organization": "Washington State University - WSU Tree Fruit",
+      "region": "United States - Pacific Northwest",
+      "publication_or_update_date": "by Elizabeth H. Beers , George N. Oldfiield, and Peter H. Westigard, originally published 1993",
+      "url": "https://treefruit.wsu.edu/crop-protection/opm/apple-rust-mite/",
+      "source_type": "html",
+      "database_source_id": "S089",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S251": {
+      "source_id": "S251",
+      "title": "Tree Fruit Mite Pest - Apple Rust Mite",
+      "organization": "Pennsylvania State University - Penn State Extension",
+      "region": "United States - Pennsylvania",
+      "publication_or_update_date": "October 30, 2023",
+      "url": "https://extension.psu.edu/tree-fruit-mite-pest-apple-rust-mite",
+      "source_type": "html",
+      "database_source_id": "S251",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S011": {
+      "source_id": "S011",
+      "title": "San Jose Scale",
+      "organization": "University of California Agriculture and Natural Resources - UC IPM",
+      "region": "United States - California",
+      "publication_or_update_date": "Text Updated: 03/09; Treatment Table Updated: 10/15",
+      "url": "https://ipm.ucanr.edu/agriculture/apple/san-jose-scale/",
+      "source_type": "html",
+      "database_source_id": "S011",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S138": {
+      "source_id": "S138",
+      "title": "San Jose scale",
+      "organization": "Washington State University - WSU Tree Fruit",
+      "region": "United States - Pacific Northwest",
+      "publication_or_update_date": "by Stanley C. Hoyt, originally published 1993",
+      "url": "https://treefruit.wsu.edu/crop-protection/opm/san-jose-scale/",
+      "source_type": "html",
+      "database_source_id": "S138",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S237": {
+      "source_id": "S237",
+      "title": "Tree Fruit Insect Pest - San Jose Scale",
+      "organization": "Pennsylvania State University - Penn State Extension",
+      "region": "United States - Pennsylvania",
+      "publication_or_update_date": "November 1, 2023",
+      "url": "https://extension.psu.edu/tree-fruit-insect-pest-san-jose-scale",
+      "source_type": "html",
+      "database_source_id": "S237",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S048": {
+      "source_id": "S048",
+      "title": "Leafminers",
+      "organization": "University of California Agriculture and Natural Resources - UC IPM",
+      "region": "United States - California",
+      "publication_or_update_date": "Text Updated: 03/09; Treatment Table Updated: 10/15",
+      "url": "https://ipm.ucanr.edu/agriculture/apple/leafminers/",
+      "source_type": "html",
+      "database_source_id": "S048",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S157": {
+      "source_id": "S157",
+      "title": "Western tentiform leafminer",
+      "organization": "Washington State University - WSU Tree Fruit",
+      "region": "United States - Pacific Northwest",
+      "publication_or_update_date": "by Elizabeth H. Beers, Jay F. Brunner, and Bruce A. Barrett, originally published 1993; revised December 2007; revised December 2007",
+      "url": "https://treefruit.wsu.edu/crop-protection/opm/western-tentiform-leafminer/",
+      "source_type": "html",
+      "database_source_id": "S157",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S217": {
+      "source_id": "S217",
+      "title": "Tree Fruit Insect Pest - Apple Leafminer",
+      "organization": "Pennsylvania State University - Penn State Extension",
+      "region": "United States - Pennsylvania",
+      "publication_or_update_date": "February 25, 2026",
+      "url": "https://extension.psu.edu/tree-fruit-insect-pest-apple-leafminer",
+      "source_type": "html",
+      "database_source_id": "S217",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S240": {
+      "source_id": "S240",
+      "title": "Tree Fruit Insect Pest - Spotted Tentiform Leafminer",
+      "organization": "Pennsylvania State University - Penn State Extension",
+      "region": "United States - Pennsylvania",
+      "publication_or_update_date": "November 1, 2023",
+      "url": "https://extension.psu.edu/tree-fruit-insect-pest-spotted-tentiform-leafminer",
+      "source_type": "html",
+      "database_source_id": "S240",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S047": {
+      "source_id": "S047",
+      "title": "Leafhoppers",
+      "organization": "University of California Agriculture and Natural Resources - UC IPM",
+      "region": "United States - California",
+      "publication_or_update_date": "Text Updated: 03/09; Treatment Table Updated: 10/15",
+      "url": "https://ipm.ucanr.edu/agriculture/apple/leafhoppers/",
+      "source_type": "html",
+      "database_source_id": "S047",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S135": {
+      "source_id": "S135",
+      "title": "Rose leafhopper",
+      "organization": "Washington State University - WSU Tree Fruit",
+      "region": "United States - Pacific Northwest",
+      "publication_or_update_date": "by Elizabeth H. Beers and Erwin A. Elsner, originally published 1993",
+      "url": "https://treefruit.wsu.edu/crop-protection/opm/rose-leafhopper/",
+      "source_type": "html",
+      "database_source_id": "S135",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S158": {
+      "source_id": "S158",
+      "title": "White apple leafhopper",
+      "organization": "Washington State University - WSU Tree Fruit",
+      "region": "United States - Pacific Northwest",
+      "publication_or_update_date": "by Elizabeth H. Beers and Erwin A. Elsner, originally published 1993",
+      "url": "https://treefruit.wsu.edu/crop-protection/opm/white-apple-leafhopper/",
+      "source_type": "html",
+      "database_source_id": "S158",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S233": {
+      "source_id": "S233",
+      "title": "Tree Fruit Insect Pest - Potato Leafhopper",
+      "organization": "Pennsylvania State University - Penn State Extension",
+      "region": "United States - Pennsylvania",
+      "publication_or_update_date": "February 25, 2026",
+      "url": "https://extension.psu.edu/tree-fruit-insect-pest-potato-leafhopper",
+      "source_type": "html",
+      "database_source_id": "S233",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S235": {
+      "source_id": "S235",
+      "title": "Tree Fruit Insect Pest - Rose Leafhopper",
+      "organization": "Pennsylvania State University - Penn State Extension",
+      "region": "United States - Pennsylvania",
+      "publication_or_update_date": "November 1, 2023",
+      "url": "https://extension.psu.edu/tree-fruit-insect-pest-rose-leafhopper",
+      "source_type": "html",
+      "database_source_id": "S235",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S243": {
+      "source_id": "S243",
+      "title": "Tree Fruit Insect Pest - White Apple Leafhopper",
+      "organization": "Pennsylvania State University - Penn State Extension",
+      "region": "United States - Pennsylvania",
+      "publication_or_update_date": "November 1, 2023",
+      "url": "https://extension.psu.edu/tree-fruit-insect-pest-white-apple-leafhopper",
+      "source_type": "html",
+      "database_source_id": "S243",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S069": {
+      "source_id": "S069",
+      "title": "Brown Marmorated Stink Bug Provisional Guidelines for Apple",
+      "organization": "University of California Agriculture and Natural Resources - UC IPM",
+      "region": "United States - California",
+      "publication_or_update_date": null,
+      "url": "http://ipm.ucanr.edu/PMG/r4302711.html",
+      "source_type": "html",
+      "database_source_id": "S069",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S093": {
+      "source_id": "S093",
+      "title": "Brown marmorated stink bug",
+      "organization": "Washington State University - WSU Tree Fruit",
+      "region": "United States - Pacific Northwest",
+      "publication_or_update_date": "Elizabeth H. Beers and Adrian T. Marshall, published online September 2017. Updated 2017 Betsy Beers.",
+      "url": "https://treefruit.wsu.edu/crop-protection/opm/brown-marmorated-stink-bug/",
+      "source_type": "html",
+      "database_source_id": "S093",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S219": {
+      "source_id": "S219",
+      "title": "Tree Fruit Insect Pest - Brown Marmorated Stink Bug",
+      "organization": "Pennsylvania State University - Penn State Extension",
+      "region": "United States - Pennsylvania",
+      "publication_or_update_date": "February 25, 2026",
+      "url": "https://extension.psu.edu/tree-fruit-insect-pest-brown-marmorated-stink-bug",
+      "source_type": "html",
+      "database_source_id": "S219",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S202": {
+      "source_id": "S202",
+      "title": "Bronze beetle",
+      "organization": "Manaaki Whenua - Landcare Research",
+      "region": "New Zealand",
+      "publication_or_update_date": null,
+      "url": "https://www.landcareresearch.co.nz/tools-and-resources/identification/what-is-this-bug/bronze-beetle/",
+      "source_type": "html",
+      "database_source_id": "S202",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. New Zealand identification, distribution and life history only; this short source does not establish a management protocol.",
+      "expert_fact_validation": false
+    },
+    "S118": {
+      "source_id": "S118",
+      "title": "Lesser appleworm",
+      "organization": "Washington State University - WSU Tree Fruit",
+      "region": "United States - Pacific Northwest",
+      "publication_or_update_date": "by Harold R. Moffitt and Michael J. Willett, originally published 1993",
+      "url": "https://treefruit.wsu.edu/crop-protection/opm/lesser-appleworm/",
+      "source_type": "html",
+      "database_source_id": "S118",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S023": {
+      "source_id": "S023",
+      "title": "Tree Fruit Insect Pest - Lesser Appleworm",
+      "organization": "Pennsylvania State University - Penn State Extension",
+      "region": "United States - Pennsylvania",
+      "publication_or_update_date": "February 25, 2026",
+      "url": "https://extension.psu.edu/tree-fruit-insect-pest-lesser-appleworm",
+      "source_type": "html",
+      "database_source_id": "S023",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S126": {
+      "source_id": "S126",
+      "title": "Oriental fruit moth",
+      "organization": "Washington State University - WSU Tree Fruit",
+      "region": "United States - Pacific Northwest",
+      "publication_or_update_date": "by Jay F. Brunner and Richard E. Rice, originally published 1993",
+      "url": "https://treefruit.wsu.edu/crop-protection/opm/oriental-fruit-moth/",
+      "source_type": "html",
+      "database_source_id": "S126",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S228": {
+      "source_id": "S228",
+      "title": "Tree Fruit Insect Pest - Oriental Fruit Moth",
+      "organization": "Pennsylvania State University - Penn State Extension",
+      "region": "United States - Pennsylvania",
+      "publication_or_update_date": "February 25, 2026",
+      "url": "https://extension.psu.edu/tree-fruit-insect-pest-oriental-fruit-moth",
+      "source_type": "html",
+      "database_source_id": "S228",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    },
+    "S232": {
+      "source_id": "S232",
+      "title": "Tree Fruit Insect Pest - Plum Curculio",
+      "organization": "Pennsylvania State University - Penn State Extension",
+      "region": "United States - Pennsylvania",
+      "publication_or_update_date": "November 1, 2023",
+      "url": "https://extension.psu.edu/tree-fruit-insect-pest-plum-curculio",
+      "source_type": "html",
+      "database_source_id": "S232",
+      "in_database": true,
+      "use_limits": "Source-specific region and date apply. Pesticide statements are historical source information, not current label approval or locally authorised recommendations. Mixed-crop statements apply only to their explicitly identified crop. Preserve cultivar and location conditions.",
+      "expert_fact_validation": false
+    }
+  },
+  "current_database": {
+    "pdf_documents": 44,
+    "html_sources": 190,
+    "chunks": 3898
+  },
+  "known_gaps": [
+    "NZ sources in live corpus: S200 canker identification/spread/damage; S202 bronze beetle identification/life history/damage, not complete management.",
+    "34 previously imported PDF documents still have automatic rather than scoped/date/region review; not automatically ready for formal evidence.",
+    "All newly verified NZR sources are planning sources, not imports. Scope definition does not freeze the final test questions."
+  ],
+  "source_register_corrections": [
+    "Remove S200 as technical-management evidence for scab, fire blight, codling moth and LBAM.",
+    "Remove MPI query records from management coverage.",
+    "Merge duplicate NZ canker row.",
+    "Do not count printable PDF/web pairs as independent evidence."
+  ]
+}

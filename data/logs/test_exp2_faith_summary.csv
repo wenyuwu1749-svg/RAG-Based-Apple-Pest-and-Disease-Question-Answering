@@ -1,0 +1,9 @@
+﻿model,condition,answers,mean_claims,faithfulness_supported_of_assessable,share_supported,share_unsupported,share_contradicted,answers_with_contradiction,answers_with_citations,citation_validity,cited_claims_supported_by_citation,claims_missing_limitation
+claude,efficient,150,12.18,0.925,0.74,0.057,0.002,3,150,1.0,0.932,620
+claude,standard,150,13.02,0.927,0.765,0.057,0.001,1,150,1.0,0.944,1082
+deepseek,efficient,150,10.38,0.938,0.78,0.05,0.0,0,150,1.0,0.94,586
+deepseek,standard,150,10.97,0.953,0.805,0.037,0.002,3,150,1.0,0.953,805
+gemini,efficient,150,6.55,0.96,0.819,0.033,0.0,0,147,1.0,0.944,512
+gemini,standard,150,7.18,0.953,0.847,0.039,0.001,1,147,1.0,0.939,709
+pooled,efficient,450,9.7,0.941,0.78,0.047,0.001,3,447,1.0,0.938,1718
+pooled,standard,450,10.39,0.944,0.806,0.044,0.001,5,447,1.0,0.946,2596

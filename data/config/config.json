@@ -1,0 +1,65 @@
+{
+  "profiles": [
+    {
+      "id": "demo",
+      "name": "离线管线演示（非真实 LLM）",
+      "adapter": "demo",
+      "base_url": "",
+      "model": "offline-demo",
+      "key_env": ""
+    },
+    {
+      "id": "deepseek",
+      "name": "DeepSeek",
+      "adapter": "chat",
+      "base_url": "https://api.deepseek.com",
+      "model": "deepseek-flash",
+      "key_env": "DEEPSEEK_API_KEY",
+      "output_parameter": "max_tokens",
+      "send_temperature": false,
+      "temperature": 0,
+      "reasoning_effort": "none"
+    },
+    {
+      "id": "gemini",
+      "adapter": "chat",
+      "name": "Google Gemini",
+      "model": "gemini-3.6-flash",
+      "base_url": "https://generativelanguage.googleapis.com/v1beta/openai",
+      "key_env": "GEMINI_API_KEY",
+      "output_parameter": "max_tokens",
+      "send_temperature": false,
+      "temperature": 0,
+      "reasoning_effort": "none"
+    },
+    {
+      "id": "claude",
+      "adapter": "anthropic",
+      "name": "Claude Haiku",
+      "model": "claude-haiku-5-5",
+      "base_url": "https://api.anthropic.com",
+      "key_env": "ANTHROPIC_API_KEY",
+      "reasoning_effort": "none"
+    },
+    {
+      "id": "gpt_judge",
+      "name": "ChatGPT (judge)",
+      "adapter": "chat",
+      "base_url": "https://api.openai.com/v1",
+      "model": "gpt-5.4-mini-2026-03-17",
+      "key_env": "OPENAI_API_KEY",
+      "output_parameter": "max_completion_tokens",
+      "send_temperature": false,
+      "temperature": 0,
+      "reasoning_effort": "low",
+      "vendor": "openai"
+    }
+  ],
+  "embedding": {
+    "adapter": "local",
+    "model": "BAAI/bge-small-en-v1.5",
+    "query_prefix": "Represent this sentence for searching relevant passages: ",
+    "base_url": "",
+    "key_env": ""
+  }
+}

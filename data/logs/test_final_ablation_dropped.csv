@@ -1,0 +1,43 @@
+﻿question_id,chunk_id,reason,is_gold,score,top_score,title,section
+T001,S212:web:2,relevance_margin,0,0.734,0.7935,"Apple Diseases - Fruit Rots, Control at Apple Harvest (and Postharvest)",Necrotic Leaf Blotch vs. Gomerella Leaf Spot
+T001,S248:web:2,relevance_margin,0,0.7279,0.7935,Pome Fruit Disease - Black Rot and Frogeye Leaf Spot,Symptoms
+T004,S006:web:2,relevance_margin,1,0.7472,0.8052,Codling Moth,Damage
+T004,S023:web:3,relevance_margin,0,0.7397,0.8052,Tree Fruit Insect Pest - Lesser Appleworm,Injury
+T004,S211:web:2,relevance_margin,0,0.7321,0.8052,Apple Disease: Moldy Core,Symptoms
+T004,Pc857494577bd34fb:p30:c1,relevance_margin,0,0.7258,0.8052,Apple IPM for Beginners,Worms in apple fruit
+T004,S211:web:1,relevance_margin,0,0.7224,0.8052,Apple Disease: Moldy Core,Overview
+T007,S086:web:8,relevance_margin,0,0.7434,0.7948,Apple grain aphid,Damage
+T007,S086:web:1,relevance_margin,0,0.7389,0.7948,Apple grain aphid,Rhopalosiphum insertum (Walker) [= fitchii (Sanderson)] (Hom
+T010,S001:web:1,relevance_margin,0,0.7413,0.792,Apple Scab,Symptoms and Signs
+T010,S142:web:29,relevance_margin,1,0.7376,0.792,Twospotted spider mite,Damage
+T010,S089:web:7,relevance_margin,0,0.7368,0.792,Apple rust mite,Damage
+T011,S174:web:2,relevance_margin,0,0.7313,0.7842,Fact Sheet: Apple Scab,What does apple scab look like?
+T011,S208:web:2,relevance_margin,0,0.7293,0.7842,Apple Disease - Core Rot,Symptoms
+T011,S211:web:1,relevance_margin,0,0.7229,0.7842,Apple Disease: Moldy Core,Overview
+T011,S072:web:7,relevance_margin,0,0.7186,0.7842,Apple Anthracnose,Bull’s-eye Rot
+T011,Pfad1d86df7e72095:p3:c1,relevance_margin,0,0.7162,0.7842,Apple Anthracnose,"Apple anthracnose: symptoms, cycle and cultural management"
+T013,Pc857494577bd34fb:p26:c1,relevance_margin,1,0.7355,0.7922,Apple IPM for Beginners,Summer diseases
+T013,Pac2f744e6d94a879:p19:c1,relevance_margin,0,0.7273,0.7922,"Crop Profile for Apple in Canada, 2022 (Sixth Edition, 2023)",Apple Scab (Venturia inaequalis); biology/cultural managemen
+T013,S174:web:1,relevance_margin,0,0.7235,0.7922,Fact Sheet: Apple Scab,What is apple scab?
+T013,S212:web:2,relevance_margin,0,0.7205,0.7922,"Apple Diseases - Fruit Rots, Control at Apple Harvest (and Postharvest)",Necrotic Leaf Blotch vs. Gomerella Leaf Spot
+T015,S200:web:1,relevance_margin,1,0.7206,0.7847,European canker,What does it look like?
+T015,S004:web:2,relevance_margin,0,0.7072,0.7847,European Canker,Comments on the Disease
+T015,S015:web:4,relevance_margin,0,0.6999,0.7847,Fire Blight of Apple and Pear,Overwintering cankers
+T015,S004:web:1,relevance_margin,1,0.69,0.7847,European Canker,Symptoms and Signs
+T019,S208:web:2,relevance_margin,1,0.7614,0.8128,Apple Disease - Core Rot,Symptoms
+T019,S208:web:1,relevance_margin,0,0.7531,0.8128,Apple Disease - Core Rot,Overview
+T029,Pbb050e80247f328d:p7:c3,relevance_margin,0,0.7404,0.7955,IPM Manual for Minnesota Apple Orchards,Historical Minnesota apple biology/monitoring; 2007 conditio
+T029,S174:web:1,relevance_margin,0,0.7373,0.7955,Fact Sheet: Apple Scab,What is apple scab?
+T033,S014:web:18,relevance_margin,0,0.7686,0.8206,Apple Powdery Mildew,Table 2 Fungicides registered to control of powdery mildews 
+T033,S210:web:4,relevance_margin,0,0.7627,0.8206,Apple Disease - Powdery Mildew,Disease Management
+T033,P6b24c75c81538249:p7:c2,relevance_margin,0,0.7604,0.8206,"Slaked lime, baking soda and mineral oil for blackspot and powdery mildew contro",Discussion/conclusion – dated experimental context
+T045,S088:web:11,relevance_margin,0,0.7583,0.8138,Apple mealybug,Management
+T045,S088:web:2,relevance_margin,0,0.7439,0.8138,Apple mealybug,Hosts
+T045,Pacbf43db739da6f4:p1:c1,relevance_margin,1,0.7412,0.8138,Trapping obscure mealybug and its natural enemy in apple orchards,Apple mealybug monitoring – poster abstract only
+T048,S001:web:1,relevance_margin,0,0.7318,0.7851,Apple Scab,Symptoms and Signs
+T048,S250:web:2,relevance_margin,0,0.7311,0.7851,Pome Fruit Disease - Rust,Symptoms
+T048,S210:web:1,relevance_margin,0,0.7161,0.7851,Apple Disease - Powdery Mildew,Overview
+T048,P86663e8e7add6d5b:p7:c1,relevance_margin,0,0.715,0.7851,Seasonal wound presence and susceptibility to Neonectria ditissima infection in ,Discussion/conclusion – dated experimental context
+T050,S118:web:7,relevance_margin,1,0.7233,0.7873,Lesser appleworm,Damage
+T050,S211:web:2,relevance_margin,0,0.7181,0.7873,Apple Disease: Moldy Core,Symptoms
+T050,S126:web:9,relevance_margin,0,0.7174,0.7873,Oriental fruit moth,Damage

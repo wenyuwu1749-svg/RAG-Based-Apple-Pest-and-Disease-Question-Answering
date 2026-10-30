@@ -1,0 +1,6 @@
+﻿variant,median_est_tokens,chunks_kept,chunks_total,gold_kept,gold_available
+standard,3683.0,336,336,94,94
+compact_headers,2433.0,336,336,94,94
+headers_dedup,2433.0,336,336,94,94
+headers_margin,2133.5,286,336,85,94
+efficient,2133.5,286,336,85,94

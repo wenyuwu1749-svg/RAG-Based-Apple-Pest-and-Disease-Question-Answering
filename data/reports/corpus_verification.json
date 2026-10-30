@@ -1,0 +1,42 @@
+{
+  "checked_at_utc": "2026-10-14T08:55:31.075845+00:00",
+  "sqlite_integrity": "ok",
+  "unknown_source_ids": [],
+  "pdf_documents": 52,
+  "pdf_file_hash_matches": 52,
+  "pdf_pages_stored": 694,
+  "pdf_reextraction_exact": 629,
+  "pdf_reextraction_hyphen_or_whitespace_only": 65,
+  "pdf_reextraction_other_differences": 0,
+  "reviewed_pages": 127,
+  "reviewed_pages_matching_review_hash": 127,
+  "pdf_chunks": 199,
+  "pdf_chunks_regenerated_matching": 199,
+  "pdf_pages_contributing_chunks": 127,
+  "html_sources": 198,
+  "html_sources_hash_checks_passed": 198,
+  "html_chunks": 1845,
+  "html_chunks_regenerated_matching": 1845,
+  "total_chunks": 2044,
+  "chunks_with_control_or_replacement_chars": 0,
+  "distinct_normalised_chunk_texts": 2038,
+  "repeated_text_groups": 5,
+  "dense_index": {
+    "vectors": 2044,
+    "dimension": 384,
+    "model": "BAAI/bge-small-en-v1.5",
+    "matches_corpus": true
+  },
+  "corpus_hash": "412c2b17fedba02bf71919761761b0f59b111a4829b34e748bcc3897cf3cf0c8",
+  "database_sha256": "2a7cd73c8461f817fdbfded3dae446b506ddb70d7bed96c2b0267edf11a815b0",
+  "database_unchanged_by_check": true,
+  "freeze": {
+    "version": "corpus-v1-20261014",
+    "frozen_at": "2026-10-14T08:53:23.222717+00:00",
+    "corpus_hash_matches": true,
+    "database_sha256_matches": true,
+    "frozen_copy_sha256_matches": true,
+    "changed_files": [],
+    "added_files": []
+  }
+}

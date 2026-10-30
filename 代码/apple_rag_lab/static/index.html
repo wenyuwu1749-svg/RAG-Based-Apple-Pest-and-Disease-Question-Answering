@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="zh-CN">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,interactive-widget=resizes-content"><title>果知 · 苹果病虫害问答</title><link rel="stylesheet" href="/style.css">
+<script>try{const t=localStorage.getItem("apple-rag-theme");if(t==="light"||t==="dark")document.documentElement.dataset.theme=t;}catch{}</script></head>
+<body>
+<div class="app" id="app">
+<aside class="sidebar" id="sidebar" aria-label="侧边栏">
+  <div class="side-top">
+    <a class="brand" href="#qa"><span class="brand-mark" aria-hidden="true">G</span><span>果知<small>APPLE KNOWLEDGE</small></span></a>
+    <button id="collapse-sidebar" class="icon-btn" type="button" title="收起侧边栏" aria-label="收起侧边栏"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="4" width="18" height="16" rx="3"/><path d="M9 4v16"/></svg></button>
+  </div>
+  <button id="new-chat" class="new-chat" type="button"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg>新建对话</button>
+  <div id="chat-list" class="chat-list" role="list" aria-label="历史会话"></div>
+  <nav class="side-nav" aria-label="其他页面">
+    <a href="#experiment" data-view="experiment"><span aria-hidden="true">≋</span>实验对比</a>
+    <a href="#corpus" data-view="corpus"><span aria-hidden="true">▤</span>知识库</a>
+    <a href="#configuration" data-view="configuration"><span aria-hidden="true">⚙</span>API 设置</a>
+  </nav>
+  <div class="sidebar-bottom"><span class="status-dot"></span>本地运行 · 研究原型<small id="sidebar-state">正在连接知识库…</small></div>
+</aside>
+<div id="scrim" class="scrim" hidden></div>
+<main>
+  <header class="topbar">
+    <button id="open-sidebar" class="icon-btn" type="button" title="打开侧边栏" aria-label="打开侧边栏"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
+    <div class="topbar-title" id="view-title">新对话</div>
+    <div class="topbar-tools" id="chat-tools">
+      <select id="qa-model" aria-label="回答模型"><option>正在读取模型…</option></select>
+      <button id="settings-toggle" class="icon-btn" type="button" title="检索与回答设置" aria-label="检索与回答设置" aria-expanded="false" aria-controls="settings-pop"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h10M18 7h2M4 17h4M12 17h8"/><circle cx="16" cy="7" r="2"/><circle cx="10" cy="17" r="2"/></svg></button>
+    </div>
+    <button id="lang-toggle" class="icon-btn lang-btn" type="button">EN</button>
+    <button id="theme-toggle" class="icon-btn" type="button" title="切换深色模式" aria-label="切换深色模式"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.5A8 8 0 0 1 9.5 4 8 8 0 1 0 20 14.5z"/></svg></button>
+  </header>
+  <div id="settings-pop" class="settings-pop" hidden>
+    <strong>检索与回答设置</strong>
+    <input type="hidden" id="qa-retrieval" value="dense">
+    <div class="pop-grid"><label>Top K<input id="qa-top-k" type="number" min="1" max="30" value="6"></label><label>最大输出 token<input id="qa-output" type="number" min="32" max="8192" value="1024"></label><label hidden>压缩预算（估计 token）<input id="qa-budget" type="number" min="100" max="16000" value="4000"></label></div>
+    <p id="retrieval-help" class="hint"></p>
+  </div>
+  <div id="notice" role="status" aria-live="polite" hidden></div>
+  <section id="qa-view" class="view chat-view">
+    <div class="messages-wrap">
+      <div id="messages" class="messages"><div id="thread" class="thread"></div></div>
+      <button id="to-bottom" class="to-bottom" type="button" hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M6 13l6 6 6-6"/></svg>回到底部</button>
+    </div>
+    <div class="composer-wrap">
+      <form id="composer" class="composer">
+        <label for="qa-question" class="sr-only">你的问题</label>
+        <textarea id="qa-question" rows="1" maxlength="6000" placeholder="询问苹果病虫害的症状、发生条件或管理措施…"></textarea>
+        <div class="composer-bar">
+          <div class="mode-seg" role="radiogroup" aria-label="回答方式">
+            <label title="只用模型已有知识"><input type="radio" name="qa-mode" value="non_rag"><span>无 RAG</span></label>
+            <label title="检索完整资料片段"><input type="radio" name="qa-mode" value="standard" checked><span>标准 RAG</span></label>
+            <label title="筛选与压缩检索证据"><input type="radio" name="qa-mode" value="efficient"><span>精简 RAG</span></label>
+          </div>
+          <button id="send" class="send" type="submit" aria-label="发送" title="发送（Enter）" disabled></button>
+        </div>
+      </form>
+      <p class="disclaimer">AI 生成的内容可能有误，请核实重要信息 · 每个问题独立回答，不带入上文</p>
+    </div>
+    <aside id="sources-drawer" class="sources-drawer" aria-label="回答依据" aria-hidden="true">
+      <div class="drawer-head"><h2>回答依据 <span id="evidence-count" class="badge">0 条</span></h2><button id="close-sources" class="icon-btn" type="button" aria-label="关闭"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+      <div id="qa-sources" class="drawer-body"></div>
+      <p class="region-note"><strong>留意资料的适用地区：</strong>美国来源的管理措施需要结合当地规定判断；物种状态记录不能替代防治指南。</p>
+    </aside>
+  </section>
+<div id="experiment-view" class="view" hidden><section id="experiment" class="panel"><h2>批量对比实验</h2><div class="grid"><div><label>参与比较的 API</label><div id="profiles" class="choices"></div></div><div><label>回答条件</label><div class="choices"><label><input type="checkbox" name="mode" value="non_rag" checked> 无 RAG · 模型已有知识</label><label><input type="checkbox" name="mode" value="standard" checked> 标准 RAG · 完整检索片段</label><label><input type="checkbox" name="mode" value="efficient" checked> 精简 RAG · 筛选与压缩证据</label></div></div></div>
+<label for="questions">测试问题（每行一道）</label><textarea id="questions" rows="4">What are the symptoms of apple scab?
+How can codling moth damage be identified in apples?</textarea>
+<div class="settings"><input type="hidden" id="retrieval" value="dense"><label>Top K<input id="top-k" type="number" min="1" max="30" value="6"></label><label hidden>压缩证据预算（估计 token）<input id="budget" type="number" min="100" max="16000" value="4000"></label><label>最大输出 token<input id="max-output" type="number" min="32" max="8192" value="1024"></label><label>重复次数<input id="repeats" type="number" min="1" max="5" value="1"></label></div>
+<p class="hint">每次请求独立发送，运行顺序随机；两种 RAG 条件使用同一批检索结果，所有条件使用相同输出上限。用量以服务商返回为准，结果写入 data/logs。</p><button id="run" class="primary">运行所选条件</button><span id="run-status" class="hint"></span></section>
+<section id="results" class="panel"><div class="section-head"><h2>回答与实验记录</h2><div><a href="/api/export" download="runs.json">导出完整 JSON</a> · <a href="/api/export.csv" download="runs.csv">导出 CSV</a></div></div><p class="hint">准确性需依据参考答案人工评分。引用编号检查只检查范围，不代表事实或引用正确。</p><div id="result-list"><p class="empty">运行后，每个模型、每种条件的结果会显示在这里。</p></div></section>
+</div>
+<div id="corpus-view" class="view" hidden><section class="panel corpus-card"><div class="section-head"><h2>当前知识库</h2><span class="status-dot"></span></div><div id="corpus-count" class="corpus-number">—<small>资料片段</small></div><div id="summary" class="hint">正在读取…</div><p id="library-description" class="hint"></p></section><section id="corpus" class="panel"><h2>共享知识库</h2><p>工作知识库包含已导入的网页正文与本地 PDF 文献，回答可按来源和页码追溯。</p><section class="pdf-management"><h3>本地 PDF 文献</h3><p class="hint" data-edit-corpus>读取项目根目录的 data/pdf 文件夹；逐页提取，重复导入会更新 PDF 正文并保留网页资料。原始 PDF 保持原样。明确无关或预览文档保存到资料库，暂不用于问答；提取完成不等于人工审核完成。</p><div class="actions"><button id="import-pdfs" data-edit-corpus>导入 / 更新 PDF 文献</button><span id="pdf-summary" class="hint">正在读取…</span></div><label for="pdf-search">搜索本地文献<input id="pdf-search" placeholder="标题、文件名或病虫害专题"></label><div id="pdf-list" class="pdf-list"></div></section><p class="hint" data-edit-corpus>网页导入只替换网页语料，保留已导入 PDF 正文，并使旧向量索引失效；原始采集文件保持原样。此版本自动解析 HTML 的 main 区域；PDF 在上方单独导入；特殊页面、表格和自动提取的正文仍需审核。</p><label>搜索网页来源<input id="source-search" placeholder="apple scab / Cornell / S001"></label><div id="source-list" class="source-list"></div><div class="actions" data-edit-corpus><button id="import-sources">用勾选来源更新网页语料</button><button id="build-index">调用 Embedding API 构建索引</button></div><p class="hint" data-edit-corpus>构建索引将把工作语料发送给配置的 embedding 服务并产生相应用量。标准 RAG 和压缩 RAG 共用这一索引。</p><label data-edit-corpus>或导入已审核的 chunk JSON<input id="json-file" type="file" accept=".json,application/json"></label><button id="import-json" data-edit-corpus>导入 JSON 并替换工作语料</button><p class="hint" data-edit-corpus>格式示例与操作说明见项目 README。日志写入项目 data/logs 文件夹，片段数据库位于 data/chunks，保留实际提示词、来源元数据和 API 响应。</p></section></div>
+<div id="configuration-view" class="view" hidden><section id="configuration" class="panel"><h2>模型 API 配置</h2><p class="hint">选择模型，填写模型 ID 和 API Key 后保存。若已用 setx 设置环境变量，Key 会自动加载，这里无需填写。Key 只保存在当前程序内存中，不写入任何文件。</p><label>选择要配置的模型<select id="profile-editor"></select></label><form id="profile-form"><div class="grid"><label>模型 ID<input id="p-model" required></label><label>API Key（留空保留现有 Key）<input id="p-key" type="password" autocomplete="new-password"></label></div><details class="advanced" hidden><summary>高级设置</summary><div class="grid"><label>显示名称<input id="p-name" required></label><label>Base URL<input id="p-url" required placeholder="https://api.example.com/v1"></label><label>Key 环境变量名称<input id="p-env"></label><label>输出限制参数<select id="p-output"><option>max_tokens</option><option>max_completion_tokens</option></select></label><label>思考强度 reasoning_effort（none = 关闭思考）<select id="p-effort"><option value="">不发送</option><option value="none">none（关闭）</option><option value="minimal">minimal</option><option value="low">low</option><option value="medium">medium</option><option value="high">high</option></select></label><label>Temperature<input id="p-temp" type="number" step="0.1" min="0" max="2" value="0"></label></div><label class="inline"><input id="p-send-temp" type="checkbox">发送 temperature 参数（模型支持时启用）</label></details><button type="submit" class="primary">保存</button></form><p id="fixed-settings" class="hint fixed-settings"></p>
+<details class="advanced" hidden><summary>Embedding</summary><form id="embedding-form"><div class="grid"><label>类型<select id="e-adapter"><option value="local">本地 sentence-transformers</option><option value="remote">远程兼容 API</option></select></label><label>查询前缀（本地 BGE 用）<input id="e-prefix"></label><label>Base URL（远程用）<input id="e-url"></label><label>Embedding 模型 ID<input id="e-model" required></label><label>Key 环境变量名称<input id="e-env"></label><label>API Key（留空保留现有 Key）<input id="e-key" type="password" autocomplete="new-password"></label></div><button type="submit">保存 Embedding 配置</button></form></details></section>
+</div>
+</main>
+</div>
+<script src="/app.js"></script>
+</body>
+</html>

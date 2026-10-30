@@ -1,0 +1,13 @@
+﻿model,condition,median_input,median_output
+claude,non_rag,275.5,532.5
+claude,standard,4136.5,640.5
+claude,headers_only,2995.5,577.0
+claude,efficient,2702.5,536.5
+gemini,non_rag,163.0,298.5
+gemini,standard,2626.5,220.0
+gemini,headers_only,1872.5,199.5
+gemini,efficient,1704.5,177.5
+deepseek,non_rag,173.0,342.5
+deepseek,standard,2572.0,336.0
+deepseek,headers_only,1875.5,320.5
+deepseek,efficient,1716.0,295.0

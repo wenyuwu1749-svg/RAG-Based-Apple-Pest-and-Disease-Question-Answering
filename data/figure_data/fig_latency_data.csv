@@ -1,0 +1,13 @@
+﻿model,condition,n,median_s,q1_s,q3_s
+claude,non_rag,150,4.31,3.917,4.812
+claude,standard,150,4.696,4.187,5.228
+claude,headers_only,150,4.448,3.966,5.01
+claude,efficient,150,4.246,3.659,4.897
+gemini,non_rag,150,3.643,3.113,4.262
+gemini,standard,150,3.177,2.698,3.771
+gemini,headers_only,150,3.129,2.645,3.646
+gemini,efficient,150,2.912,2.528,3.483
+deepseek,non_rag,150,3.724,3.211,4.256
+deepseek,standard,150,3.28,2.729,3.875
+deepseek,headers_only,150,3.162,2.687,3.687
+deepseek,efficient,150,3.041,2.585,3.514

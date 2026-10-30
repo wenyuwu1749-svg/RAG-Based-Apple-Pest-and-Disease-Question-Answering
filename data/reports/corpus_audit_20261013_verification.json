@@ -1,0 +1,475 @@
+{
+  "sqlite_integrity": "ok",
+  "all_current_rows_equal_prepared": true,
+  "raw_pdf_pages_unchanged": 1123,
+  "original_source_files_unchanged": 264,
+  "originals_sha256_verified": true,
+  "table_rows_text_and_footnotes_unchanged": 290,
+  "active_html_hashes_verified": 198,
+  "background_html_hashes_verified": 1,
+  "pdf_reimport_dry_run": 2,
+  "reviewed_ranges_revalidated": 65,
+  "models_called": 0,
+  "runtime_code_unchanged": true,
+  "missing_dates": [
+    {
+      "source_id": "Pc0501a174c919567",
+      "title": "Apple Maggot Control Options for Washington Apple Growers",
+      "format": "PDF"
+    },
+    {
+      "source_id": "S015",
+      "title": "Fire Blight of Apple and Pear",
+      "format": "HTML"
+    },
+    {
+      "source_id": "S019",
+      "title": "Codling Moth Management",
+      "format": "HTML"
+    },
+    {
+      "source_id": "S025",
+      "title": "Fact Sheet: Fire Blight",
+      "format": "HTML"
+    },
+    {
+      "source_id": "S069",
+      "title": "Brown Marmorated Stink Bug Provisional Guidelines for Apple",
+      "format": "HTML"
+    },
+    {
+      "source_id": "S073",
+      "title": "Apple Replant Disease",
+      "format": "HTML"
+    },
+    {
+      "source_id": "S076",
+      "title": "Phytophthora",
+      "format": "HTML"
+    },
+    {
+      "source_id": "S077",
+      "title": "Apple maggot",
+      "format": "HTML"
+    },
+    {
+      "source_id": "S092",
+      "title": "Pearleaf and appleleaf blister mite",
+      "format": "HTML"
+    },
+    {
+      "source_id": "S108",
+      "title": "Fruitworms, armyworms and climbing cutworms",
+      "format": "HTML"
+    },
+    {
+      "source_id": "S117",
+      "title": "Convergent lady beetle, transverse lady beetle, black lady beetle, Scymnus spp., mealybug destroyer",
+      "format": "HTML"
+    },
+    {
+      "source_id": "S123",
+      "title": "Mites: general biology",
+      "format": "HTML"
+    },
+    {
+      "source_id": "S125",
+      "title": "Natural Enemies",
+      "format": "HTML"
+    },
+    {
+      "source_id": "S127",
+      "title": "Other predatory bugs",
+      "format": "HTML"
+    },
+    {
+      "source_id": "S129",
+      "title": "Pacific flatheaded borer",
+      "format": "HTML"
+    },
+    {
+      "source_id": "S146",
+      "title": "Tachinid flies",
+      "format": "HTML"
+    },
+    {
+      "source_id": "S150",
+      "title": "Trichogramma spp.",
+      "format": "HTML"
+    },
+    {
+      "source_id": "S174",
+      "title": "Fact Sheet: Apple Scab",
+      "format": "HTML"
+    },
+    {
+      "source_id": "S175",
+      "title": "Fact Sheet: Powdery Mildew",
+      "format": "HTML"
+    },
+    {
+      "source_id": "S176",
+      "title": "Fact Sheet: Cedar Apple Rust",
+      "format": "HTML"
+    },
+    {
+      "source_id": "S177",
+      "title": "Fact Sheet: Black Rot and Frogeye Leaf Spot",
+      "format": "HTML"
+    },
+    {
+      "source_id": "S178",
+      "title": "Fact Sheet: Sooty Blotch and Fly Speck",
+      "format": "HTML"
+    },
+    {
+      "source_id": "S179",
+      "title": "Fact Sheet: Bitter Rot",
+      "format": "HTML"
+    },
+    {
+      "source_id": "S180",
+      "title": "Fact Sheet: Blue Mold",
+      "format": "HTML"
+    },
+    {
+      "source_id": "S181",
+      "title": "Fact Sheet: Apple Anthracnose",
+      "format": "HTML"
+    },
+    {
+      "source_id": "S182",
+      "title": "Fact Sheet: Quince Rust",
+      "format": "HTML"
+    },
+    {
+      "source_id": "S183",
+      "title": "Fact Sheet: Crown Gall",
+      "format": "HTML"
+    },
+    {
+      "source_id": "S184",
+      "title": "Fact Sheet: Nectria Twig Blight and Canker",
+      "format": "HTML"
+    },
+    {
+      "source_id": "S185",
+      "title": "Fact Sheet: White Rot",
+      "format": "HTML"
+    },
+    {
+      "source_id": "S200",
+      "title": "European canker",
+      "format": "HTML"
+    },
+    {
+      "source_id": "S202",
+      "title": "Bronze beetle",
+      "format": "HTML"
+    },
+    {
+      "source_id": "S265",
+      "title": "Fireblight",
+      "format": "HTML"
+    },
+    {
+      "source_id": "S266",
+      "title": "Apple leaf-curling midge (ALCM)",
+      "format": "HTML"
+    },
+    {
+      "source_id": "S279",
+      "title": "European canker",
+      "format": "HTML"
+    }
+  ],
+  "uncertain_applicability": [
+    "Pde5a5e1e58a522e8"
+  ],
+  "exact_duplicate_groups": [
+    {
+      "ids": [
+        "Pac2f744e6d94a879:p53:c2",
+        "Pac2f744e6d94a879:p54:c2"
+      ],
+      "text": "Resistant cultivars: There are no resistant cultivars available."
+    },
+    {
+      "ids": [
+        "S045:web:4",
+        "S050:web:5",
+        "S057:web:4"
+      ],
+      "text": "Sprays of Bacillus thuringiensis and the Entrust formulation of spinosad are organically acceptable."
+    },
+    {
+      "ids": [
+        "S061:web:9",
+        "S062:web:15"
+      ],
+      "text": "Rating: 5 = excellent and consistent, 4 = good and reliable, 3 = moderate and variable, 2 = limited and/or erratic, 1 = minimal and often ineffective, 0 = ineffective. Acknowledgment: Adaskaveg et al., 2025. Fungicides, Bactericides, Biocontrols, and Natural Products for Deciduous Tree Fruit and Nut, Citrus, Strawberry, and Vine Crops in California ."
+    },
+    {
+      "ids": [
+        "S089:web:12",
+        "S123:web:7"
+      ],
+      "text": "Rust mites overwinter as inseminated deutogynes. These females do not reproduce in the year in which they are produced. Some chilling is required before they will lay eggs in the spring. As with protogynes, these eggs produce both males and females. The rust mite has two nymphal instars, which resemble the adult but are smaller. Each molt is preceded by a quiescent phase. Male rust mites are produced by unfertilized eggs and females are produced by fertilized eggs ( arrhenotokous parthenogenesis ). They do not actually mate. The males deposit stalked spermatophores (structures containing a packet of sperm) on the leaves. Females walk over a spermatophore and empty it of the sperm, storing it in a special pouch called a spermatheca. Both sexes will be produced from eggs when females have access to spermatophores. Multiple overlapping generations are produced during the year, the number depending on the climate, location and condition of the host. The hibernating forms (deutogynes) are produced in response to either poor host condition or climatic conditions (cool weather, shorter photoperiod) that occur in the fall."
+    },
+    {
+      "ids": [
+        "S105:web:4",
+        "S128:web:3"
+      ],
+      "text": "The egg is oval and pearly white."
+    }
+  ],
+  "retrieval_checks": [
+    {
+      "question": "What are the symptoms of apple scab?",
+      "retrieved": [
+        {
+          "id": "S001:web:1",
+          "source_id": "S001",
+          "title": "Apple Scab",
+          "region": "United States - California",
+          "score": 0.5103103630798288
+        },
+        {
+          "id": "Pbb050e80247f328d:p7:c3",
+          "source_id": "Pbb050e80247f328d",
+          "title": "IPM Manual for Minnesota Apple Orchards",
+          "region": "United States - Minnesota",
+          "score": 0.4815434123430768
+        },
+        {
+          "id": "Pefa41618826dc82c:p1:c1",
+          "source_id": "Pefa41618826dc82c",
+          "title": "Integrating Biological Control Agents for Enhanced Management of Apple Scab (Venturia inaequalis): Insights, Risks, Challenges, and Prospects",
+          "region": "Multiple regions - literature review",
+          "score": 0.44074127735352675
+        },
+        {
+          "id": "S085:web:2",
+          "source_id": "S085",
+          "title": "Apple ermine moth",
+          "region": "United States - Pacific Northwest",
+          "score": 0.4364357804719848
+        },
+        {
+          "id": "S174:web:1",
+          "source_id": "S174",
+          "title": "Fact Sheet: Apple Scab",
+          "region": "United States",
+          "score": 0.4364357804719847
+        }
+      ],
+      "interpretation": "Retrieval smoke check only; neither answer correctness nor NZ prioritisation validated."
+    },
+    {
+      "question": "How does codling moth damage apples?",
+      "retrieved": [
+        {
+          "id": "P7f06906fa20a6997:p5:c1",
+          "source_id": "P7f06906fa20a6997",
+          "title": "Codling moth (Cydia pomonella) mating disruption outcomes in apple orchards",
+          "region": "New Zealand - Hawke’s Bay",
+          "score": 0.47406122236815734
+        },
+        {
+          "id": "S022:web:1",
+          "source_id": "S022",
+          "title": "Tree Fruit Insect Pest - Codling Moth",
+          "region": "United States - Pennsylvania",
+          "score": 0.4535573676110727
+        },
+        {
+          "id": "P7f06906fa20a6997:p4:c1",
+          "source_id": "P7f06906fa20a6997",
+          "title": "Codling moth (Cydia pomonella) mating disruption outcomes in apple orchards",
+          "region": "New Zealand - Hawke’s Bay",
+          "score": 0.45018378599908565
+        },
+        {
+          "id": "S006:web:6",
+          "source_id": "S006",
+          "title": "Codling Moth",
+          "region": "United States - California",
+          "score": 0.4242640687119285
+        },
+        {
+          "id": "S006:web:4",
+          "source_id": "S006",
+          "title": "Codling Moth",
+          "region": "United States - California",
+          "score": 0.40451991747794525
+        }
+      ],
+      "interpretation": "Retrieval smoke check only; neither answer correctness nor NZ prioritisation validated."
+    },
+    {
+      "question": "How is European canker managed in New Zealand apple orchards?",
+      "retrieved": [
+        {
+          "id": "P86663e8e7add6d5b:p7:c1",
+          "source_id": "P86663e8e7add6d5b",
+          "title": "Seasonal wound presence and susceptibility to Neonectria ditissima infection in New Zealand apple trees",
+          "region": "New Zealand - apple wound-inoculation trials",
+          "score": 0.415339305320932
+        },
+        {
+          "id": "S200:web:1",
+          "source_id": "S200",
+          "title": "European canker",
+          "region": "New Zealand",
+          "score": 0.3368165348543039
+        },
+        {
+          "id": "Pd4d07b9361cfc0e3:p6:c2",
+          "source_id": "Pd4d07b9361cfc0e3",
+          "title": "Can phosphorous acid be used to control Neonectria ditissima in New Zealand grown apples?",
+          "region": "New Zealand - Tasman (Motueka and Waimea Plains)",
+          "score": 0.33407655239053047
+        },
+        {
+          "id": "Pbb050e80247f328d:p7:c3",
+          "source_id": "Pbb050e80247f328d",
+          "title": "IPM Manual for Minnesota Apple Orchards",
+          "region": "United States - Minnesota",
+          "score": 0.31524416249564025
+        },
+        {
+          "id": "S279:web:2",
+          "source_id": "S279",
+          "title": "European canker",
+          "region": "New Zealand",
+          "score": 0.3092436597348223
+        }
+      ],
+      "interpretation": "Retrieval smoke check only; neither answer correctness nor NZ prioritisation validated."
+    },
+    {
+      "question": "How can blue mould develop in stored apples?",
+      "retrieved": [
+        {
+          "id": "P8f0bceeb6a5ac6cb:p4:c1",
+          "source_id": "P8f0bceeb6a5ac6cb",
+          "title": "Yeast isolates to inhibit blue mould and bitter rot of apples",
+          "region": "New Zealand - orchard yeast isolates and detached apple tests",
+          "score": 0.2877882657259857
+        },
+        {
+          "id": "Pc13cae94dfdf4121:p1:c1",
+          "source_id": "Pc13cae94dfdf4121",
+          "title": "Blue Mold",
+          "region": "United States - Pacific Northwest",
+          "score": 0.28054180384339106
+        },
+        {
+          "id": "S017:web:3",
+          "source_id": "S017",
+          "title": "Blue Mold",
+          "region": "United States - Pacific Northwest",
+          "score": 0.25923792368260634
+        },
+        {
+          "id": "S017:web:7",
+          "source_id": "S017",
+          "title": "Blue Mold",
+          "region": "United States - Pacific Northwest",
+          "score": 0.25923792368260634
+        },
+        {
+          "id": "P8f0bceeb6a5ac6cb:p1:c1",
+          "source_id": "P8f0bceeb6a5ac6cb",
+          "title": "Yeast isolates to inhibit blue mould and bitter rot of apples",
+          "region": "New Zealand - orchard yeast isolates and detached apple tests",
+          "score": 0.25342662267125027
+        }
+      ],
+      "interpretation": "Retrieval smoke check only; neither answer correctness nor NZ prioritisation validated."
+    },
+    {
+      "question": "How are woolly apple aphid populations monitored?",
+      "retrieved": [
+        {
+          "id": "S020:web:11",
+          "source_id": "S020",
+          "title": "Woolly Apple Aphid",
+          "region": "United States - Pacific Northwest",
+          "score": 0.6075249176639929
+        },
+        {
+          "id": "S244:web:6",
+          "source_id": "S244",
+          "title": "Tree Fruit Insect Pest - Woolly Apple Aphid",
+          "region": "United States - Pennsylvania",
+          "score": 0.5692099788303083
+        },
+        {
+          "id": "S084:web:1",
+          "source_id": "S084",
+          "title": "Apple aphid and spirea aphid",
+          "region": "United States - Pacific Northwest",
+          "score": 0.5290502621624716
+        },
+        {
+          "id": "S012:web:3",
+          "source_id": "S012",
+          "title": "Woolly Apple Aphid",
+          "region": "United States - California",
+          "score": 0.5217491947499509
+        },
+        {
+          "id": "S084:web:2",
+          "source_id": "S084",
+          "title": "Apple aphid and spirea aphid",
+          "region": "United States - Pacific Northwest",
+          "score": 0.50709255283711
+        }
+      ],
+      "interpretation": "Retrieval smoke check only; neither answer correctness nor NZ prioritisation validated."
+    },
+    {
+      "question": "What is the role of sanitation in fire blight management?",
+      "retrieved": [
+        {
+          "id": "S015:web:17",
+          "source_id": "S015",
+          "title": "Fire Blight of Apple and Pear",
+          "region": "United States - Pacific Northwest",
+          "score": 0.4791621985883838
+        },
+        {
+          "id": "S015:web:16",
+          "source_id": "S015",
+          "title": "Fire Blight of Apple and Pear",
+          "region": "United States - Pacific Northwest",
+          "score": 0.3627381250550058
+        },
+        {
+          "id": "S025:web:1",
+          "source_id": "S025",
+          "title": "Fact Sheet: Fire Blight",
+          "region": "United States",
+          "score": 0.3522082237986393
+        },
+        {
+          "id": "S002:web:1",
+          "source_id": "S002",
+          "title": "Fire Blight",
+          "region": "United States - California",
+          "score": 0.31622776601683794
+        },
+        {
+          "id": "S024:web:7",
+          "source_id": "S024",
+          "title": "Pest Management in Apples in Home Fruit Plantings",
+          "region": "United States - Pennsylvania",
+          "score": 0.2998226426093876
+        }
+      ],
+      "interpretation": "Retrieval smoke check only; neither answer correctness nor NZ prioritisation validated."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+﻿question_id,chunk_id,reason,is_gold,score,top_score,title,section
+T001,S212:web:2,relevance_margin,0,0.734,0.7935,"Apple Diseases - Fruit Rots, Control at Apple Harvest (and Postharvest)",Necrotic Leaf Blotch vs. Gomerella Leaf Spot
+T001,S178:web:1,relevance_margin,0,0.7192,0.7935,Fact Sheet: Sooty Blotch and Fly Speck,Overview
+T004,S023:web:3,relevance_margin,0,0.7397,0.8052,Tree Fruit Insect Pest - Lesser Appleworm,Injury
+T004,S006:web:2,relevance_margin,1,0.7472,0.8052,Codling Moth,Damage
+T004,S083:web:8,relevance_margin,0,0.7209,0.8052,Aphelinus mali,Monitoring
+T004,Pc857494577bd34fb:p30:c1,relevance_margin,0,0.7258,0.8052,Apple IPM for Beginners,Worms in apple fruit
+T004,S211:web:2,relevance_margin,0,0.7321,0.8052,Apple Disease: Moldy Core,Symptoms
+T007,S086:web:1,relevance_margin,0,0.7389,0.7948,Apple grain aphid,Rhopalosiphum insertum (Walker) [= fitchii (Sanderson)] (Hom
+T007,S009:web:1,relevance_margin,0,0.7338,0.7948,Green Apple Aphid,Description of the Pest
+T007,S136:web:7,relevance_margin,0,0.7306,0.7948,Rosy apple aphid,Damage
+T010,S092:web:8,relevance_margin,0,0.736,0.792,Pearleaf and appleleaf blister mite,Damage
+T010,S089:web:7,relevance_margin,0,0.7368,0.792,Apple rust mite,Damage
+T010,S123:web:3,relevance_margin,0,0.7357,0.792,Mites: general biology,Eriophyids
+T010,S001:web:1,relevance_margin,0,0.7413,0.792,Apple Scab,Symptoms and Signs
+T011,Pfad1d86df7e72095:p3:c1,relevance_margin,0,0.7162,0.7842,Apple Anthracnose,"Apple anthracnose: symptoms, cycle and cultural management"
+T011,S174:web:2,relevance_margin,0,0.7313,0.7842,Fact Sheet: Apple Scab,What does apple scab look like?
+T011,S144:web:12,relevance_margin,1,0.7156,0.7842,Stink bugs,Peaches
+T011,S072:web:6,relevance_margin,0,0.7116,0.7842,Apple Anthracnose,Bull’s-eye Rot
+T013,Pc857494577bd34fb:p26:c1,relevance_margin,1,0.7355,0.7922,Apple IPM for Beginners,Summer diseases
+T013,S209:web:2,relevance_margin,0,0.7069,0.7922,Apple Disease - Marssonina Blotch,Marssonina Blotch Symptoms on Apple Trees
+T013,Pac2f744e6d94a879:p19:c1,relevance_margin,0,0.7273,0.7922,"Crop Profile for Apple in Canada, 2022 (Sixth Edition, 2023)",Apple Scab (Venturia inaequalis); biology/cultural managemen
+T013,S174:web:2,relevance_margin,0,0.7149,0.7922,Fact Sheet: Apple Scab,What does apple scab look like?
+T015,S184:web:2,relevance_margin,0,0.6866,0.7847,Fact Sheet: Nectria Twig Blight and Canker,What does Nectria look like?
+T015,S015:web:4,relevance_margin,0,0.6999,0.7847,Fire Blight of Apple and Pear,Overwintering cankers
+T015,Pfad1d86df7e72095:p2:c1,relevance_margin,0,0.6815,0.7847,Apple Anthracnose,"Apple anthracnose: symptoms, cycle and cultural management"
+T019,S208:web:2,relevance_margin,1,0.7614,0.8128,Apple Disease - Core Rot,Symptoms
+T019,S018:web:1,relevance_margin,0,0.7326,0.8128,Gray Mold,Overview
+T022,S101:web:5,relevance_margin,0,0.7707,0.8238,Degree Day Models,Degree-day models
+T026,S067:web:6,relevance_margin,0,0.7061,0.7597,Nematodes,Rootstock selection
+T026,Pac2f744e6d94a879:p32:c1,relevance_margin,0,0.706,0.7597,"Crop Profile for Apple in Canada, 2022 (Sixth Edition, 2023)",Crown Rot and Root Rot (Phytophthora cactorum and other Phyt
+T029,S174:web:5,relevance_margin,1,0.7327,0.7955,Fact Sheet: Apple Scab,How do I prevent and control apple scab?
+T029,Pac2f744e6d94a879:p19:c1,relevance_margin,0,0.7272,0.7955,"Crop Profile for Apple in Canada, 2022 (Sixth Edition, 2023)",Apple Scab (Venturia inaequalis); biology/cultural managemen
+T031,S015:web:4,relevance_margin,0,0.7261,0.7862,Fire Blight of Apple and Pear,Overwintering cankers
+T033,S014:web:18,relevance_margin,0,0.7686,0.8206,Apple Powdery Mildew,Table 2 Fungicides registered to control of powdery mildews 
+T033,S267:web:2,relevance_margin,0,0.7529,0.8206,Qo inhibitor fungicide resistance management strategy,Resistance prevention strategy
+T033,S060:web:6,relevance_margin,0,0.7543,0.8206,Fungicide Efficacy—Biocontrols And Natural Products,Overview
+T037,S279:web:1,relevance_margin,1,0.7325,0.79,European canker,Summary
+T039,S020:web:8,relevance_margin,0,0.7509,0.8034,Woolly Apple Aphid,Biological control
+T045,Pacbf43db739da6f4:p1:c1,relevance_margin,1,0.7412,0.8138,Trapping obscure mealybug and its natural enemy in apple orchards,Apple mealybug monitoring – poster abstract only
+T045,S013:web:1,relevance_margin,0,0.7402,0.8138,Major Monitoring Periods in an IPM Program,Overview
+T045,S154:web:8,relevance_margin,0,0.7346,0.8138,Western boxelder bug,Monitoring
+T046,Pac2f744e6d94a879:p34:c1,relevance_margin,0,0.7538,0.8047,"Crop Profile for Apple in Canada, 2022 (Sixth Edition, 2023)",Post-Harvest Diseases: Blue Mold (Penicillium expansum and o
+T046,S185:web:2,relevance_margin,0,0.7503,0.8047,Fact Sheet: White Rot,What does White Rot look like?
+T048,S001:web:1,relevance_margin,0,0.7318,0.7851,Apple Scab,Symptoms and Signs
+T048,P9ff1d68283b5dcb7:p1:c2,relevance_margin,1,0.713,0.7851,Effect of fungicidal treatments on severity and incidence of elsinoe leaf spot o,"Elsinoe leaf spot – glasshouse pretreatment results, not fie"
+T048,P86663e8e7add6d5b:p7:c1,relevance_margin,0,0.715,0.7851,Seasonal wound presence and susceptibility to Neonectria ditissima infection in ,Discussion/conclusion – dated experimental context
+T048,P6b24c75c81538249:p6:c1,relevance_margin,0,0.7143,0.7851,"Slaked lime, baking soda and mineral oil for blackspot and powdery mildew contro",Discussion/conclusion – dated experimental context
+T050,S118:web:7,relevance_margin,1,0.7233,0.7873,Lesser appleworm,Damage
+T050,S126:web:9,relevance_margin,0,0.7174,0.7873,Oriental fruit moth,Damage
+T050,S211:web:2,relevance_margin,0,0.7181,0.7873,Apple Disease: Moldy Core,Symptoms

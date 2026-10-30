@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Not redistributed (copyright, size, secrets) - see README "Access conditions"
+data/pdf/
+data/web_raw/
+data/web_cleaned/
+data/chunks/
+data/backups/
+data/logs/runs.jsonl
+data/logs/experiments.jsonl
+data/logs/*_results.jsonl
+model/
+.env

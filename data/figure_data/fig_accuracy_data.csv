@@ -1,0 +1,13 @@
+﻿model,condition,n_answers,mean_score
+claude,non_rag,150,2.107
+claude,standard,150,2.673
+claude,headers_only,150,2.687
+claude,efficient,150,2.493
+gemini,non_rag,150,2.413
+gemini,standard,150,2.367
+gemini,headers_only,150,2.247
+gemini,efficient,150,2.167
+deepseek,non_rag,150,2.153
+deepseek,standard,150,2.627
+deepseek,headers_only,150,2.573
+deepseek,efficient,150,2.473

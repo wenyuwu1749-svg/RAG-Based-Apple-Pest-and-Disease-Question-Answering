@@ -1,0 +1,3687 @@
+{
+  "name": "test_final",
+  "created_at_utc": "2026-10-20T07:56:14.084050+00:00",
+  "seed": 1252380512,
+  "question_bank": {
+    "path": "data\\eval\\test_questions.xlsx",
+    "sha256": "8615fa254299e4ef41008c4ae701dfda24f2bc7825fa88a8a069be863f8c8bec",
+    "question_ids": [
+      "T001",
+      "T002",
+      "T003",
+      "T004",
+      "T005",
+      "T006",
+      "T007",
+      "T008",
+      "T009",
+      "T010",
+      "T011",
+      "T012",
+      "T013",
+      "T014",
+      "T015",
+      "T016",
+      "T017",
+      "T018",
+      "T019",
+      "T020",
+      "T021",
+      "T022",
+      "T023",
+      "T024",
+      "T025",
+      "T026",
+      "T027",
+      "T028",
+      "T029",
+      "T030",
+      "T031",
+      "T032",
+      "T033",
+      "T034",
+      "T035",
+      "T036",
+      "T037",
+      "T038",
+      "T039",
+      "T040",
+      "T041",
+      "T042",
+      "T043",
+      "T044",
+      "T045",
+      "T046",
+      "T047",
+      "T048",
+      "T049",
+      "T050"
+    ]
+  },
+  "questions": {
+    "T001": {
+      "question_en": "Some leaves and young apples have dark olive-green, velvety spots, and some fruit are cracking. What is this and what should I do?",
+      "split": "test",
+      "question_type": "symptoms_identification",
+      "topic_id": "T01",
+      "answerability": "answerable",
+      "style": "农户口吻"
+    },
+    "T002": {
+      "question_en": "In winter I see dark, sunken, cracked patches on some branches of my apple trees. What could they be?",
+      "split": "test",
+      "question_type": "symptoms_identification",
+      "topic_id": "T02",
+      "answerability": "answerable",
+      "style": "农户口吻"
+    },
+    "T003": {
+      "question_en": "Many of my apples have rough, net-like brown russeting on the skin. What could cause this?",
+      "split": "test",
+      "question_type": "symptoms_identification",
+      "topic_id": "T03",
+      "answerability": "answerable",
+      "style": "农户口吻"
+    },
+    "T004": {
+      "question_en": "Some apples have tiny shallow holes like pin pricks with a little dead tissue, but no worm inside. What is causing this?",
+      "split": "test",
+      "question_type": "symptoms_identification",
+      "topic_id": "T23",
+      "answerability": "answerable",
+      "style": "农户口吻"
+    },
+    "T005": {
+      "question_en": "Inside my apples there are brown winding trails and the flesh is breaking down, and the skin has small dimples. What is it?",
+      "split": "test",
+      "question_type": "symptoms_identification",
+      "topic_id": "T24",
+      "answerability": "answerable",
+      "style": "农户口吻"
+    },
+    "T006": {
+      "question_en": "My apples have small red-purple rings around tiny spots, and the bark has tiny grey crusty scales. What is it and what should I do?",
+      "split": "test",
+      "question_type": "symptoms_identification",
+      "topic_id": "T34",
+      "answerability": "answerable",
+      "style": "农户口吻"
+    },
+    "T007": {
+      "question_en": "The shoot tips of my apple trees are covered with green aphids and the leaves are sticky with black mould. What should I do?",
+      "split": "test",
+      "question_type": "management_strategy",
+      "topic_id": "T26",
+      "answerability": "answerable",
+      "style": "农户口吻"
+    },
+    "T008": {
+      "question_en": "My apple leaves have winding or blotchy mines inside them. What is causing this and does it need treatment?",
+      "split": "test",
+      "question_type": "symptoms_identification",
+      "topic_id": "T35",
+      "answerability": "answerable",
+      "style": "农户口吻"
+    },
+    "T009": {
+      "question_en": "My apple leaves have lots of tiny white speckles, and small pale insects jump off when I touch the leaves. What are they?",
+      "split": "test",
+      "question_type": "symptoms_identification",
+      "topic_id": "T36",
+      "answerability": "answerable",
+      "style": "农户口吻"
+    },
+    "T010": {
+      "question_en": "The leaves on my apple trees are finely speckled pale and I can see tiny greenish-yellow mites with a dark spot on each side. What are they?",
+      "split": "test",
+      "question_type": "symptoms_identification",
+      "topic_id": "T32",
+      "answerability": "answerable",
+      "style": "农户口吻"
+    },
+    "T011": {
+      "question_en": "My apples have small dimpled spots, and under the skin the flesh is hard, brown and pithy. What could cause this?",
+      "split": "test",
+      "question_type": "symptoms_identification",
+      "topic_id": "T37",
+      "answerability": "answerable",
+      "style": "农户口吻"
+    },
+    "T012": {
+      "question_en": "Some apples have sunken round brown spots with pinkish ooze, and the rot goes into the fruit in a cone shape. What is it?",
+      "split": "test",
+      "question_type": "symptoms_identification",
+      "topic_id": "T10",
+      "answerability": "answerable",
+      "style": "农户口吻"
+    },
+    "T013": {
+      "question_en": "My apples have dark sooty smudges and clusters of tiny black dots on the skin. What is this and is it harmful?",
+      "split": "test",
+      "question_type": "symptoms_identification",
+      "topic_id": "T12",
+      "answerability": "answerable",
+      "style": "农户口吻"
+    },
+    "T014": {
+      "question_en": "My apple leaves have bright yellow-orange spots on top in spring. What is it?",
+      "split": "test",
+      "question_type": "symptoms_identification",
+      "topic_id": "T13",
+      "answerability": "answerable",
+      "style": "农户口吻"
+    },
+    "T015": {
+      "question_en": "Some branches have sunken cankers with rings around buds and leaf scars, and the bark is flaky in the centre. What is it?",
+      "split": "test",
+      "question_type": "symptoms_identification",
+      "topic_id": "T04",
+      "answerability": "answerable",
+      "style": "农户口吻"
+    },
+    "T016": {
+      "question_en": "Young branches on my apple trees have sunken, elliptical orange-brown cankers. What could cause this?",
+      "split": "test",
+      "question_type": "symptoms_identification",
+      "topic_id": "T05",
+      "answerability": "answerable",
+      "style": "农户口吻"
+    },
+    "T017": {
+      "question_en": "My young nursery apple trees have rough, lumpy galls on the roots and at the base of the trunk. What is it?",
+      "split": "test",
+      "question_type": "symptoms_identification",
+      "topic_id": "T20",
+      "answerability": "answerable",
+      "style": "农户口吻"
+    },
+    "T018": {
+      "question_en": "New apple trees I planted where an old orchard used to be are growing poorly and look stunted. What is wrong?",
+      "split": "test",
+      "question_type": "conditions_risk",
+      "topic_id": "T22",
+      "answerability": "answerable",
+      "style": "农户口吻"
+    },
+    "T019": {
+      "question_en": "My apples look fine on the outside, but when I cut them the core has mould. What is this?",
+      "split": "test",
+      "question_type": "symptoms_identification",
+      "topic_id": "T21",
+      "answerability": "answerable",
+      "style": "农户口吻"
+    },
+    "T020": {
+      "question_en": "The tips of new shoots on my apple trees are wilting and have a small hole with a worm inside. What is it?",
+      "split": "test",
+      "question_type": "symptoms_identification",
+      "topic_id": "T40",
+      "answerability": "answerable",
+      "style": "农户口吻"
+    },
+    "T021": {
+      "question_en": "Early in spring there are huge numbers of dark green aphids on the opening buds of my apple trees. Should I spray?",
+      "split": "test",
+      "question_type": "management_strategy",
+      "topic_id": "T28",
+      "answerability": "answerable",
+      "style": "农户口吻"
+    },
+    "T022": {
+      "question_en": "How should I time my sprays for codling moth?",
+      "split": "test",
+      "question_type": "monitoring_sampling",
+      "topic_id": "T23",
+      "answerability": "answerable",
+      "style": "农户口吻"
+    },
+    "T023": {
+      "question_en": "There are white, mealy insects in the calyx end of my apples. What are they?",
+      "split": "test",
+      "question_type": "symptoms_identification",
+      "topic_id": "T44",
+      "answerability": "answerable",
+      "style": "农户口吻"
+    },
+    "T024": {
+      "question_en": "The young leaves on my apple trees are tightly rolled, and I found tiny orange maggots inside. What is it and does it need control?",
+      "split": "test",
+      "question_type": "symptoms_identification",
+      "topic_id": "T43",
+      "answerability": "answerable",
+      "style": "农户口吻"
+    },
+    "T025": {
+      "question_en": "Big holes have been chewed into my young apples in spring by green caterpillars. What are they?",
+      "split": "test",
+      "question_type": "symptoms_identification",
+      "topic_id": "T29",
+      "answerability": "answerable",
+      "style": "农户口吻"
+    },
+    "T026": {
+      "question_en": "Part of my orchard often stays waterlogged after rain. Which apple rootstocks should I avoid there?",
+      "split": "test",
+      "question_type": "management_strategy",
+      "topic_id": "T06",
+      "answerability": "answerable",
+      "style": "农户口吻"
+    },
+    "T027": {
+      "question_en": "How do I put out pheromone dispensers to control codling moth?",
+      "split": "test",
+      "question_type": "management_strategy",
+      "topic_id": "T23",
+      "answerability": "answerable",
+      "style": "农户口吻"
+    },
+    "T028": {
+      "question_en": "When should I spray blossoms to protect against fire blight?",
+      "split": "test",
+      "question_type": "monitoring_sampling",
+      "topic_id": "T02",
+      "answerability": "answerable",
+      "style": "农户口吻"
+    },
+    "T029": {
+      "question_en": "What can I do to reduce apple scab next year?",
+      "split": "test",
+      "question_type": "management_strategy",
+      "topic_id": "T01",
+      "answerability": "answerable",
+      "style": "农户口吻"
+    },
+    "T030": {
+      "question_en": "Should I protect the lady beetles and predatory mites in my orchard, and how?",
+      "split": "test",
+      "question_type": "management_strategy",
+      "topic_id": "T31",
+      "answerability": "answerable",
+      "style": "农户口吻"
+    },
+    "T031": {
+      "question_en": "Some apple leaves have small blisters that started green or red and are turning brown or black. What is it?",
+      "split": "test",
+      "question_type": "symptoms_identification",
+      "topic_id": "T33",
+      "answerability": "answerable",
+      "style": "农户口吻"
+    },
+    "T032": {
+      "question_en": "Can I use insect netting to keep pests off my apple trees?",
+      "split": "test",
+      "question_type": "management_strategy",
+      "topic_id": "T23",
+      "answerability": "partial",
+      "style": "农户口吻"
+    },
+    "T033": {
+      "question_en": "Which fungicides should I worry about losing effectiveness against powdery mildew?",
+      "split": "test",
+      "question_type": "management_strategy",
+      "topic_id": "T03",
+      "answerability": "partial",
+      "style": "农户口吻"
+    },
+    "T034": {
+      "question_en": "How do I know if my apple trees have woolly apple aphid on the roots?",
+      "split": "test",
+      "question_type": "monitoring_sampling",
+      "topic_id": "T25",
+      "answerability": "answerable",
+      "style": "农户口吻"
+    },
+    "T035": {
+      "question_en": "Brown, papery dead blossoms are hanging on my apple trees after a frosty spell at bloom, but there is no ooze. What is it?",
+      "split": "test",
+      "question_type": "symptoms_identification",
+      "topic_id": "T08",
+      "answerability": "answerable",
+      "style": "农户口吻"
+    },
+    "T036": {
+      "question_en": "We had a cold, wet spring with long rainy periods during bloom. Now my apple leaves have olive spots. Why did the weather matter?",
+      "split": "test",
+      "question_type": "conditions_risk",
+      "topic_id": "T01",
+      "answerability": "answerable",
+      "style": "附带地区/环境"
+    },
+    "T037": {
+      "question_en": "I'm in New Zealand. How should I prune out European canker in my orchard?",
+      "split": "test",
+      "question_type": "management_strategy",
+      "topic_id": "T04",
+      "answerability": "answerable",
+      "style": "附带地区/环境"
+    },
+    "T038": {
+      "question_en": "I'm in Hawke's Bay, New Zealand. When is the fire blight risk highest and how do I know when to act?",
+      "split": "test",
+      "question_type": "conditions_risk",
+      "topic_id": "T02",
+      "answerability": "answerable",
+      "style": "附带地区/环境"
+    },
+    "T039": {
+      "question_en": "I'm in Nelson, New Zealand. Can parasitic wasps control woolly apple aphid in my orchard?",
+      "split": "test",
+      "question_type": "management_strategy",
+      "topic_id": "T25",
+      "answerability": "answerable",
+      "style": "附带地区/环境"
+    },
+    "T040": {
+      "question_en": "I'm in New Zealand and have lightbrown apple moth caterpillars in my apples. What should I spray?",
+      "split": "test",
+      "question_type": "boundary_insufficient",
+      "topic_id": "T30",
+      "answerability": "partial",
+      "style": "附带地区/环境"
+    },
+    "T041": {
+      "question_en": "I'm in New Zealand. Does mating disruption work for codling moth in apple orchards?",
+      "split": "test",
+      "question_type": "management_strategy",
+      "topic_id": "T23",
+      "answerability": "answerable",
+      "style": "附带地区/环境"
+    },
+    "T042": {
+      "question_en": "It has been a very hot, dry, dusty summer and my apple leaves are bronzing with lots of tiny mites. Why is this happening and what can I change?",
+      "split": "test",
+      "question_type": "conditions_risk",
+      "topic_id": "T32",
+      "answerability": "answerable",
+      "style": "附带地区/环境"
+    },
+    "T043": {
+      "question_en": "I'm in New Zealand and some apple leaves have pale mosaic patterns. Is this apple mosaic virus and how is it managed?",
+      "split": "test",
+      "question_type": "boundary_insufficient",
+      "topic_id": "T42",
+      "answerability": "unanswerable",
+      "style": "附带地区/环境"
+    },
+    "T044": {
+      "question_en": "I'm an organic grower in New Zealand. What can I use against powdery mildew?",
+      "split": "test",
+      "question_type": "management_strategy",
+      "topic_id": "T03",
+      "answerability": "answerable",
+      "style": "附带地区/环境"
+    },
+    "T045": {
+      "question_en": "I'm in New Zealand and found mealybugs in my apple orchard. How can I monitor them?",
+      "split": "test",
+      "question_type": "monitoring_sampling",
+      "topic_id": "T44",
+      "answerability": "partial",
+      "style": "附带地区/环境"
+    },
+    "T046": {
+      "question_en": "My stored apples have a spongy rot that turns black, with brown-black specks around the lenticels. What could it be?",
+      "split": "test",
+      "question_type": "postharvest",
+      "topic_id": "T18",
+      "answerability": "answerable",
+      "style": "偏僻专题"
+    },
+    "T047": {
+      "question_en": "Young apples have crescent-shaped scars on the skin. What could cause this?",
+      "split": "test",
+      "question_type": "symptoms_identification",
+      "topic_id": "T41",
+      "answerability": "answerable",
+      "style": "偏僻专题"
+    },
+    "T048": {
+      "question_en": "I'm in New Zealand. My apple leaves have small dark spots and I've heard about Elsinoe leaf spot. Could that be it, and what works against it?",
+      "split": "test",
+      "question_type": "boundary_insufficient",
+      "topic_id": "T46",
+      "answerability": "partial",
+      "style": "偏僻专题"
+    },
+    "T049": {
+      "question_en": "One of my apple trees is declining, and there is a white fan-shaped fungal growth under the bark at the base. What is it?",
+      "split": "test",
+      "question_type": "symptoms_identification",
+      "topic_id": "T07",
+      "answerability": "answerable",
+      "style": "偏僻专题"
+    },
+    "T050": {
+      "question_en": "Small worms are feeding just under the skin of my apples, leaving shallow trails, but they don't reach the core. What could they be?",
+      "split": "test",
+      "question_type": "symptoms_identification",
+      "topic_id": "T39",
+      "answerability": "answerable",
+      "style": "偏僻专题"
+    }
+  },
+  "models": {
+    "claude": {
+      "id": "claude",
+      "adapter": "anthropic",
+      "name": "Claude Haiku",
+      "model": "claude-haiku-5-5",
+      "base_url": "https://api.anthropic.com",
+      "key_env": "ANTHROPIC_API_KEY",
+      "reasoning_effort": "none"
+    },
+    "gemini": {
+      "id": "gemini",
+      "adapter": "chat",
+      "name": "Google Gemini",
+      "model": "gemini-3.6-flash",
+      "base_url": "https://generativelanguage.googleapis.com/v1beta/openai",
+      "key_env": "GEMINI_API_KEY",
+      "output_parameter": "max_tokens",
+      "send_temperature": false,
+      "temperature": 0,
+      "reasoning_effort": "none"
+    },
+    "deepseek": {
+      "id": "deepseek",
+      "name": "DeepSeek",
+      "adapter": "chat",
+      "base_url": "https://api.deepseek.com",
+      "model": "deepseek-flash",
+      "key_env": "DEEPSEEK_API_KEY",
+      "output_parameter": "max_tokens",
+      "send_temperature": false,
+      "temperature": 0,
+      "reasoning_effort": "none"
+    }
+  },
+  "modes": [
+    "non_rag",
+    "standard",
+    "efficient"
+  ],
+  "repeats": 1,
+  "settings": {
+    "retrieval": "dense",
+    "top_k": 6,
+    "budget": 4000,
+    "relevance_margin": 0.05,
+    "management_expansion": true,
+    "max_output": 1024,
+    "answer_language": "en"
+  },
+  "corpus_hash": "412c2b17fedba02bf71919761761b0f59b111a4829b34e748bcc3897cf3cf0c8",
+  "corpus_freeze_version": "corpus-v1-20261014",
+  "embedding": {
+    "model": "BAAI/bge-small-en-v1.5",
+    "fingerprint": "fdf13dd0000016cc52b5b8eaac31bbf00d5241c30591b33c0d845b684cbfa83b"
+  },
+  "prompt_version": "v7-management-expansion",
+  "server_code_sha256": "7ea2df371037de32421547b382c4bf5a7316e9cc0424d08c6bb9f8ce709810d2",
+  "retry_policy": {
+    "transient_http": [
+      "HTTP 429",
+      "HTTP 500",
+      "HTTP 502",
+      "HTTP 503",
+      "HTTP 504"
+    ],
+    "waits_seconds": [
+      5,
+      15,
+      30
+    ]
+  },
+  "tasks": [
+    {
+      "task_id": "T043|deepseek|standard|r1",
+      "question_id": "T043",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T039|claude|non_rag|r1",
+      "question_id": "T039",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T029|gemini|standard|r1",
+      "question_id": "T029",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T006|claude|efficient|r1",
+      "question_id": "T006",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T004|gemini|standard|r1",
+      "question_id": "T004",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T026|deepseek|standard|r1",
+      "question_id": "T026",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T017|gemini|non_rag|r1",
+      "question_id": "T017",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T018|deepseek|standard|r1",
+      "question_id": "T018",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T041|deepseek|standard|r1",
+      "question_id": "T041",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T047|deepseek|efficient|r1",
+      "question_id": "T047",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T018|gemini|efficient|r1",
+      "question_id": "T018",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T016|claude|efficient|r1",
+      "question_id": "T016",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T016|claude|standard|r1",
+      "question_id": "T016",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T011|gemini|non_rag|r1",
+      "question_id": "T011",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T037|claude|non_rag|r1",
+      "question_id": "T037",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T035|claude|non_rag|r1",
+      "question_id": "T035",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T008|gemini|non_rag|r1",
+      "question_id": "T008",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T043|deepseek|non_rag|r1",
+      "question_id": "T043",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T025|gemini|efficient|r1",
+      "question_id": "T025",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T001|claude|efficient|r1",
+      "question_id": "T001",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T007|gemini|efficient|r1",
+      "question_id": "T007",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T047|deepseek|non_rag|r1",
+      "question_id": "T047",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T019|gemini|standard|r1",
+      "question_id": "T019",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T034|deepseek|standard|r1",
+      "question_id": "T034",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T012|deepseek|non_rag|r1",
+      "question_id": "T012",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T030|deepseek|efficient|r1",
+      "question_id": "T030",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T041|gemini|standard|r1",
+      "question_id": "T041",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T042|claude|standard|r1",
+      "question_id": "T042",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T033|deepseek|efficient|r1",
+      "question_id": "T033",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T044|gemini|non_rag|r1",
+      "question_id": "T044",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T018|claude|efficient|r1",
+      "question_id": "T018",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T043|deepseek|efficient|r1",
+      "question_id": "T043",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T027|claude|non_rag|r1",
+      "question_id": "T027",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T010|claude|non_rag|r1",
+      "question_id": "T010",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T044|claude|efficient|r1",
+      "question_id": "T044",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T026|gemini|non_rag|r1",
+      "question_id": "T026",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T044|deepseek|non_rag|r1",
+      "question_id": "T044",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T030|gemini|standard|r1",
+      "question_id": "T030",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T006|gemini|standard|r1",
+      "question_id": "T006",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T005|claude|standard|r1",
+      "question_id": "T005",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T032|claude|standard|r1",
+      "question_id": "T032",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T042|gemini|non_rag|r1",
+      "question_id": "T042",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T046|gemini|non_rag|r1",
+      "question_id": "T046",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T020|deepseek|efficient|r1",
+      "question_id": "T020",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T019|claude|standard|r1",
+      "question_id": "T019",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T020|deepseek|non_rag|r1",
+      "question_id": "T020",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T019|gemini|efficient|r1",
+      "question_id": "T019",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T045|claude|non_rag|r1",
+      "question_id": "T045",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T036|deepseek|efficient|r1",
+      "question_id": "T036",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T012|claude|standard|r1",
+      "question_id": "T012",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T040|claude|non_rag|r1",
+      "question_id": "T040",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T036|gemini|non_rag|r1",
+      "question_id": "T036",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T005|claude|non_rag|r1",
+      "question_id": "T005",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T026|gemini|efficient|r1",
+      "question_id": "T026",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T028|gemini|efficient|r1",
+      "question_id": "T028",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T020|deepseek|standard|r1",
+      "question_id": "T020",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T011|deepseek|standard|r1",
+      "question_id": "T011",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T015|deepseek|non_rag|r1",
+      "question_id": "T015",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T003|claude|non_rag|r1",
+      "question_id": "T003",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T012|deepseek|standard|r1",
+      "question_id": "T012",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T016|gemini|efficient|r1",
+      "question_id": "T016",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T003|deepseek|non_rag|r1",
+      "question_id": "T003",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T016|gemini|non_rag|r1",
+      "question_id": "T016",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T024|claude|standard|r1",
+      "question_id": "T024",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T013|deepseek|efficient|r1",
+      "question_id": "T013",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T041|claude|efficient|r1",
+      "question_id": "T041",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T037|deepseek|standard|r1",
+      "question_id": "T037",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T031|gemini|efficient|r1",
+      "question_id": "T031",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T048|deepseek|non_rag|r1",
+      "question_id": "T048",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T047|claude|efficient|r1",
+      "question_id": "T047",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T009|gemini|standard|r1",
+      "question_id": "T009",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T015|claude|standard|r1",
+      "question_id": "T015",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T049|gemini|efficient|r1",
+      "question_id": "T049",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T035|claude|standard|r1",
+      "question_id": "T035",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T013|claude|non_rag|r1",
+      "question_id": "T013",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T008|deepseek|efficient|r1",
+      "question_id": "T008",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T050|gemini|non_rag|r1",
+      "question_id": "T050",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T002|claude|non_rag|r1",
+      "question_id": "T002",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T011|claude|non_rag|r1",
+      "question_id": "T011",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T047|gemini|standard|r1",
+      "question_id": "T047",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T028|claude|non_rag|r1",
+      "question_id": "T028",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T008|deepseek|non_rag|r1",
+      "question_id": "T008",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T028|deepseek|standard|r1",
+      "question_id": "T028",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T020|claude|efficient|r1",
+      "question_id": "T020",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T036|gemini|standard|r1",
+      "question_id": "T036",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T049|claude|standard|r1",
+      "question_id": "T049",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T007|gemini|non_rag|r1",
+      "question_id": "T007",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T008|deepseek|standard|r1",
+      "question_id": "T008",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T042|deepseek|standard|r1",
+      "question_id": "T042",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T022|gemini|efficient|r1",
+      "question_id": "T022",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T034|deepseek|non_rag|r1",
+      "question_id": "T034",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T035|gemini|non_rag|r1",
+      "question_id": "T035",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T041|claude|non_rag|r1",
+      "question_id": "T041",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T031|gemini|standard|r1",
+      "question_id": "T031",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T047|gemini|non_rag|r1",
+      "question_id": "T047",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T038|deepseek|non_rag|r1",
+      "question_id": "T038",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T036|claude|non_rag|r1",
+      "question_id": "T036",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T025|deepseek|standard|r1",
+      "question_id": "T025",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T003|gemini|efficient|r1",
+      "question_id": "T003",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T039|gemini|non_rag|r1",
+      "question_id": "T039",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T007|gemini|standard|r1",
+      "question_id": "T007",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T016|deepseek|standard|r1",
+      "question_id": "T016",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T031|gemini|non_rag|r1",
+      "question_id": "T031",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T024|claude|efficient|r1",
+      "question_id": "T024",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T002|deepseek|non_rag|r1",
+      "question_id": "T002",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T014|gemini|efficient|r1",
+      "question_id": "T014",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T034|gemini|standard|r1",
+      "question_id": "T034",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T032|claude|non_rag|r1",
+      "question_id": "T032",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T037|claude|efficient|r1",
+      "question_id": "T037",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T004|claude|standard|r1",
+      "question_id": "T004",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T030|deepseek|standard|r1",
+      "question_id": "T030",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T009|deepseek|standard|r1",
+      "question_id": "T009",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T036|gemini|efficient|r1",
+      "question_id": "T036",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T030|claude|non_rag|r1",
+      "question_id": "T030",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T042|deepseek|non_rag|r1",
+      "question_id": "T042",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T016|gemini|standard|r1",
+      "question_id": "T016",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T034|claude|efficient|r1",
+      "question_id": "T034",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T002|deepseek|efficient|r1",
+      "question_id": "T002",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T014|claude|non_rag|r1",
+      "question_id": "T014",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T031|deepseek|efficient|r1",
+      "question_id": "T031",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T035|deepseek|non_rag|r1",
+      "question_id": "T035",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T008|claude|efficient|r1",
+      "question_id": "T008",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T029|claude|efficient|r1",
+      "question_id": "T029",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T036|claude|standard|r1",
+      "question_id": "T036",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T023|deepseek|standard|r1",
+      "question_id": "T023",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T041|deepseek|efficient|r1",
+      "question_id": "T041",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T004|deepseek|efficient|r1",
+      "question_id": "T004",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T004|gemini|non_rag|r1",
+      "question_id": "T004",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T012|gemini|standard|r1",
+      "question_id": "T012",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T016|deepseek|non_rag|r1",
+      "question_id": "T016",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T021|claude|non_rag|r1",
+      "question_id": "T021",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T033|claude|non_rag|r1",
+      "question_id": "T033",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T010|deepseek|non_rag|r1",
+      "question_id": "T010",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T006|gemini|efficient|r1",
+      "question_id": "T006",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T028|claude|efficient|r1",
+      "question_id": "T028",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T010|claude|standard|r1",
+      "question_id": "T010",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T030|gemini|non_rag|r1",
+      "question_id": "T030",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T017|deepseek|non_rag|r1",
+      "question_id": "T017",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T018|deepseek|non_rag|r1",
+      "question_id": "T018",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T017|claude|efficient|r1",
+      "question_id": "T017",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T019|deepseek|standard|r1",
+      "question_id": "T019",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T027|gemini|standard|r1",
+      "question_id": "T027",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T046|claude|non_rag|r1",
+      "question_id": "T046",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T028|gemini|non_rag|r1",
+      "question_id": "T028",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T031|claude|efficient|r1",
+      "question_id": "T031",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T025|claude|non_rag|r1",
+      "question_id": "T025",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T048|gemini|efficient|r1",
+      "question_id": "T048",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T014|claude|standard|r1",
+      "question_id": "T014",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T050|deepseek|standard|r1",
+      "question_id": "T050",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T017|gemini|efficient|r1",
+      "question_id": "T017",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T015|gemini|efficient|r1",
+      "question_id": "T015",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T043|claude|non_rag|r1",
+      "question_id": "T043",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T050|gemini|efficient|r1",
+      "question_id": "T050",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T031|claude|standard|r1",
+      "question_id": "T031",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T032|deepseek|efficient|r1",
+      "question_id": "T032",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T037|claude|standard|r1",
+      "question_id": "T037",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T021|claude|efficient|r1",
+      "question_id": "T021",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T015|deepseek|standard|r1",
+      "question_id": "T015",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T037|deepseek|efficient|r1",
+      "question_id": "T037",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T025|deepseek|efficient|r1",
+      "question_id": "T025",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T009|gemini|efficient|r1",
+      "question_id": "T009",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T045|gemini|non_rag|r1",
+      "question_id": "T045",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T006|deepseek|efficient|r1",
+      "question_id": "T006",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T003|deepseek|standard|r1",
+      "question_id": "T003",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T023|deepseek|efficient|r1",
+      "question_id": "T023",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T050|claude|efficient|r1",
+      "question_id": "T050",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T017|gemini|standard|r1",
+      "question_id": "T017",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T038|deepseek|standard|r1",
+      "question_id": "T038",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T001|gemini|standard|r1",
+      "question_id": "T001",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T011|claude|efficient|r1",
+      "question_id": "T011",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T035|gemini|efficient|r1",
+      "question_id": "T035",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T021|claude|standard|r1",
+      "question_id": "T021",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T025|deepseek|non_rag|r1",
+      "question_id": "T025",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T027|gemini|efficient|r1",
+      "question_id": "T027",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T003|claude|standard|r1",
+      "question_id": "T003",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T011|gemini|standard|r1",
+      "question_id": "T011",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T011|deepseek|efficient|r1",
+      "question_id": "T011",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T033|gemini|non_rag|r1",
+      "question_id": "T033",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T040|claude|efficient|r1",
+      "question_id": "T040",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T045|deepseek|efficient|r1",
+      "question_id": "T045",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T022|claude|non_rag|r1",
+      "question_id": "T022",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T022|claude|efficient|r1",
+      "question_id": "T022",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T024|gemini|standard|r1",
+      "question_id": "T024",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T031|deepseek|standard|r1",
+      "question_id": "T031",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T040|deepseek|standard|r1",
+      "question_id": "T040",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T033|deepseek|non_rag|r1",
+      "question_id": "T033",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T023|claude|standard|r1",
+      "question_id": "T023",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T008|gemini|efficient|r1",
+      "question_id": "T008",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T026|claude|efficient|r1",
+      "question_id": "T026",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T043|gemini|efficient|r1",
+      "question_id": "T043",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T002|gemini|standard|r1",
+      "question_id": "T002",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T046|deepseek|non_rag|r1",
+      "question_id": "T046",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T036|deepseek|non_rag|r1",
+      "question_id": "T036",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T048|gemini|standard|r1",
+      "question_id": "T048",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T020|claude|standard|r1",
+      "question_id": "T020",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T044|claude|non_rag|r1",
+      "question_id": "T044",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T042|deepseek|efficient|r1",
+      "question_id": "T042",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T049|gemini|standard|r1",
+      "question_id": "T049",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T017|deepseek|standard|r1",
+      "question_id": "T017",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T012|gemini|efficient|r1",
+      "question_id": "T012",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T038|claude|non_rag|r1",
+      "question_id": "T038",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T044|deepseek|efficient|r1",
+      "question_id": "T044",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T026|deepseek|non_rag|r1",
+      "question_id": "T026",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T010|gemini|efficient|r1",
+      "question_id": "T010",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T039|gemini|efficient|r1",
+      "question_id": "T039",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T036|deepseek|standard|r1",
+      "question_id": "T036",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T012|gemini|non_rag|r1",
+      "question_id": "T012",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T005|claude|efficient|r1",
+      "question_id": "T005",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T001|deepseek|standard|r1",
+      "question_id": "T001",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T003|gemini|standard|r1",
+      "question_id": "T003",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T011|claude|standard|r1",
+      "question_id": "T011",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T044|gemini|efficient|r1",
+      "question_id": "T044",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T014|gemini|standard|r1",
+      "question_id": "T014",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T038|gemini|standard|r1",
+      "question_id": "T038",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T040|gemini|efficient|r1",
+      "question_id": "T040",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T042|claude|efficient|r1",
+      "question_id": "T042",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T038|deepseek|efficient|r1",
+      "question_id": "T038",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T037|deepseek|non_rag|r1",
+      "question_id": "T037",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T045|deepseek|non_rag|r1",
+      "question_id": "T045",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T038|claude|efficient|r1",
+      "question_id": "T038",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T016|deepseek|efficient|r1",
+      "question_id": "T016",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T025|claude|standard|r1",
+      "question_id": "T025",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T013|gemini|non_rag|r1",
+      "question_id": "T013",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T020|gemini|efficient|r1",
+      "question_id": "T020",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T046|deepseek|efficient|r1",
+      "question_id": "T046",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T008|claude|standard|r1",
+      "question_id": "T008",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T026|gemini|standard|r1",
+      "question_id": "T026",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T029|gemini|efficient|r1",
+      "question_id": "T029",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T028|deepseek|efficient|r1",
+      "question_id": "T028",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T009|deepseek|efficient|r1",
+      "question_id": "T009",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T024|deepseek|non_rag|r1",
+      "question_id": "T024",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T050|claude|non_rag|r1",
+      "question_id": "T050",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T050|deepseek|non_rag|r1",
+      "question_id": "T050",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T033|deepseek|standard|r1",
+      "question_id": "T033",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T049|deepseek|efficient|r1",
+      "question_id": "T049",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T044|deepseek|standard|r1",
+      "question_id": "T044",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T037|gemini|non_rag|r1",
+      "question_id": "T037",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T041|claude|standard|r1",
+      "question_id": "T041",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T037|gemini|standard|r1",
+      "question_id": "T037",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T038|gemini|non_rag|r1",
+      "question_id": "T038",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T024|deepseek|efficient|r1",
+      "question_id": "T024",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T022|deepseek|efficient|r1",
+      "question_id": "T022",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T021|gemini|standard|r1",
+      "question_id": "T021",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T019|deepseek|efficient|r1",
+      "question_id": "T019",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T001|claude|standard|r1",
+      "question_id": "T001",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T004|claude|efficient|r1",
+      "question_id": "T004",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T030|claude|efficient|r1",
+      "question_id": "T030",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T045|gemini|standard|r1",
+      "question_id": "T045",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T043|gemini|standard|r1",
+      "question_id": "T043",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T048|deepseek|standard|r1",
+      "question_id": "T048",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T021|deepseek|standard|r1",
+      "question_id": "T021",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T020|gemini|non_rag|r1",
+      "question_id": "T020",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T023|gemini|standard|r1",
+      "question_id": "T023",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T030|deepseek|non_rag|r1",
+      "question_id": "T030",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T040|deepseek|efficient|r1",
+      "question_id": "T040",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T032|gemini|efficient|r1",
+      "question_id": "T032",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T014|deepseek|non_rag|r1",
+      "question_id": "T014",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T006|claude|non_rag|r1",
+      "question_id": "T006",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T016|claude|non_rag|r1",
+      "question_id": "T016",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T019|claude|efficient|r1",
+      "question_id": "T019",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T013|claude|efficient|r1",
+      "question_id": "T013",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T030|gemini|efficient|r1",
+      "question_id": "T030",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T022|deepseek|non_rag|r1",
+      "question_id": "T022",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T030|claude|standard|r1",
+      "question_id": "T030",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T006|gemini|non_rag|r1",
+      "question_id": "T006",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T035|deepseek|efficient|r1",
+      "question_id": "T035",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T005|deepseek|standard|r1",
+      "question_id": "T005",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T005|gemini|non_rag|r1",
+      "question_id": "T005",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T014|gemini|non_rag|r1",
+      "question_id": "T014",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T006|deepseek|non_rag|r1",
+      "question_id": "T006",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T013|gemini|efficient|r1",
+      "question_id": "T013",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T046|gemini|efficient|r1",
+      "question_id": "T046",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T019|claude|non_rag|r1",
+      "question_id": "T019",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T049|gemini|non_rag|r1",
+      "question_id": "T049",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T026|deepseek|efficient|r1",
+      "question_id": "T026",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T010|deepseek|standard|r1",
+      "question_id": "T010",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T038|gemini|efficient|r1",
+      "question_id": "T038",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T040|claude|standard|r1",
+      "question_id": "T040",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T011|gemini|efficient|r1",
+      "question_id": "T011",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T032|claude|efficient|r1",
+      "question_id": "T032",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T012|claude|efficient|r1",
+      "question_id": "T012",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T017|claude|non_rag|r1",
+      "question_id": "T017",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T032|deepseek|non_rag|r1",
+      "question_id": "T032",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T039|claude|efficient|r1",
+      "question_id": "T039",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T009|claude|non_rag|r1",
+      "question_id": "T009",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T045|deepseek|standard|r1",
+      "question_id": "T045",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T010|gemini|non_rag|r1",
+      "question_id": "T010",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T021|deepseek|non_rag|r1",
+      "question_id": "T021",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T049|deepseek|non_rag|r1",
+      "question_id": "T049",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T004|claude|non_rag|r1",
+      "question_id": "T004",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T013|deepseek|non_rag|r1",
+      "question_id": "T013",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T010|gemini|standard|r1",
+      "question_id": "T010",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T046|claude|standard|r1",
+      "question_id": "T046",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T034|gemini|non_rag|r1",
+      "question_id": "T034",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T007|deepseek|efficient|r1",
+      "question_id": "T007",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T003|deepseek|efficient|r1",
+      "question_id": "T003",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T026|claude|non_rag|r1",
+      "question_id": "T026",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T002|claude|efficient|r1",
+      "question_id": "T002",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T048|claude|non_rag|r1",
+      "question_id": "T048",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T001|gemini|non_rag|r1",
+      "question_id": "T001",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T006|deepseek|standard|r1",
+      "question_id": "T006",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T031|claude|non_rag|r1",
+      "question_id": "T031",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T022|claude|standard|r1",
+      "question_id": "T022",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T029|gemini|non_rag|r1",
+      "question_id": "T029",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T006|claude|standard|r1",
+      "question_id": "T006",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T032|gemini|standard|r1",
+      "question_id": "T032",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T020|claude|non_rag|r1",
+      "question_id": "T020",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T033|claude|standard|r1",
+      "question_id": "T033",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T007|deepseek|standard|r1",
+      "question_id": "T007",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T022|gemini|standard|r1",
+      "question_id": "T022",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T005|gemini|standard|r1",
+      "question_id": "T005",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T036|claude|efficient|r1",
+      "question_id": "T036",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T011|deepseek|non_rag|r1",
+      "question_id": "T011",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T025|gemini|standard|r1",
+      "question_id": "T025",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T027|deepseek|efficient|r1",
+      "question_id": "T027",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T048|claude|standard|r1",
+      "question_id": "T048",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T028|gemini|standard|r1",
+      "question_id": "T028",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T029|claude|standard|r1",
+      "question_id": "T029",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T009|claude|efficient|r1",
+      "question_id": "T009",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T028|deepseek|non_rag|r1",
+      "question_id": "T028",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T042|claude|non_rag|r1",
+      "question_id": "T042",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T034|claude|standard|r1",
+      "question_id": "T034",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T002|deepseek|standard|r1",
+      "question_id": "T002",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T029|deepseek|standard|r1",
+      "question_id": "T029",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T007|deepseek|non_rag|r1",
+      "question_id": "T007",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T012|deepseek|efficient|r1",
+      "question_id": "T012",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T018|deepseek|efficient|r1",
+      "question_id": "T018",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T039|deepseek|standard|r1",
+      "question_id": "T039",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T015|gemini|standard|r1",
+      "question_id": "T015",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T027|deepseek|non_rag|r1",
+      "question_id": "T027",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T013|deepseek|standard|r1",
+      "question_id": "T013",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T021|deepseek|efficient|r1",
+      "question_id": "T021",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T041|gemini|non_rag|r1",
+      "question_id": "T041",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T023|gemini|non_rag|r1",
+      "question_id": "T023",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T049|claude|efficient|r1",
+      "question_id": "T049",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T025|claude|efficient|r1",
+      "question_id": "T025",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T003|claude|efficient|r1",
+      "question_id": "T003",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T015|claude|efficient|r1",
+      "question_id": "T015",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T039|claude|standard|r1",
+      "question_id": "T039",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T014|deepseek|efficient|r1",
+      "question_id": "T014",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T002|gemini|efficient|r1",
+      "question_id": "T002",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T007|claude|standard|r1",
+      "question_id": "T007",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T021|gemini|non_rag|r1",
+      "question_id": "T021",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T029|deepseek|efficient|r1",
+      "question_id": "T029",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T050|deepseek|efficient|r1",
+      "question_id": "T050",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T043|claude|standard|r1",
+      "question_id": "T043",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T010|claude|efficient|r1",
+      "question_id": "T010",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T041|deepseek|non_rag|r1",
+      "question_id": "T041",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T005|deepseek|efficient|r1",
+      "question_id": "T005",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T029|claude|non_rag|r1",
+      "question_id": "T029",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T014|claude|efficient|r1",
+      "question_id": "T014",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T043|claude|efficient|r1",
+      "question_id": "T043",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T017|claude|standard|r1",
+      "question_id": "T017",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T033|gemini|efficient|r1",
+      "question_id": "T033",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T029|deepseek|non_rag|r1",
+      "question_id": "T029",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T008|claude|non_rag|r1",
+      "question_id": "T008",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T027|claude|efficient|r1",
+      "question_id": "T027",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T015|gemini|non_rag|r1",
+      "question_id": "T015",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T022|gemini|non_rag|r1",
+      "question_id": "T022",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T018|gemini|non_rag|r1",
+      "question_id": "T018",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T050|gemini|standard|r1",
+      "question_id": "T050",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T046|deepseek|standard|r1",
+      "question_id": "T046",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T031|deepseek|non_rag|r1",
+      "question_id": "T031",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T047|deepseek|standard|r1",
+      "question_id": "T047",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T021|gemini|efficient|r1",
+      "question_id": "T021",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T035|gemini|standard|r1",
+      "question_id": "T035",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T005|gemini|efficient|r1",
+      "question_id": "T005",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T039|deepseek|non_rag|r1",
+      "question_id": "T039",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T038|claude|standard|r1",
+      "question_id": "T038",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T007|claude|non_rag|r1",
+      "question_id": "T007",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T045|claude|efficient|r1",
+      "question_id": "T045",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T012|claude|non_rag|r1",
+      "question_id": "T012",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T048|claude|efficient|r1",
+      "question_id": "T048",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T015|deepseek|efficient|r1",
+      "question_id": "T015",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T043|gemini|non_rag|r1",
+      "question_id": "T043",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T010|deepseek|efficient|r1",
+      "question_id": "T010",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T025|gemini|non_rag|r1",
+      "question_id": "T025",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T002|gemini|non_rag|r1",
+      "question_id": "T002",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T009|deepseek|non_rag|r1",
+      "question_id": "T009",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T035|claude|efficient|r1",
+      "question_id": "T035",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T039|gemini|standard|r1",
+      "question_id": "T039",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T048|gemini|non_rag|r1",
+      "question_id": "T048",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T027|deepseek|standard|r1",
+      "question_id": "T027",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T014|deepseek|standard|r1",
+      "question_id": "T014",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T013|claude|standard|r1",
+      "question_id": "T013",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T047|claude|standard|r1",
+      "question_id": "T047",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T032|gemini|non_rag|r1",
+      "question_id": "T032",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T033|claude|efficient|r1",
+      "question_id": "T033",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T033|gemini|standard|r1",
+      "question_id": "T033",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T024|gemini|non_rag|r1",
+      "question_id": "T024",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T020|gemini|standard|r1",
+      "question_id": "T020",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T032|deepseek|standard|r1",
+      "question_id": "T032",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T004|deepseek|non_rag|r1",
+      "question_id": "T004",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T002|claude|standard|r1",
+      "question_id": "T002",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T017|deepseek|efficient|r1",
+      "question_id": "T017",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T003|gemini|non_rag|r1",
+      "question_id": "T003",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T018|claude|non_rag|r1",
+      "question_id": "T018",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T004|deepseek|standard|r1",
+      "question_id": "T004",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T047|claude|non_rag|r1",
+      "question_id": "T047",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T027|gemini|non_rag|r1",
+      "question_id": "T027",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T024|claude|non_rag|r1",
+      "question_id": "T024",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T001|deepseek|efficient|r1",
+      "question_id": "T001",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T022|deepseek|standard|r1",
+      "question_id": "T022",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T034|claude|non_rag|r1",
+      "question_id": "T034",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T042|gemini|standard|r1",
+      "question_id": "T042",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T008|gemini|standard|r1",
+      "question_id": "T008",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T046|gemini|standard|r1",
+      "question_id": "T046",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T023|deepseek|non_rag|r1",
+      "question_id": "T023",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T046|claude|efficient|r1",
+      "question_id": "T046",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T034|gemini|efficient|r1",
+      "question_id": "T034",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T024|gemini|efficient|r1",
+      "question_id": "T024",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T009|gemini|non_rag|r1",
+      "question_id": "T009",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T013|gemini|standard|r1",
+      "question_id": "T013",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T018|gemini|standard|r1",
+      "question_id": "T018",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T041|gemini|efficient|r1",
+      "question_id": "T041",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T049|deepseek|standard|r1",
+      "question_id": "T049",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T027|claude|standard|r1",
+      "question_id": "T027",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T050|claude|standard|r1",
+      "question_id": "T050",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T044|claude|standard|r1",
+      "question_id": "T044",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T004|gemini|efficient|r1",
+      "question_id": "T004",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T018|claude|standard|r1",
+      "question_id": "T018",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T007|claude|efficient|r1",
+      "question_id": "T007",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T044|gemini|standard|r1",
+      "question_id": "T044",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T023|claude|non_rag|r1",
+      "question_id": "T023",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T035|deepseek|standard|r1",
+      "question_id": "T035",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T045|claude|standard|r1",
+      "question_id": "T045",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T023|gemini|efficient|r1",
+      "question_id": "T023",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T048|deepseek|efficient|r1",
+      "question_id": "T048",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T039|deepseek|efficient|r1",
+      "question_id": "T039",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T047|gemini|efficient|r1",
+      "question_id": "T047",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T037|gemini|efficient|r1",
+      "question_id": "T037",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T019|deepseek|non_rag|r1",
+      "question_id": "T019",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T040|gemini|standard|r1",
+      "question_id": "T040",
+      "model": "gemini",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T015|claude|non_rag|r1",
+      "question_id": "T015",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T028|claude|standard|r1",
+      "question_id": "T028",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T045|gemini|efficient|r1",
+      "question_id": "T045",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T026|claude|standard|r1",
+      "question_id": "T026",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T042|gemini|efficient|r1",
+      "question_id": "T042",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T001|deepseek|non_rag|r1",
+      "question_id": "T001",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T001|claude|non_rag|r1",
+      "question_id": "T001",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T034|deepseek|efficient|r1",
+      "question_id": "T034",
+      "model": "deepseek",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T040|gemini|non_rag|r1",
+      "question_id": "T040",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T005|deepseek|non_rag|r1",
+      "question_id": "T005",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T019|gemini|non_rag|r1",
+      "question_id": "T019",
+      "model": "gemini",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T009|claude|standard|r1",
+      "question_id": "T009",
+      "model": "claude",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T049|claude|non_rag|r1",
+      "question_id": "T049",
+      "model": "claude",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T001|gemini|efficient|r1",
+      "question_id": "T001",
+      "model": "gemini",
+      "mode": "efficient",
+      "repeat": 1
+    },
+    {
+      "task_id": "T024|deepseek|standard|r1",
+      "question_id": "T024",
+      "model": "deepseek",
+      "mode": "standard",
+      "repeat": 1
+    },
+    {
+      "task_id": "T040|deepseek|non_rag|r1",
+      "question_id": "T040",
+      "model": "deepseek",
+      "mode": "non_rag",
+      "repeat": 1
+    },
+    {
+      "task_id": "T023|claude|efficient|r1",
+      "question_id": "T023",
+      "model": "claude",
+      "mode": "efficient",
+      "repeat": 1
+    }
+  ]
+}

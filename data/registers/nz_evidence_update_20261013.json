@@ -1,0 +1,2505 @@
+{
+  "date": "2026-10-13",
+  "research_scope_version": "1.0 unchanged",
+  "sources": [
+    {
+      "source_id": "S261",
+      "title": "Leafroller insecticide resistance management strategy",
+      "organization": "New Zealand Plant Protection Society",
+      "language": "en",
+      "region": "New Zealand",
+      "url": "https://resistance.nzpps.org/index.php?p=insecticides/leafroller",
+      "topic": "Leafrollers; Lightbrown Apple Moth",
+      "topics": [
+        "Leafrollers",
+        "Lightbrown Apple Moth"
+      ],
+      "role": "local_management",
+      "publication_or_update_date": "2024-08",
+      "date_type": "explicit_web_revision_label",
+      "access_date": "2026-10-13",
+      "rights_status": "not_cleared_for_redistribution",
+      "sha256": "876505fc5296f6e32dd9fa8b8055bfa514adbc4dbb5ef04426fe9f2a81a8b961",
+      "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Page updated August 2024, but omitted label-claim table is November 2002 and resistance-assessment material is 2004. Technical prevention prose only.",
+      "qa_enabled": true,
+      "web_review_id": "nz-supplement-20261013-v1",
+      "collection_key": "NZ01",
+      "study_years": [],
+      "local_file": "raw/S261.html",
+      "cleaned_file": "cleaned/S261.json",
+      "web_review_status": "approved",
+      "download_status": "downloaded_cleaned_reviewed",
+      "content_type": "text/html",
+      "page_or_section": "Resistance management prevention strategy",
+      "evidence_type": "dated_technical_strategy",
+      "date_evidence": [
+        {
+          "literal": "2024-08"
+        }
+      ]
+    },
+    {
+      "source_id": "S262",
+      "title": "Mealybug insecticide resistance management strategy",
+      "organization": "New Zealand Plant Protection Society",
+      "language": "en",
+      "region": "New Zealand",
+      "url": "https://resistance.nzpps.org/index.php?p=insecticides/mealybug",
+      "topic": "Mealybugs",
+      "topics": [
+        "Mealybugs"
+      ],
+      "role": "local_management",
+      "publication_or_update_date": "2024-08",
+      "date_type": "explicit_web_revision_label",
+      "access_date": "2026-10-13",
+      "rights_status": "not_cleared_for_redistribution",
+      "sha256": "eec872d7d20252e902212407ac93279d97ce9a625b56b95991fe83cdeeb35ebd",
+      "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Research evidence: experimental methods/results are not automatically a general grower prescription.",
+      "qa_enabled": true,
+      "web_review_id": "nz-supplement-20261013-v1",
+      "collection_key": "NZ02",
+      "study_years": [],
+      "local_file": "raw/S262.html",
+      "cleaned_file": "cleaned/S262.json",
+      "web_review_status": "approved",
+      "download_status": "downloaded_cleaned_reviewed",
+      "content_type": "text/html",
+      "page_or_section": "Reason for strategy and update; Background; Resistance management and prevention strategy",
+      "evidence_type": "dated_technical_strategy",
+      "date_evidence": [
+        {
+          "literal": "2024-08"
+        }
+      ]
+    },
+    {
+      "source_id": "S263",
+      "title": "Leafhopper insecticide resistance management strategy",
+      "organization": "New Zealand Plant Protection Society",
+      "language": "en",
+      "region": "New Zealand",
+      "url": "https://resistance.nzpps.org/index.php?p=insecticides/leafhopper",
+      "topic": "Leafhoppers",
+      "topics": [
+        "Leafhoppers"
+      ],
+      "role": "local_management",
+      "publication_or_update_date": "2024",
+      "date_type": "explicit_web_revision_label",
+      "access_date": "2026-10-13",
+      "rights_status": "not_cleared_for_redistribution",
+      "sha256": "dc746aeee5c47b25c8039543b605c4c11f0fa27e51cd188429f3c48ae9f295f3",
+      "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Research evidence: experimental methods/results are not automatically a general grower prescription.",
+      "qa_enabled": true,
+      "web_review_id": "nz-supplement-20261013-v1",
+      "collection_key": "NZ03",
+      "study_years": [],
+      "local_file": "raw/S263.html",
+      "cleaned_file": "cleaned/S263.json",
+      "web_review_status": "approved",
+      "download_status": "downloaded_cleaned_reviewed",
+      "content_type": "text/html",
+      "page_or_section": "Reason for strategy and update; Background; Leafhopper biology; Current status of leafhopper resistance in New Zealand; Resistance management and prevention strategy",
+      "evidence_type": "dated_technical_strategy",
+      "date_evidence": [
+        {
+          "literal": "2024"
+        }
+      ]
+    },
+    {
+      "source_id": "S264",
+      "title": "Spider mite resistance management strategy",
+      "organization": "New Zealand Plant Protection Society",
+      "language": "en",
+      "region": "New Zealand",
+      "url": "https://resistance.nzpps.org/index.php?p=insecticides/spidermite",
+      "topic": "European Red Mite; Spider Mites",
+      "topics": [
+        "European Red Mite",
+        "Spider Mites"
+      ],
+      "role": "local_management",
+      "publication_or_update_date": "2025-02",
+      "date_type": "explicit_web_revision_label",
+      "access_date": "2026-10-13",
+      "rights_status": "not_cleared_for_redistribution",
+      "sha256": "4da4b925c671e958e17517b7cf04bf23f8e9635ccc7267575b75b7b5be72a6fd",
+      "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. February 2025 revision; retain apple/pipfruit predator and monitoring strategy only. Product tables and other-crop recommendations excluded.",
+      "qa_enabled": true,
+      "web_review_id": "nz-supplement-20261013-v1",
+      "collection_key": "NZ04",
+      "study_years": [],
+      "local_file": "raw/S264.html",
+      "cleaned_file": "cleaned/S264.json",
+      "web_review_status": "approved",
+      "download_status": "downloaded_cleaned_reviewed",
+      "content_type": "text/html",
+      "page_or_section": "Background; Resistance management and prevention strategy; Crop recommendations",
+      "evidence_type": "dated_technical_strategy",
+      "date_evidence": [
+        {
+          "literal": "2025-02"
+        }
+      ]
+    },
+    {
+      "source_id": "S265",
+      "title": "Fireblight",
+      "organization": "HortInfo – New Zealand horticultural technical information",
+      "language": "en",
+      "region": "New Zealand",
+      "url": "https://www.hortinfo.co.nz/textfiles/pdh219_59.htm",
+      "topic": "Fire Blight",
+      "topics": [
+        "Fire Blight"
+      ],
+      "role": "local_management",
+      "publication_or_update_date": null,
+      "date_type": "not_established",
+      "access_date": "2026-10-13",
+      "rights_status": "not_cleared_for_redistribution",
+      "sha256": "931169b271c7d4088a4c4f4dc32ccb2979fe7f0b4a6669fe9ac816e32df9bea3",
+      "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Undated legacy HortInfo guidance: retain biology, risk monitoring and cultural practices. Numerical weather criteria with ambiguous inequalities, chemical approval and pear-only recommendations are excluded.",
+      "qa_enabled": true,
+      "web_review_id": "nz-supplement-20261013-v1",
+      "collection_key": "NZ05",
+      "study_years": [],
+      "local_file": "raw/S265.html",
+      "cleaned_file": "cleaned/S265.json",
+      "web_review_status": "approved",
+      "download_status": "downloaded_cleaned_reviewed",
+      "content_type": "text/html",
+      "page_or_section": "Damage; Timing of expression; Management principles; Cultural control",
+      "evidence_type": "undated_legacy_technical_guidance",
+      "date_evidence": [
+        {
+          "literal": "No publication/revision date located in the original technical page."
+        }
+      ]
+    },
+    {
+      "source_id": "S266",
+      "title": "Apple leaf-curling midge (ALCM)",
+      "organization": "HortInfo – New Zealand horticultural technical information",
+      "language": "en",
+      "region": "New Zealand",
+      "url": "https://www.hortinfo.co.nz/textfiles/pdh252_59.htm",
+      "topic": "Apple Leafcurling Midge",
+      "topics": [
+        "Apple Leafcurling Midge"
+      ],
+      "role": "local_management",
+      "publication_or_update_date": null,
+      "date_type": "not_established",
+      "access_date": "2026-10-13",
+      "rights_status": "not_cleared_for_redistribution",
+      "sha256": "b0b095a7e7ea9503ddadbee8224e189d361a148120e6da0235be951157da1ef8",
+      "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Undated legacy HortInfo guidance: young/newly grafted apple trees versus mature trees must be distinguished. Source sampling thresholds and named-product programmes are historical and are not a current New Zealand prescription.",
+      "qa_enabled": true,
+      "web_review_id": "nz-supplement-20261013-v1",
+      "collection_key": "NZ06",
+      "study_years": [],
+      "local_file": "raw/S266.html",
+      "cleaned_file": "cleaned/S266.json",
+      "web_review_status": "approved",
+      "download_status": "downloaded_cleaned_reviewed",
+      "content_type": "text/html",
+      "page_or_section": "Summary; Overview; Main identifying features; Life stages; Most commonly encountered stages; Main damage features; Damage; Sites of infestation; Natural enemies; Monitoring; Control & thresholds; Organic control; Detection equipment",
+      "evidence_type": "undated_legacy_technical_guidance",
+      "date_evidence": [
+        {
+          "literal": "No publication/revision date located in the original technical page."
+        }
+      ]
+    },
+    {
+      "source_id": "S267",
+      "title": "Qo inhibitor fungicide resistance management strategy",
+      "organization": "New Zealand Plant Protection Society",
+      "language": "en",
+      "region": "New Zealand",
+      "url": "https://resistance.nzpps.org/index.php?p=fungicides/qoinhibitor",
+      "topic": "Apple Scab; Powdery Mildew",
+      "topics": [
+        "Apple Scab",
+        "Powdery Mildew"
+      ],
+      "role": "local_management",
+      "publication_or_update_date": "2023",
+      "date_type": "explicit_web_revision_label",
+      "access_date": "2026-10-13",
+      "rights_status": "not_cleared_for_redistribution",
+      "sha256": "1231e0830654e53b00e7295542c00122ef338824ffbd0d56bd3e5dcbd985fc5e",
+      "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. 2023 strategy: apple powdery-mildew row includes a specific warning about scab; retain the whole row so the exception survives. Not a general recommendation for using QoIs against scab.",
+      "qa_enabled": true,
+      "web_review_id": "nz-supplement-20261013-v1",
+      "collection_key": "NZ07",
+      "study_years": [],
+      "local_file": "raw/S267.html",
+      "cleaned_file": "cleaned/S267.json",
+      "web_review_status": "approved",
+      "download_status": "downloaded_cleaned_reviewed",
+      "content_type": "text/html",
+      "page_or_section": "QoI Product Perspective; Resistance prevention strategy",
+      "evidence_type": "dated_technical_strategy",
+      "date_evidence": [
+        {
+          "literal": "2023"
+        }
+      ]
+    },
+    {
+      "source_id": "S268",
+      "title": "DMI fungicide resistance management strategy",
+      "organization": "New Zealand Plant Protection Society",
+      "language": "en",
+      "region": "New Zealand",
+      "url": "https://resistance.nzpps.org/index.php?p=fungicides/dmi",
+      "topic": "Apple Scab; Powdery Mildew",
+      "topics": [
+        "Apple Scab",
+        "Powdery Mildew"
+      ],
+      "role": "local_management",
+      "publication_or_update_date": "2023",
+      "date_type": "explicit_web_revision_label",
+      "access_date": "2026-10-13",
+      "rights_status": "not_cleared_for_redistribution",
+      "sha256": "694e36456bd2b15a9fcd2f1b7bdd145861d8bab20987f1e6b293c629a37c95d7",
+      "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. 2023 strategy: preserve the complete apple/pear table row, including Otago and Hawke’s Bay qualifications. Apple claims only; no registration conclusions.",
+      "qa_enabled": true,
+      "web_review_id": "nz-supplement-20261013-v1",
+      "collection_key": "NZ08",
+      "study_years": [],
+      "local_file": "raw/S268.html",
+      "cleaned_file": "cleaned/S268.json",
+      "web_review_status": "approved",
+      "download_status": "downloaded_cleaned_reviewed",
+      "content_type": "text/html",
+      "page_or_section": "DMI product perspective; Current status of DMI resistance; Resistance management strategy",
+      "evidence_type": "dated_technical_strategy",
+      "date_evidence": [
+        {
+          "literal": "2023"
+        }
+      ]
+    },
+    {
+      "source_id": "S269",
+      "title": "Managing bronze beetle in Hawkes Bay organic apple orchards using soil cultivation",
+      "organization": "New Zealand Plant Protection Society",
+      "language": "en",
+      "region": "New Zealand - Hawke's Bay organic apple orchards",
+      "url": "https://www.journal.nzpps.org/index.php/nzpp/article/view/4818",
+      "topic": "Bronze Beetle",
+      "topics": [
+        "Bronze Beetle"
+      ],
+      "role": "support",
+      "publication_or_update_date": "2009",
+      "date_type": "explicit_journal_publication_year",
+      "access_date": "2026-10-13",
+      "rights_status": "not_cleared_for_redistribution",
+      "sha256": "ce0fa3cd01750de05b1eeb309a7973268ffaeba88205c878c0f3ac6a8eb0e1b2",
+      "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Research evidence: experimental methods/results are not automatically a general grower prescription.",
+      "qa_enabled": true,
+      "web_review_id": "nz-supplement-20261013-v1",
+      "collection_key": "NZ09",
+      "study_years": [
+        "Trial calendar years not established from retained excerpts; publication year is not assumed to be trial year."
+      ],
+      "local_file": "../../pdf/S269.pdf",
+      "local_corpus_file": "data/pdf/S269.pdf",
+      "content_type": "application/pdf",
+      "download_status": "downloaded_reviewed",
+      "page_count": 6,
+      "page_or_section": "PDF physical pages 1,5,6",
+      "evidence_type": "peer_reviewed_research_trial",
+      "date_evidence": [
+        {
+          "literal": "Journal/conference header and printed publication citation on PDF page 1."
+        }
+      ]
+    },
+    {
+      "source_id": "S270",
+      "title": "Biological control of woolly apple aphid by Aphelinus mali in an integrated fruit production programme in Nelson",
+      "organization": "New Zealand Plant Protection Society",
+      "language": "en",
+      "region": "New Zealand - Nelson",
+      "url": "https://journal.nzpps.org/index.php/pnzppc/article/download/11425/11275/12902",
+      "topic": "Woolly Apple Aphid",
+      "topics": [
+        "Woolly Apple Aphid"
+      ],
+      "role": "support",
+      "publication_or_update_date": "1996",
+      "date_type": "explicit_journal_publication_year",
+      "access_date": "2026-10-13",
+      "rights_status": "not_cleared_for_redistribution",
+      "sha256": "22b2f2a0c04d12468c2089e52bb35c30363c69b47772315dd6b0522287e25160",
+      "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Research evidence: experimental methods/results are not automatically a general grower prescription.",
+      "qa_enabled": true,
+      "web_review_id": "nz-supplement-20261013-v1",
+      "collection_key": "NZ10",
+      "study_years": [
+        1994,
+        1995,
+        1996
+      ],
+      "local_file": "../../pdf/S270.pdf",
+      "local_corpus_file": "data/pdf/S270.pdf",
+      "content_type": "application/pdf",
+      "download_status": "downloaded_reviewed",
+      "page_count": 5,
+      "page_or_section": "PDF physical pages 1,4",
+      "evidence_type": "peer_reviewed_research_trial",
+      "date_evidence": [
+        {
+          "literal": "Journal/conference header and printed publication citation on PDF page 1."
+        }
+      ]
+    },
+    {
+      "source_id": "S271",
+      "title": "Biocontrol of pests in apples under integrated fruit production",
+      "organization": "New Zealand Plant Protection Society",
+      "language": "en",
+      "region": "New Zealand - Motueka",
+      "url": "https://nzpps.org/_journal/index.php/nzpp/article/download/6812/6640/9014",
+      "topic": "Woolly Apple Aphid; European Red Mite",
+      "topics": [
+        "Woolly Apple Aphid",
+        "European Red Mite"
+      ],
+      "role": "support",
+      "publication_or_update_date": "2008",
+      "date_type": "explicit_journal_publication_year",
+      "access_date": "2026-10-13",
+      "rights_status": "not_cleared_for_redistribution",
+      "sha256": "1df49840bbb8278472b29ae1acdaa7be684c8bb9763a2d4a73c4709a12794873",
+      "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Only the intact abstract is admitted because substantial body text has unresolved font-encoding corruption. Full original PDF remains available; no claim of full-body extraction quality.",
+      "qa_enabled": true,
+      "web_review_id": "nz-supplement-20261013-v1",
+      "collection_key": "NZ11",
+      "study_years": [
+        "Trial calendar years not established from retained excerpts; publication year is not assumed to be trial year."
+      ],
+      "local_file": "../../pdf/S271.pdf",
+      "local_corpus_file": "data/pdf/S271.pdf",
+      "content_type": "application/pdf",
+      "download_status": "downloaded_reviewed",
+      "page_count": 5,
+      "page_or_section": "PDF physical pages 1",
+      "evidence_type": "partially_extractable_research_article",
+      "date_evidence": [
+        {
+          "literal": "Journal/conference header and printed publication citation on PDF page 1."
+        }
+      ]
+    },
+    {
+      "source_id": "S272",
+      "title": "Vulnerability of pest management in New Zealand apples: pesticide toxicity to Aphelinus mali",
+      "organization": "New Zealand Plant Protection Society",
+      "language": "en",
+      "region": "New Zealand - Hawke’s Bay / laboratory trials",
+      "url": "https://www.journal.nzpps.org/index.php/nzpp/article/view/5826",
+      "topic": "Woolly Apple Aphid",
+      "topics": [
+        "Woolly Apple Aphid"
+      ],
+      "role": "support",
+      "publication_or_update_date": "2015",
+      "date_type": "explicit_journal_publication_year",
+      "access_date": "2026-10-13",
+      "rights_status": "not_cleared_for_redistribution",
+      "sha256": "b451007e959e5dd452dd37a3d357cb341853b67e73bf29fe868455a52cb1e2d4",
+      "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Research evidence: experimental methods/results are not automatically a general grower prescription.",
+      "qa_enabled": true,
+      "web_review_id": "nz-supplement-20261013-v1",
+      "collection_key": "NZ12",
+      "study_years": [
+        "Trial calendar years not established from retained excerpts; publication year is not assumed to be trial year."
+      ],
+      "local_file": "../../pdf/S272.pdf",
+      "local_corpus_file": "data/pdf/S272.pdf",
+      "content_type": "application/pdf",
+      "download_status": "downloaded_reviewed",
+      "page_count": 7,
+      "page_or_section": "PDF physical pages 1,4,5,6",
+      "evidence_type": "peer_reviewed_research_trial",
+      "date_evidence": [
+        {
+          "literal": "Journal/conference header and printed publication citation on PDF page 1."
+        }
+      ]
+    },
+    {
+      "source_id": "S273",
+      "title": "Can phosphorous acid be used to control Neonectria ditissima in New Zealand grown apples?",
+      "organization": "New Zealand Plant Protection Society",
+      "language": "en",
+      "region": "New Zealand - Tasman (Motueka and Waimea Plains)",
+      "url": "https://journal.nzpps.org/index.php/nzpp/article/download/279/10860/12482",
+      "topic": "European Canker",
+      "topics": [
+        "European Canker"
+      ],
+      "role": "support",
+      "publication_or_update_date": "2019",
+      "date_type": "explicit_journal_publication_year",
+      "access_date": "2026-10-13",
+      "rights_status": "not_cleared_for_redistribution",
+      "sha256": "d4d07b9361cfc0e367bbcc9b77f476bd7f27c8b8bc04950de0f680dbcf629d63",
+      "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. 2017–2018 leaf-scar trial did not establish efficacy of phosphorous acid against canker; do not turn this negative result into a recommended treatment. Publication year is 2019.",
+      "qa_enabled": true,
+      "web_review_id": "nz-supplement-20261013-v1",
+      "collection_key": "NZ13",
+      "study_years": [
+        2017,
+        2018
+      ],
+      "local_file": "../../pdf/S273.pdf",
+      "local_corpus_file": "data/pdf/S273.pdf",
+      "content_type": "application/pdf",
+      "download_status": "downloaded_reviewed",
+      "page_count": 6,
+      "page_or_section": "PDF physical pages 1,6",
+      "evidence_type": "peer_reviewed_research_trial",
+      "date_evidence": [
+        {
+          "literal": "Journal/conference header and printed publication citation on PDF page 1."
+        }
+      ]
+    },
+    {
+      "source_id": "S274",
+      "title": "Mapping European canker spatial pattern and disease progression in apples using GIS, Tasman, New Zealand",
+      "organization": "New Zealand Plant Protection Society",
+      "language": "en",
+      "region": "New Zealand - Tasman",
+      "url": "https://nzpps.org/_journal/index.php/nzpp/article/download/305/10870/12497",
+      "topic": "European Canker",
+      "topics": [
+        "European Canker"
+      ],
+      "role": "support",
+      "publication_or_update_date": "2019",
+      "date_type": "explicit_journal_publication_year",
+      "access_date": "2026-10-13",
+      "rights_status": "not_cleared_for_redistribution",
+      "sha256": "882f31f1ac437ffe657ec7f26b7d2ec0a8f2981548562a11d8d53f4742baa995",
+      "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Research evidence: experimental methods/results are not automatically a general grower prescription.",
+      "qa_enabled": true,
+      "web_review_id": "nz-supplement-20261013-v1",
+      "collection_key": "NZ14",
+      "study_years": [
+        2015,
+        2016,
+        2017,
+        2018
+      ],
+      "local_file": "../../pdf/S274.pdf",
+      "local_corpus_file": "data/pdf/S274.pdf",
+      "content_type": "application/pdf",
+      "download_status": "downloaded_reviewed",
+      "page_count": 9,
+      "page_or_section": "PDF physical pages 1,8",
+      "evidence_type": "peer_reviewed_observational_study",
+      "date_evidence": [
+        {
+          "literal": "Journal/conference header and printed publication citation on PDF page 1."
+        }
+      ]
+    },
+    {
+      "source_id": "S275",
+      "title": "Evaluation of fungicides for control of bitter and sprinkler rots on apple fruit",
+      "organization": "New Zealand Plant Protection Society",
+      "language": "en",
+      "region": "New Zealand - Waikato and Hawke’s Bay apple trials",
+      "url": "https://nzpps.org/_journal/index.php/nzpp/article/download/5801/5629/8003",
+      "topic": "Bitter Rot; Phytophthora Fruit Rot",
+      "topics": [
+        "Bitter Rot",
+        "Phytophthora Fruit Rot"
+      ],
+      "role": "support",
+      "publication_or_update_date": "2015",
+      "date_type": "explicit_journal_publication_year",
+      "access_date": "2026-10-13",
+      "rights_status": "not_cleared_for_redistribution",
+      "sha256": "2e19085cc186e3a47f1e0274e98d0f597611fcbca97ce54d5c07817de7557fac",
+      "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Apple bitter-rot and Phytophthora fruit/sprinkler-rot trials; not evidence for treating Phytophthora root/crown rot. Fungicide results are historical, conditional trial results.",
+      "qa_enabled": true,
+      "web_review_id": "nz-supplement-20261013-v1",
+      "collection_key": "NZ15",
+      "study_years": [
+        "Trial calendar years not established from retained excerpts; publication year is not assumed to be trial year."
+      ],
+      "local_file": "../../pdf/S275.pdf",
+      "local_corpus_file": "data/pdf/S275.pdf",
+      "content_type": "application/pdf",
+      "download_status": "downloaded_reviewed",
+      "page_count": 11,
+      "page_or_section": "PDF physical pages 1,8,9",
+      "evidence_type": "peer_reviewed_research_trial",
+      "date_evidence": [
+        {
+          "literal": "Journal/conference header and printed publication citation on PDF page 1."
+        }
+      ]
+    },
+    {
+      "source_id": "S277",
+      "title": "The effect of fungicides on spore germination, mycelial growth and lesion development of Phlyctema vagabunda (syn: Neofabraea alba) (bull’s eye rot of apples)",
+      "organization": "New Zealand Plant Protection Society",
+      "language": "en",
+      "region": "New Zealand - laboratory and detached apple fruit",
+      "url": "https://journal.nzpps.org/index.php/nzpp/article/download/36/20",
+      "topic": "Bull's Eye Rot",
+      "topics": [
+        "Bull's Eye Rot"
+      ],
+      "role": "support",
+      "publication_or_update_date": "2017",
+      "date_type": "explicit_journal_publication_year",
+      "access_date": "2026-10-13",
+      "rights_status": "not_cleared_for_redistribution",
+      "sha256": "ecf09cdda8cf073de7c30ac8458142c45f91aa56904b39ac537bbe2213fe2199",
+      "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Research evidence: experimental methods/results are not automatically a general grower prescription.",
+      "qa_enabled": true,
+      "web_review_id": "nz-supplement-20261013-v1",
+      "collection_key": "NZ17",
+      "study_years": [
+        "Trial calendar years not established from retained excerpts; publication year is not assumed to be trial year."
+      ],
+      "local_file": "../../pdf/S277.pdf",
+      "local_corpus_file": "data/pdf/S277.pdf",
+      "content_type": "application/pdf",
+      "download_status": "downloaded_reviewed",
+      "page_count": 8,
+      "page_or_section": "PDF physical pages 1,6",
+      "evidence_type": "laboratory_and_detached_fruit_experiment",
+      "date_evidence": [
+        {
+          "literal": "Journal/conference header and printed publication citation on PDF page 1."
+        }
+      ]
+    },
+    {
+      "source_id": "S278",
+      "title": "Trapping obscure mealybug and its natural enemy in apple orchards",
+      "organization": "New Zealand Plant Protection Society",
+      "language": "en",
+      "region": "New Zealand - Hawke’s Bay and Nelson",
+      "url": "https://www.journal.nzpps.org/index.php/nzpp/article/view/4558",
+      "topic": "Mealybugs",
+      "topics": [
+        "Mealybugs"
+      ],
+      "role": "support",
+      "publication_or_update_date": "2006",
+      "date_type": "explicit_journal_publication_year",
+      "access_date": "2026-10-13",
+      "rights_status": "not_cleared_for_redistribution",
+      "sha256": "acbf43db739da6f4bf52e05157bade5515edf5dafffbfc220710598e6c5f59ef",
+      "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Poster abstract only. Retain only the apple mealybug study; neighbouring sharpshooter/spittlebug abstract excluded. This is monitoring evidence, not a complete control protocol.",
+      "qa_enabled": true,
+      "web_review_id": "nz-supplement-20261013-v1",
+      "collection_key": "NZ18",
+      "study_years": [
+        "Trial calendar years not established from retained excerpts; publication year is not assumed to be trial year."
+      ],
+      "local_file": "../../pdf/S278.pdf",
+      "local_corpus_file": "data/pdf/S278.pdf",
+      "content_type": "application/pdf",
+      "download_status": "downloaded_reviewed",
+      "page_count": 1,
+      "page_or_section": "PDF physical pages 1",
+      "evidence_type": "poster_abstract",
+      "date_evidence": [
+        {
+          "literal": "Journal/conference header and printed publication citation on PDF page 1."
+        }
+      ]
+    },
+    {
+      "source_id": "S279",
+      "title": "European canker",
+      "organization": "HortInfo – New Zealand horticultural technical information",
+      "language": "en",
+      "region": "New Zealand",
+      "url": "https://www.hortinfo.co.nz/textfiles/pdh301_59.htm",
+      "topic": "European Canker",
+      "topics": [
+        "European Canker"
+      ],
+      "role": "local_management",
+      "publication_or_update_date": null,
+      "date_type": "not_established",
+      "access_date": "2026-10-13",
+      "rights_status": "not_cleared_for_redistribution",
+      "sha256": "5fb50af014b4d5af6c644edf999459e42bf6fb7260adb8ff62bbd807b5e3c80a",
+      "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Undated legacy HortInfo guide. Cultural sanitation/pruning only; chemical rates and registrations excluded.",
+      "qa_enabled": true,
+      "web_review_id": "nz-supplement-20261013-v1",
+      "collection_key": "NZ19",
+      "study_years": [],
+      "local_file": "raw/S279.html",
+      "cleaned_file": "cleaned/S279.json",
+      "web_review_status": "approved",
+      "download_status": "downloaded_cleaned_reviewed",
+      "content_type": "text/html",
+      "page_or_section": "Summary; Overview; Damage; Sites of infection; Timing of expression; Cultural control",
+      "evidence_type": "undated_legacy_technical_guidance",
+      "date_evidence": [
+        {
+          "literal": "No publication/revision date located in the original technical page."
+        }
+      ]
+    },
+    {
+      "source_id": "S280",
+      "title": "Use of mating disruption for control of New Zealand leafrollers in apple orchards",
+      "organization": "New Zealand Plant Protection Society",
+      "language": "en",
+      "region": "New Zealand - Hawke’s Bay",
+      "url": "https://nzpps.org/_journal/index.php/nzpp/article/download/5957/5785/8159",
+      "topic": "Leafrollers; Lightbrown Apple Moth",
+      "topics": [
+        "Leafrollers",
+        "Lightbrown Apple Moth"
+      ],
+      "role": "support",
+      "publication_or_update_date": "2011",
+      "date_type": "explicit_journal_publication_year",
+      "access_date": "2026-10-13",
+      "rights_status": "not_cleared_for_redistribution",
+      "sha256": "2f964142f9956fd51db4d81a33098565844592c421104e6ddc8a32d78ec8ebbe",
+      "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Research evidence: experimental methods/results are not automatically a general grower prescription.",
+      "qa_enabled": true,
+      "web_review_id": "nz-supplement-20261013-v1",
+      "collection_key": "NZ20",
+      "study_years": [
+        2009,
+        2010,
+        2011
+      ],
+      "local_file": "../../pdf/S280.pdf",
+      "local_corpus_file": "data/pdf/S280.pdf",
+      "content_type": "application/pdf",
+      "download_status": "downloaded_reviewed",
+      "page_count": 7,
+      "page_or_section": "PDF physical pages 1,5,6",
+      "evidence_type": "peer_reviewed_research_trial",
+      "date_evidence": [
+        {
+          "literal": "Journal/conference header and printed publication citation on PDF page 1."
+        }
+      ]
+    },
+    {
+      "source_id": "S281",
+      "title": "Codling moth (Cydia pomonella) mating disruption outcomes in apple orchards",
+      "organization": "New Zealand Plant Protection Society",
+      "language": "en",
+      "region": "New Zealand - Hawke’s Bay",
+      "url": "https://nzpps.org/_journal/index.php/nzpp/article/download/5642/5470/7844",
+      "topic": "Codling Moth",
+      "topics": [
+        "Codling Moth"
+      ],
+      "role": "support",
+      "publication_or_update_date": "2013",
+      "date_type": "explicit_journal_publication_year",
+      "access_date": "2026-10-13",
+      "rights_status": "not_cleared_for_redistribution",
+      "sha256": "7f06906fa20a6997701f3ad6d726e683454deacf0eb3777b6090153c9b51efb7",
+      "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Research evidence: experimental methods/results are not automatically a general grower prescription.",
+      "qa_enabled": true,
+      "web_review_id": "nz-supplement-20261013-v1",
+      "collection_key": "NZ21",
+      "study_years": [
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012
+      ],
+      "local_file": "../../pdf/S281.pdf",
+      "local_corpus_file": "data/pdf/S281.pdf",
+      "content_type": "application/pdf",
+      "download_status": "downloaded_reviewed",
+      "page_count": 5,
+      "page_or_section": "PDF physical pages 1,4,5",
+      "evidence_type": "peer_reviewed_research_trial",
+      "date_evidence": [
+        {
+          "literal": "Journal/conference header and printed publication citation on PDF page 1."
+        }
+      ]
+    },
+    {
+      "source_id": "S282",
+      "title": "Control of powdery mildew ( Podosphaera leucotricha ) on apple seedlings using anhydrous milk fat and soybean oil emulsions",
+      "organization": "New Zealand Plant Protection Society",
+      "language": "en",
+      "region": "New Zealand - controlled apple-seedling glasshouse trials",
+      "url": "https://journal.nzpps.org/index.php/nzpp/article/view/5982",
+      "topic": "Powdery Mildew",
+      "topics": [
+        "Powdery Mildew"
+      ],
+      "role": "support",
+      "publication_or_update_date": "2011",
+      "date_type": "explicit_journal_publication_year",
+      "access_date": "2026-10-13",
+      "rights_status": "not_cleared_for_redistribution",
+      "sha256": "93502a866cffdf0e5cc0b5c988849228a14d128435c98a4fa10864a72385a2ea",
+      "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Glasshouse apple seedlings and lipid emulsions, not a validated mature-orchard spray programme. Crop injury and formulation qualifications must be retained.",
+      "qa_enabled": true,
+      "web_review_id": "nz-supplement-20261013-v1",
+      "collection_key": "NZ22",
+      "study_years": [
+        "Trial calendar years not established from retained excerpts; publication year is not assumed to be trial year."
+      ],
+      "local_file": "../../pdf/S282.pdf",
+      "local_corpus_file": "data/pdf/S282.pdf",
+      "content_type": "application/pdf",
+      "download_status": "downloaded_reviewed",
+      "page_count": 8,
+      "page_or_section": "PDF physical pages 1,4,6,7",
+      "evidence_type": "controlled_glasshouse_seedling_experiment",
+      "date_evidence": [
+        {
+          "literal": "Journal/conference header and printed publication citation on PDF page 1."
+        }
+      ]
+    },
+    {
+      "source_id": "S283",
+      "title": "Infection period forecasting for improved apple black spot management in Hawke's Bay",
+      "organization": "New Zealand Plant Protection Society",
+      "language": "en",
+      "region": "New Zealand - Hawke’s Bay",
+      "url": "https://journal.nzpps.org/index.php/pnzppc/article/view/11431",
+      "topic": "Apple Scab",
+      "topics": [
+        "Apple Scab"
+      ],
+      "role": "support",
+      "publication_or_update_date": "1996",
+      "date_type": "explicit_journal_publication_year",
+      "access_date": "2026-10-13",
+      "rights_status": "not_cleared_for_redistribution",
+      "sha256": "76d3c4d7b965acfdcee4d2592f6b5f3d2c0648caad8748ed70f5f1b0ec4eacab",
+      "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Research evidence: experimental methods/results are not automatically a general grower prescription.",
+      "qa_enabled": true,
+      "web_review_id": "nz-supplement-20261013-v1",
+      "collection_key": "NZ23",
+      "study_years": [
+        1993,
+        1994,
+        1995
+      ],
+      "local_file": "../../pdf/S283.pdf",
+      "local_corpus_file": "data/pdf/S283.pdf",
+      "content_type": "application/pdf",
+      "download_status": "downloaded_reviewed",
+      "page_count": 6,
+      "page_or_section": "PDF physical pages 1,5",
+      "evidence_type": "peer_reviewed_research_trial",
+      "date_evidence": [
+        {
+          "literal": "Journal/conference header and printed publication citation on PDF page 1."
+        }
+      ]
+    },
+    {
+      "source_id": "S284",
+      "title": "Applications of the MARYBLYT computer model for identifying infection risk for fire blight of apple",
+      "organization": "New Zealand Plant Protection Society",
+      "language": "en",
+      "region": "New Zealand - Hawke’s Bay and Waikato",
+      "url": "https://journal.nzpps.org/index.php/pnzppc/article/view/11432",
+      "topic": "Fire Blight",
+      "topics": [
+        "Fire Blight"
+      ],
+      "role": "support",
+      "publication_or_update_date": "1996",
+      "date_type": "explicit_journal_publication_year",
+      "access_date": "2026-10-13",
+      "rights_status": "not_cleared_for_redistribution",
+      "sha256": "18341c3865d73ea04c598b1f6583a4931f76609a005cc11ec56059709b7140f8",
+      "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Research evidence: experimental methods/results are not automatically a general grower prescription.",
+      "qa_enabled": true,
+      "web_review_id": "nz-supplement-20261013-v1",
+      "collection_key": "NZ24",
+      "study_years": [
+        1993,
+        1994
+      ],
+      "local_file": "../../pdf/S284.pdf",
+      "local_corpus_file": "data/pdf/S284.pdf",
+      "content_type": "application/pdf",
+      "download_status": "downloaded_reviewed",
+      "page_count": 5,
+      "page_or_section": "PDF physical pages 1,4",
+      "evidence_type": "peer_reviewed_research_trial",
+      "date_evidence": [
+        {
+          "literal": "Journal/conference header and printed publication citation on PDF page 1."
+        }
+      ]
+    },
+    {
+      "source_id": "S285",
+      "title": "Slaked lime, baking soda and mineral oil for blackspot and powdery mildew control in apples",
+      "organization": "New Zealand Plant Protection Society",
+      "language": "en",
+      "region": "New Zealand - Hawke’s Bay, Nelson, Canterbury and Otago",
+      "url": "https://journal.nzpps.org/index.php/pnzppc/article/view/11434",
+      "topic": "Apple Scab; Powdery Mildew",
+      "topics": [
+        "Apple Scab",
+        "Powdery Mildew"
+      ],
+      "role": "support",
+      "publication_or_update_date": "1996",
+      "date_type": "explicit_journal_publication_year",
+      "access_date": "2026-10-13",
+      "rights_status": "not_cleared_for_redistribution",
+      "sha256": "6b24c75c815382490c27a247aac79e6252750192ebf9677ad5d33d89ec6fe3a5",
+      "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Research evidence: experimental methods/results are not automatically a general grower prescription.",
+      "qa_enabled": true,
+      "web_review_id": "nz-supplement-20261013-v1",
+      "collection_key": "NZ25",
+      "study_years": [
+        "Trial calendar years not established from retained excerpts; publication year is not assumed to be trial year."
+      ],
+      "local_file": "../../pdf/S285.pdf",
+      "local_corpus_file": "data/pdf/S285.pdf",
+      "content_type": "application/pdf",
+      "download_status": "downloaded_reviewed",
+      "page_count": 8,
+      "page_or_section": "PDF physical pages 1,6,7",
+      "evidence_type": "peer_reviewed_research_trial",
+      "date_evidence": [
+        {
+          "literal": "Journal/conference header and printed publication citation on PDF page 1."
+        }
+      ]
+    },
+    {
+      "source_id": "S287",
+      "title": "Yeast isolates to inhibit blue mould and bitter rot of apples",
+      "organization": "New Zealand Plant Protection Society",
+      "language": "en",
+      "region": "New Zealand - orchard yeast isolates and detached apple tests",
+      "url": "https://journal.nzpps.org/index.php/nzpp/article/view/4424",
+      "topic": "Blue Mold; Bitter Rot",
+      "topics": [
+        "Blue Mold",
+        "Bitter Rot"
+      ],
+      "role": "support",
+      "publication_or_update_date": "2006",
+      "date_type": "explicit_journal_publication_year",
+      "access_date": "2026-10-13",
+      "rights_status": "not_cleared_for_redistribution",
+      "sha256": "8f0bceeb6a5ac6cbeb78b61150f8387b6f046220b1f85429d0980e59b9dd0876",
+      "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Detached, inoculated apple-fruit yeast experiments. Not a validated commercial product or whole-orchard treatment protocol.",
+      "qa_enabled": true,
+      "web_review_id": "nz-supplement-20261013-v1",
+      "collection_key": "NZ27",
+      "study_years": [
+        "Trial calendar years not established from retained excerpts; publication year is not assumed to be trial year."
+      ],
+      "local_file": "../../pdf/S287.pdf",
+      "local_corpus_file": "data/pdf/S287.pdf",
+      "content_type": "application/pdf",
+      "download_status": "downloaded_reviewed",
+      "page_count": 6,
+      "page_or_section": "PDF physical pages 1,4,5",
+      "evidence_type": "laboratory_and_detached_fruit_experiment",
+      "date_evidence": [
+        {
+          "literal": "Journal/conference header and printed publication citation on PDF page 1."
+        }
+      ]
+    },
+    {
+      "source_id": "S288",
+      "title": "Colonisation of apple roots by arbuscular mycorrhiza in specific apple replant disease affected soil",
+      "organization": "New Zealand Plant Protection Society",
+      "language": "en",
+      "region": "New Zealand - Nelson orchard soil / controlled rootstock trials",
+      "url": "https://journal.nzpps.org/index.php/nzpp/article/view/4428",
+      "topic": "Apple Replant Disease",
+      "topics": [
+        "Apple Replant Disease"
+      ],
+      "role": "support",
+      "publication_or_update_date": "2006",
+      "date_type": "explicit_journal_publication_year",
+      "access_date": "2026-10-13",
+      "rights_status": "not_cleared_for_redistribution",
+      "sha256": "f693cbccee9707a1c79564978b4c49c9cc2cfb8ea1b1e06d52c288629df81a06",
+      "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Controlled M26 rootstock and replant-soil research. Colonisation/growth findings and future research suggestions are not evidence that a commercial bio-inoculant cures replant disease.",
+      "qa_enabled": true,
+      "web_review_id": "nz-supplement-20261013-v1",
+      "collection_key": "NZ28",
+      "study_years": [
+        "Trial calendar years not established from retained excerpts; publication year is not assumed to be trial year."
+      ],
+      "local_file": "../../pdf/S288.pdf",
+      "local_corpus_file": "data/pdf/S288.pdf",
+      "content_type": "application/pdf",
+      "download_status": "downloaded_reviewed",
+      "page_count": 5,
+      "page_or_section": "PDF physical pages 1,3,4,5",
+      "evidence_type": "controlled_rootstock_soil_experiment",
+      "date_evidence": [
+        {
+          "literal": "Journal/conference header and printed publication citation on PDF page 1."
+        }
+      ]
+    },
+    {
+      "source_id": "S289",
+      "title": "Effect of fungicidal treatments on severity and incidence of elsinoe leaf spot of apple",
+      "organization": "New Zealand Plant Protection Society",
+      "language": "en",
+      "region": "New Zealand - Plant & Food Research glasshouse/laboratory",
+      "url": "https://www.journal.nzpps.org/index.php/nzpp/article/view/4851",
+      "topic": "Elsinoe Leaf Spot",
+      "topics": [
+        "Elsinoe Leaf Spot"
+      ],
+      "role": "support",
+      "publication_or_update_date": "2009",
+      "date_type": "explicit_journal_publication_year",
+      "access_date": "2026-10-13",
+      "rights_status": "not_cleared_for_redistribution",
+      "sha256": "9ff1d68283b5dcb7a83a4d5d7cbfd484f2a7f52b8bcd449afac9134109ac3a78",
+      "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Poster abstract, Royal Gala pot/seedling glasshouse and in-vitro pretreatment experiments only. Carrot study on the same page excluded; numeric inoculum exponent not reliably extracted and excluded. No claim of commercial field efficacy.",
+      "qa_enabled": true,
+      "web_review_id": "nz-supplement-20261013-v1",
+      "collection_key": "NZ29",
+      "study_years": [
+        "Trial calendar years not established from retained excerpts; publication year is not assumed to be trial year."
+      ],
+      "local_file": "../../pdf/S289.pdf",
+      "local_corpus_file": "data/pdf/S289.pdf",
+      "content_type": "application/pdf",
+      "download_status": "downloaded_reviewed",
+      "page_count": 1,
+      "page_or_section": "PDF physical pages 1",
+      "evidence_type": "poster_abstract",
+      "date_evidence": [
+        {
+          "literal": "Journal/conference header and printed publication citation on PDF page 1."
+        }
+      ]
+    },
+    {
+      "source_id": "S290",
+      "title": "The incidence of storage rots after postharvest apple washing",
+      "organization": "New Zealand Plant Protection Society",
+      "language": "en",
+      "region": "New Zealand - postharvest apple washing trials",
+      "url": "https://nzpps.org/_journal/index.php/nzpp/article/download/4626/4454/6828",
+      "topic": "Blue Mold; Gray Mold; Mucor Rot; Alternaria Rot",
+      "topics": [
+        "Blue Mold",
+        "Gray Mold",
+        "Mucor Rot",
+        "Alternaria Rot"
+      ],
+      "role": "support",
+      "publication_or_update_date": "2007",
+      "date_type": "explicit_journal_publication_year",
+      "access_date": "2026-10-13",
+      "rights_status": "not_cleared_for_redistribution",
+      "sha256": "1238bed29496c60cd4aa6ce5e5b0e528abcf1b00316e817806b41fab4b40e2ac",
+      "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Apple washing/storage-rot trial; only intact prose and sentences admitted because font encoding corrupts some digits. Quantitative incidence data with corrupted digits excluded. Mixed rot species are not independently validated species-specific treatment protocols.",
+      "qa_enabled": true,
+      "web_review_id": "nz-supplement-20261013-v1",
+      "collection_key": "NZ30",
+      "study_years": [
+        "Trial calendar years not established from retained excerpts; publication year is not assumed to be trial year."
+      ],
+      "local_file": "../../pdf/S290.pdf",
+      "local_corpus_file": "data/pdf/S290.pdf",
+      "content_type": "application/pdf",
+      "download_status": "downloaded_reviewed",
+      "page_count": 8,
+      "page_or_section": "PDF physical pages 1,7",
+      "evidence_type": "partially_extractable_research_article",
+      "date_evidence": [
+        {
+          "literal": "Journal/conference header and printed publication citation on PDF page 1."
+        }
+      ]
+    },
+    {
+      "source_id": "S291",
+      "title": "Control of Neonectria ditissima with copper based products in New Zealand",
+      "organization": "New Zealand Plant Protection Society",
+      "language": "en",
+      "region": "New Zealand - apple leaf-scar field trials",
+      "url": "http://www.journal.nzpps.org/index.php/nzpp/article/view/5798",
+      "topic": "European Canker",
+      "topics": [
+        "European Canker"
+      ],
+      "role": "support",
+      "publication_or_update_date": "2015",
+      "date_type": "explicit_journal_publication_year",
+      "access_date": "2026-10-13",
+      "rights_status": "not_cleared_for_redistribution",
+      "sha256": "3eafeb60a3035432f0a090ea5e87b4f305d88a554db45c25c3dc7a65a7214f19",
+      "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Research evidence: experimental methods/results are not automatically a general grower prescription.",
+      "qa_enabled": true,
+      "web_review_id": "nz-supplement-20261013-v1",
+      "collection_key": "NZ31",
+      "study_years": [
+        2013,
+        2014
+      ],
+      "local_file": "../../pdf/S291.pdf",
+      "local_corpus_file": "data/pdf/S291.pdf",
+      "content_type": "application/pdf",
+      "download_status": "downloaded_reviewed",
+      "page_count": 9,
+      "page_or_section": "PDF physical pages 1,6,8",
+      "evidence_type": "peer_reviewed_research_trial",
+      "date_evidence": [
+        {
+          "literal": "Journal/conference header and printed publication citation on PDF page 1."
+        }
+      ]
+    },
+    {
+      "source_id": "S292",
+      "title": "Seasonal wound presence and susceptibility to Neonectria ditissima infection in New Zealand apple trees",
+      "organization": "New Zealand Plant Protection Society",
+      "language": "en",
+      "region": "New Zealand - apple wound-inoculation trials",
+      "url": "http://www.journal.nzpps.org/index.php/nzpp/article/view/5799",
+      "topic": "European Canker",
+      "topics": [
+        "European Canker"
+      ],
+      "role": "support",
+      "publication_or_update_date": "2015",
+      "date_type": "explicit_journal_publication_year",
+      "access_date": "2026-10-13",
+      "rights_status": "not_cleared_for_redistribution",
+      "sha256": "86663e8e7add6d5ba9b9e56138ac7d78015a16e320145c4e28b658e10c21359a",
+      "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Research evidence: experimental methods/results are not automatically a general grower prescription.",
+      "qa_enabled": true,
+      "web_review_id": "nz-supplement-20261013-v1",
+      "collection_key": "NZ32",
+      "study_years": [
+        "Trial calendar years not established from retained excerpts; publication year is not assumed to be trial year."
+      ],
+      "local_file": "../../pdf/S292.pdf",
+      "local_corpus_file": "data/pdf/S292.pdf",
+      "content_type": "application/pdf",
+      "download_status": "downloaded_reviewed",
+      "page_count": 7,
+      "page_or_section": "PDF physical pages 1,6,7",
+      "evidence_type": "peer_reviewed_research_trial",
+      "date_evidence": [
+        {
+          "literal": "Journal/conference header and printed publication citation on PDF page 1."
+        }
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "topic_id": "T01",
+      "topic": "Apple scab 苹果黑星病",
+      "new_source_ids": [
+        "S267",
+        "S268",
+        "S283",
+        "S285"
+      ],
+      "status": "technical_or_scoped_research_added",
+      "note": "补入感染期预测历史田间研究与 2023 抗性策略；不等于已取得当前完整喷药规程。"
+    },
+    {
+      "topic_id": "T02",
+      "topic": "Fire blight 火疫病",
+      "new_source_ids": [
+        "S265",
+        "S284"
+      ],
+      "status": "technical_or_scoped_research_added",
+      "note": "有风险监测和文化措施；HortInfo 未注明日期，1996 MARYBLYT 研究不能冒充当前软件参数。"
+    },
+    {
+      "topic_id": "T03",
+      "topic": "Powdery mildew 白粉病",
+      "new_source_ids": [
+        "S267",
+        "S268",
+        "S282",
+        "S285"
+      ],
+      "status": "technical_or_scoped_research_added",
+      "note": "补入 2023 苹果专属策略及历史温室/田间研究；不能将温室乳脂/油乳剂直接推广到成熟果园。"
+    },
+    {
+      "topic_id": "T04",
+      "topic": "European canker 欧洲溃疡病",
+      "new_source_ids": [
+        "S279",
+        "S273",
+        "S274",
+        "S291",
+        "S292"
+      ],
+      "status": "technical_or_scoped_research_added",
+      "note": "有卫生、修剪、伤口易感性及 2013–2014 铜剂试验；亚磷酸试验为负结果，不能据题名推荐。"
+    },
+    {
+      "topic_id": "T05",
+      "topic": "Apple anthracnose 苹果炭疽溃疡类专题",
+      "new_source_ids": [],
+      "status": "no_new_NZ_source_this_round",
+      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+    },
+    {
+      "topic_id": "T06",
+      "topic": "Phytophthora root/crown rot 疫霉根腐病",
+      "new_source_ids": [],
+      "status": "no_new_NZ_source_this_round",
+      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+    },
+    {
+      "topic_id": "T07",
+      "topic": "Armillaria root rot 蜜环菌根腐病",
+      "new_source_ids": [],
+      "status": "no_new_NZ_source_this_round",
+      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+    },
+    {
+      "topic_id": "T08",
+      "topic": "Bacterial blossom blast 细菌性花枯",
+      "new_source_ids": [],
+      "status": "no_new_NZ_source_this_round",
+      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+    },
+    {
+      "topic_id": "T09",
+      "topic": "Black rot / Frogeye leaf spot 黑腐病",
+      "new_source_ids": [],
+      "status": "no_new_NZ_source_this_round",
+      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+    },
+    {
+      "topic_id": "T10",
+      "topic": "Bitter rot 苦腐病",
+      "new_source_ids": [
+        "S275",
+        "S287"
+      ],
+      "status": "technical_or_scoped_research_added",
+      "note": "保留日期/地区/苹果寄主与试验限制；尚未制作正式参考答案。"
+    },
+    {
+      "topic_id": "T11",
+      "topic": "White rot 白腐病",
+      "new_source_ids": [],
+      "status": "no_new_NZ_source_this_round",
+      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+    },
+    {
+      "topic_id": "T12",
+      "topic": "Sooty blotch / Flyspeck 煤污病与蝇粪病",
+      "new_source_ids": [],
+      "status": "no_new_NZ_source_this_round",
+      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+    },
+    {
+      "topic_id": "T13",
+      "topic": "Cedar apple / Quince rust 锈病",
+      "new_source_ids": [],
+      "status": "no_new_NZ_source_this_round",
+      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+    },
+    {
+      "topic_id": "T14",
+      "topic": "Blue mold 青霉病",
+      "new_source_ids": [
+        "S287",
+        "S290"
+      ],
+      "status": "technical_or_scoped_research_added",
+      "note": "本地酵母/果实研究和清洗风险研究；没有完成商业储藏全流程/当前处理参数核验。"
+    },
+    {
+      "topic_id": "T15",
+      "topic": "Gray mold 灰霉病",
+      "new_source_ids": [
+        "S290"
+      ],
+      "status": "partial_research_evidence",
+      "note": "仅清洗混合腐烂试验包含 Botrytis；仍缺 NZ 灰霉病专属管理规程。"
+    },
+    {
+      "topic_id": "T16",
+      "topic": "Bull's eye rot 牛眼腐病",
+      "new_source_ids": [
+        "S277"
+      ],
+      "status": "technical_or_scoped_research_added",
+      "note": "本地离体果实/实验室研究；半商业热水试验只找到摘要，完整规程待补。"
+    },
+    {
+      "topic_id": "T17",
+      "topic": "Mucor rot 毛霉腐烂",
+      "new_source_ids": [
+        "S290"
+      ],
+      "status": "partial_research_evidence",
+      "note": "仅清洗混合腐烂试验包含 Mucor；仍缺 NZ 毛霉病专属管理规程。"
+    },
+    {
+      "topic_id": "T18",
+      "topic": "Phacidiopycnis rot",
+      "new_source_ids": [],
+      "status": "no_new_NZ_source_this_round",
+      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+    },
+    {
+      "topic_id": "T19",
+      "topic": "Marssonina blotch 苹果褐斑病",
+      "new_source_ids": [],
+      "status": "no_new_NZ_source_this_round",
+      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+    },
+    {
+      "topic_id": "T20",
+      "topic": "Crown gall 根癌病",
+      "new_source_ids": [],
+      "status": "no_new_NZ_source_this_round",
+      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+    },
+    {
+      "topic_id": "T21",
+      "topic": "Core rot / Moldy core 果心腐烂",
+      "new_source_ids": [],
+      "status": "no_new_NZ_source_this_round",
+      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+    },
+    {
+      "topic_id": "T22",
+      "topic": "Apple replant disease 连作障碍专题",
+      "new_source_ids": [
+        "S288"
+      ],
+      "status": "partial_research_evidence",
+      "note": "M26 根砧及再植土壤研究，不是已验证商业土壤修复方案。"
+    },
+    {
+      "topic_id": "T23",
+      "topic": "Codling moth 苹果蠹蛾",
+      "new_source_ids": [
+        "S281"
+      ],
+      "status": "technical_or_scoped_research_added",
+      "note": "保留日期/地区/苹果寄主与试验限制；尚未制作正式参考答案。"
+    },
+    {
+      "topic_id": "T24",
+      "topic": "Apple maggot 苹果实蝇",
+      "new_source_ids": [],
+      "status": "no_new_NZ_source_this_round",
+      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+    },
+    {
+      "topic_id": "T25",
+      "topic": "Woolly apple aphid 苹果绵蚜",
+      "new_source_ids": [
+        "S270",
+        "S271",
+        "S272"
+      ],
+      "status": "technical_or_scoped_research_added",
+      "note": "保留日期/地区/苹果寄主与试验限制；尚未制作正式参考答案。"
+    },
+    {
+      "topic_id": "T26",
+      "topic": "Green/apple/spirea aphids 苹果蚜类",
+      "new_source_ids": [],
+      "status": "no_new_NZ_source_this_round",
+      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+    },
+    {
+      "topic_id": "T27",
+      "topic": "Rosy apple aphid",
+      "new_source_ids": [],
+      "status": "no_new_NZ_source_this_round",
+      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+    },
+    {
+      "topic_id": "T28",
+      "topic": "Apple grain aphid",
+      "new_source_ids": [],
+      "status": "no_new_NZ_source_this_round",
+      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+    },
+    {
+      "topic_id": "T29",
+      "topic": "Leafrollers 卷叶蛾类",
+      "new_source_ids": [
+        "S261",
+        "S280"
+      ],
+      "status": "technical_or_scoped_research_added",
+      "note": "保留日期/地区/苹果寄主与试验限制；尚未制作正式参考答案。"
+    },
+    {
+      "topic_id": "T30",
+      "topic": "Lightbrown apple moth 浅褐苹果蛾",
+      "new_source_ids": [
+        "S261",
+        "S280"
+      ],
+      "status": "technical_or_scoped_research_added",
+      "note": "保留日期/地区/苹果寄主与试验限制；尚未制作正式参考答案。"
+    },
+    {
+      "topic_id": "T31",
+      "topic": "European red mite 欧洲红蜘蛛",
+      "new_source_ids": [
+        "S264",
+        "S271"
+      ],
+      "status": "technical_or_scoped_research_added",
+      "note": "保留日期/地区/苹果寄主与试验限制；尚未制作正式参考答案。"
+    },
+    {
+      "topic_id": "T32",
+      "topic": "Spider mites 叶螨类",
+      "new_source_ids": [
+        "S264"
+      ],
+      "status": "technical_or_scoped_research_added",
+      "note": "保留日期/地区/苹果寄主与试验限制；尚未制作正式参考答案。"
+    },
+    {
+      "topic_id": "T33",
+      "topic": "Apple rust mite 苹果锈螨",
+      "new_source_ids": [],
+      "status": "no_new_NZ_source_this_round",
+      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+    },
+    {
+      "topic_id": "T34",
+      "topic": "San Jose scale 圣何塞蚧",
+      "new_source_ids": [],
+      "status": "no_new_NZ_source_this_round",
+      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+    },
+    {
+      "topic_id": "T35",
+      "topic": "Leafminers 潜叶蛾类",
+      "new_source_ids": [],
+      "status": "no_new_NZ_source_this_round",
+      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+    },
+    {
+      "topic_id": "T36",
+      "topic": "Leafhoppers 叶蝉类",
+      "new_source_ids": [
+        "S263"
+      ],
+      "status": "technical_or_scoped_research_added",
+      "note": "保留日期/地区/苹果寄主与试验限制；尚未制作正式参考答案。"
+    },
+    {
+      "topic_id": "T37",
+      "topic": "Brown marmorated stink bug 褐斑蝽",
+      "new_source_ids": [],
+      "status": "no_new_NZ_source_this_round",
+      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+    },
+    {
+      "topic_id": "T38",
+      "topic": "Bronze beetle 铜色甲虫",
+      "new_source_ids": [
+        "S269"
+      ],
+      "status": "technical_or_scoped_research_added",
+      "note": "有 Hawke’s Bay 有机苹果土壤耕作试验，年份/土壤/虫龄条件不可忽略；当前全国操作标准待补。"
+    },
+    {
+      "topic_id": "T39",
+      "topic": "Lesser appleworm",
+      "new_source_ids": [],
+      "status": "no_new_NZ_source_this_round",
+      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+    },
+    {
+      "topic_id": "T40",
+      "topic": "Oriental fruit moth 东方果蛾",
+      "new_source_ids": [],
+      "status": "no_new_NZ_source_this_round",
+      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+    },
+    {
+      "topic_id": "T41",
+      "topic": "Plum curculio 李象甲",
+      "new_source_ids": [],
+      "status": "no_new_NZ_source_this_round",
+      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+    },
+    {
+      "topic_id": "T42",
+      "topic": "Apple mosaic 苹果花叶病",
+      "new_source_ids": [],
+      "status": "no_new_NZ_source_this_round",
+      "note": "保留原范围缺口；未用其他作物、法规或物种记录填充。"
+    },
+    {
+      "topic_id": "T43",
+      "topic": "Apple leafcurling midge 苹果卷叶瘿蚊",
+      "new_source_ids": [
+        "S266"
+      ],
+      "status": "technical_or_scoped_research_added",
+      "note": "区分幼树/新嫁接树与成熟树；避免把历史产品时间窗当成当前统一推荐。"
+    },
+    {
+      "topic_id": "T44",
+      "topic": "Mealybugs 粉蚧类（苹果）",
+      "new_source_ids": [
+        "S262",
+        "S278"
+      ],
+      "status": "technical_or_scoped_research_added",
+      "note": "技术策略＋监测会议摘要；摘要不是完整试验规程，不自动套用其他作物粉蚧阈值。"
+    },
+    {
+      "topic_id": "T45",
+      "topic": "Alternaria 相关苹果病害",
+      "new_source_ids": [
+        "S290"
+      ],
+      "status": "partial_research_evidence",
+      "note": "仅涉及采后混合腐烂中的 Alternaria；未补足叶斑/果斑专属 NZ 管理，不推断种名或法定状态。"
+    },
+    {
+      "topic_id": "T46",
+      "topic": "Elsinoe 相关苹果病害",
+      "new_source_ids": [
+        "S289"
+      ],
+      "status": "partial_research_evidence",
+      "note": "仅 Royal Gala 温室/实验室海报摘要；仍缺成熟苹果果园验证及完整管理规程。"
+    }
+  ],
+  "receipt": {
+    "created_at": "2026-10-13T05:18:10.318128+00:00",
+    "new_sources": 30,
+    "new_html_sources": 9,
+    "new_pdf_sources": 21,
+    "new_pdf_pages": 133,
+    "new_html_chunks": 44,
+    "new_pdf_chunks": 81,
+    "new_chunks": 125,
+    "total_pdf_documents": 65,
+    "total_pdf_pages": 1123,
+    "total_pdf_chunks": 2122,
+    "total_html_sources": 199,
+    "total_html_chunks": 1901,
+    "total_working_chunks": 4023,
+    "backup_file": "D:\\CodexWork\\Working\\158888\\data\\other\\backups\\corpus-before-nz-supplement-20261013T051808362701.sqlite3",
+    "corpus_hash": "71a75090c3e0944b4a4fb02b3704dceb76cda71074b2dc580a1f0959826355cd",
+    "preserved_old_rows": {
+      "chunks": true,
+      "pdf_documents": true,
+      "pdf_pages": true
+    },
+    "before_counts": {
+      "chunks": 3898,
+      "pdf_documents": 44,
+      "pdf_pages": 990
+    },
+    "after_counts": {
+      "chunks": 4023,
+      "pdf_documents": 65,
+      "pdf_pages": 1123
+    },
+    "database_integrity": "ok",
+    "model_or_embedding_api_calls": 0,
+    "source_validation": [
+      {
+        "source_id": "S261",
+        "query": "Leafroller insecticide resistance management strategy apple New Zealand management",
+        "hit_ids": [
+          "S261:web:1",
+          "S261:web:2"
+        ]
+      },
+      {
+        "source_id": "S262",
+        "query": "Mealybug insecticide resistance management strategy apple New Zealand management",
+        "hit_ids": [
+          "S262:web:1",
+          "S262:web:3",
+          "S262:web:2"
+        ]
+      },
+      {
+        "source_id": "S263",
+        "query": "Leafhopper insecticide resistance management strategy apple New Zealand management",
+        "hit_ids": [
+          "S263:web:1",
+          "S263:web:4",
+          "S263:web:2"
+        ]
+      },
+      {
+        "source_id": "S264",
+        "query": "Spider mite resistance management strategy apple New Zealand management",
+        "hit_ids": [
+          "S264:web:1",
+          "S264:web:3",
+          "S264:web:2"
+        ]
+      },
+      {
+        "source_id": "S265",
+        "query": "Fireblight apple New Zealand management",
+        "hit_ids": [
+          "S265:web:3",
+          "S265:web:2",
+          "S265:web:5"
+        ]
+      },
+      {
+        "source_id": "S266",
+        "query": "Apple leaf-curling midge (ALCM) apple New Zealand management",
+        "hit_ids": [
+          "S266:web:5",
+          "S266:web:6",
+          "S266:web:3"
+        ]
+      },
+      {
+        "source_id": "S267",
+        "query": "Qo inhibitor fungicide resistance management strategy apple New Zealand management",
+        "hit_ids": [
+          "S267:web:2",
+          "S267:web:1"
+        ]
+      },
+      {
+        "source_id": "S268",
+        "query": "DMI fungicide resistance management strategy apple New Zealand management",
+        "hit_ids": [
+          "S268:web:2",
+          "S268:web:4",
+          "S268:web:3"
+        ]
+      },
+      {
+        "source_id": "S269",
+        "query": "Managing bronze beetle in Hawkes Bay organic apple orchards using soil cultivation apple New Zealand management",
+        "hit_ids": [
+          "Pce0fa3cd01750de0:p1:c1",
+          "Pce0fa3cd01750de0:p6:c1",
+          "Pce0fa3cd01750de0:p5:c2"
+        ]
+      },
+      {
+        "source_id": "S270",
+        "query": "Biological control of woolly apple aphid by Aphelinus mali in an integrated fruit production programme in Nelson apple New Zealand management",
+        "hit_ids": [
+          "P22b2f2a0c04d1246:p1:c1",
+          "P22b2f2a0c04d1246:p4:c1"
+        ]
+      },
+      {
+        "source_id": "S271",
+        "query": "Biocontrol of pests in apples under integrated fruit production apple New Zealand management",
+        "hit_ids": [
+          "P1df49840bbb82784:p1:c1"
+        ]
+      },
+      {
+        "source_id": "S272",
+        "query": "Vulnerability of pest management in New Zealand apples: pesticide toxicity to Aphelinus mali apple New Zealand management",
+        "hit_ids": [
+          "Pb451007e959e5dd4:p6:c2",
+          "Pb451007e959e5dd4:p6:c1",
+          "Pb451007e959e5dd4:p5:c3"
+        ]
+      },
+      {
+        "source_id": "S273",
+        "query": "Can phosphorous acid be used to control Neonectria ditissima in New Zealand grown apples? apple New Zealand management",
+        "hit_ids": [
+          "Pd4d07b9361cfc0e3:p6:c2",
+          "Pd4d07b9361cfc0e3:p6:c1",
+          "Pd4d07b9361cfc0e3:p1:c1"
+        ]
+      },
+      {
+        "source_id": "S274",
+        "query": "Mapping European canker spatial patterns in apple orchards apple New Zealand management",
+        "hit_ids": [
+          "P882f31f1ac437ffe:p1:c1",
+          "P882f31f1ac437ffe:p8:c1"
+        ]
+      },
+      {
+        "source_id": "S275",
+        "query": "Evaluation of fungicides for control of bitter and sprinkler rots on apple fruit apple New Zealand management",
+        "hit_ids": [
+          "P2e19085cc186e3a4:p1:c1",
+          "P2e19085cc186e3a4:p9:c2",
+          "P2e19085cc186e3a4:p8:c3"
+        ]
+      },
+      {
+        "source_id": "S277",
+        "query": "The effect of fungicides on spore germination, mycelial growth and lesion development of Phlyctema vagabunda apple New Zealand management",
+        "hit_ids": [
+          "Pecf09cdda8cf073d:p1:c1",
+          "Pecf09cdda8cf073d:p6:c1",
+          "Pecf09cdda8cf073d:p6:c2"
+        ]
+      },
+      {
+        "source_id": "S278",
+        "query": "Trapping obscure mealybug and its natural enemy in apple orchards apple New Zealand management",
+        "hit_ids": [
+          "Pacbf43db739da6f4:p1:c1"
+        ]
+      },
+      {
+        "source_id": "S279",
+        "query": "European canker apple New Zealand management",
+        "hit_ids": [
+          "S279:web:1",
+          "S279:web:2",
+          "S279:web:3"
+        ]
+      },
+      {
+        "source_id": "S280",
+        "query": "Use of mating disruption for control of New Zealand leafrollers in apple orchards apple New Zealand management",
+        "hit_ids": [
+          "P2f964142f9956fd5:p6:c3",
+          "P2f964142f9956fd5:p5:c1",
+          "P2f964142f9956fd5:p6:c1"
+        ]
+      },
+      {
+        "source_id": "S281",
+        "query": "Codling moth mating disruption outcomes in Hawkes Bay apple orchards apple New Zealand management",
+        "hit_ids": [
+          "P7f06906fa20a6997:p1:c1",
+          "P7f06906fa20a6997:p5:c1",
+          "P7f06906fa20a6997:p4:c2"
+        ]
+      },
+      {
+        "source_id": "S282",
+        "query": "Control of powdery mildew ( Podosphaera leucotricha ) on apple seedlings using anhydrous milk fat and soybean oil emulsions apple New Zealand management",
+        "hit_ids": [
+          "P93502a866cffdf0e:p7:c2",
+          "P93502a866cffdf0e:p1:c1",
+          "P93502a866cffdf0e:p7:c1"
+        ]
+      },
+      {
+        "source_id": "S283",
+        "query": "Infection period forecasting for improved apple black spot management in Hawke's Bay apple New Zealand management",
+        "hit_ids": [
+          "P76d3c4d7b965acfd:p1:c1",
+          "P76d3c4d7b965acfd:p5:c1"
+        ]
+      },
+      {
+        "source_id": "S284",
+        "query": "Applications of the MARYBLYT computer model for identifying infection risk for fire blight of apple apple New Zealand management",
+        "hit_ids": [
+          "P18341c3865d73ea0:p1:c1",
+          "P18341c3865d73ea0:p4:c1",
+          "P18341c3865d73ea0:p4:c2"
+        ]
+      },
+      {
+        "source_id": "S285",
+        "query": "Slaked lime, baking soda and mineral oil for blackspot and powdery mildew control in apples apple New Zealand management",
+        "hit_ids": [
+          "P6b24c75c81538249:p1:c1",
+          "P6b24c75c81538249:p6:c1",
+          "P6b24c75c81538249:p7:c1"
+        ]
+      },
+      {
+        "source_id": "S287",
+        "query": "Yeast isolates to inhibit blue mould and bitter rot of apples apple New Zealand management",
+        "hit_ids": [
+          "P8f0bceeb6a5ac6cb:p1:c1",
+          "P8f0bceeb6a5ac6cb:p4:c1",
+          "P8f0bceeb6a5ac6cb:p5:c2"
+        ]
+      },
+      {
+        "source_id": "S288",
+        "query": "Colonisation of apple roots by arbuscular mycorrhiza in specific apple replant disease affected soil apple New Zealand management",
+        "hit_ids": [
+          "Pf693cbccee9707a1:p1:c1",
+          "Pf693cbccee9707a1:p5:c1",
+          "Pf693cbccee9707a1:p3:c1"
+        ]
+      },
+      {
+        "source_id": "S289",
+        "query": "Effect of fungicidal treatments on severity and incidence of elsinoe leaf spot of apple apple New Zealand management",
+        "hit_ids": [
+          "P9ff1d68283b5dcb7:p1:c1",
+          "P9ff1d68283b5dcb7:p1:c2"
+        ]
+      },
+      {
+        "source_id": "S290",
+        "query": "The incidence of storage rots after postharvest apple washing apple New Zealand management",
+        "hit_ids": [
+          "P1238bed29496c60c:p1:c1",
+          "P1238bed29496c60c:p7:c3",
+          "P1238bed29496c60c:p1:c2"
+        ]
+      },
+      {
+        "source_id": "S291",
+        "query": "Control of Neonectria ditissima with copper based products in New Zealand apple New Zealand management",
+        "hit_ids": [
+          "P3eafeb60a3035432:p6:c2",
+          "P3eafeb60a3035432:p8:c2",
+          "P3eafeb60a3035432:p1:c1"
+        ]
+      },
+      {
+        "source_id": "S292",
+        "query": "Seasonal wound presence and susceptibility to Neonectria ditissima infection in New Zealand apple trees apple New Zealand management",
+        "hit_ids": [
+          "P86663e8e7add6d5b:p7:c1",
+          "P86663e8e7add6d5b:p1:c1",
+          "P86663e8e7add6d5b:p6:c3"
+        ]
+      }
+    ],
+    "global_retrieval_validation": [
+      {
+        "question": "How can codling moth mating disruption be monitored in Hawkes Bay apple orchards?",
+        "hit_ids": [
+          "S006:web:7",
+          "P7f06906fa20a6997:p1:c1",
+          "Pbb050e80247f328d:p26:c2",
+          "P7f06906fa20a6997:p5:c1",
+          "P7f06906fa20a6997:p4:c1",
+          "P7f06906fa20a6997:p4:c2",
+          "S022:web:6",
+          "S090:web:9",
+          "S006:web:3",
+          "S122:web:22"
+        ],
+        "new_source_hits": [
+          "P7f06906fa20a6997:p1:c1",
+          "P7f06906fa20a6997:p5:c1",
+          "P7f06906fa20a6997:p4:c1",
+          "P7f06906fa20a6997:p4:c2"
+        ]
+      },
+      {
+        "question": "How can apple leafcurling midge be monitored in young trees in New Zealand?",
+        "hit_ids": [
+          "S266:web:1",
+          "S087:web:1",
+          "S087:web:3",
+          "S266:web:2",
+          "S087:web:2",
+          "S087:web:10",
+          "P3d07789f7d8148ec:p201:c1",
+          "Pac2f744e6d94a879:p45:c1",
+          "Pd4d07b9361cfc0e3:p6:c2",
+          "S010:web:1"
+        ],
+        "new_source_hits": [
+          "S266:web:1",
+          "S266:web:2",
+          "Pd4d07b9361cfc0e3:p6:c2"
+        ]
+      },
+      {
+        "question": "How should leafroller resistance be managed in New Zealand apple orchards?",
+        "hit_ids": [
+          "P3d07789f7d8148ec:p70:c2",
+          "P3ce0df53da45bda5:p6:c1",
+          "P2f964142f9956fd5:p5:c1",
+          "P3ce0df53da45bda5:p5:c3",
+          "P3ce0df53da45bda5:p1:c2",
+          "S021:web:3",
+          "S021:web:2",
+          "P2f964142f9956fd5:p6:c1",
+          "Pd4d07b9361cfc0e3:p6:c2",
+          "Pac2f744e6d94a879:p35:c2"
+        ],
+        "new_source_hits": [
+          "P2f964142f9956fd5:p5:c1",
+          "P2f964142f9956fd5:p6:c1",
+          "Pd4d07b9361cfc0e3:p6:c2"
+        ]
+      },
+      {
+        "question": "What did New Zealand studies find about apple washing water and storage rots?",
+        "hit_ids": [
+          "P1238bed29496c60c:p7:c3",
+          "P1238bed29496c60c:p1:c1",
+          "P1238bed29496c60c:p1:c2",
+          "Pd4d07b9361cfc0e3:p6:c2",
+          "P1238bed29496c60c:p7:c1",
+          "P3eafeb60a3035432:p6:c2",
+          "Pac2f744e6d94a879:p15:c2",
+          "Pac2f744e6d94a879:p7:c1",
+          "S085:web:2",
+          "S087:web:1"
+        ],
+        "new_source_hits": [
+          "P1238bed29496c60c:p7:c3",
+          "P1238bed29496c60c:p1:c1",
+          "P1238bed29496c60c:p1:c2",
+          "Pd4d07b9361cfc0e3:p6:c2",
+          "P1238bed29496c60c:p7:c1",
+          "P3eafeb60a3035432:p6:c2"
+        ]
+      },
+      {
+        "question": "What are cultural management methods for fire blight in New Zealand apples?",
+        "hit_ids": [
+          "Pac2f744e6d94a879:p27:c2",
+          "S015:web:17",
+          "S025:web:1",
+          "Pd4d07b9361cfc0e3:p6:c2",
+          "Pac2f744e6d94a879:p10:c1",
+          "S015:web:16",
+          "Pb451007e959e5dd4:p6:c2",
+          "P3eafeb60a3035432:p6:c2",
+          "S002:web:4",
+          "S263:web:2"
+        ],
+        "new_source_hits": [
+          "Pd4d07b9361cfc0e3:p6:c2",
+          "Pb451007e959e5dd4:p6:c2",
+          "P3eafeb60a3035432:p6:c2",
+          "S263:web:2"
+        ]
+      },
+      {
+        "question": "Can phosphorous acid control European canker in New Zealand apples?",
+        "hit_ids": [
+          "Pd4d07b9361cfc0e3:p6:c2",
+          "P3eafeb60a3035432:p6:c2",
+          "Pb451007e959e5dd4:p5:c3",
+          "Pd4d07b9361cfc0e3:p1:c1",
+          "Pb451007e959e5dd4:p6:c1",
+          "S279:web:1",
+          "S200:web:1",
+          "S279:web:2",
+          "S200:web:2",
+          "P86663e8e7add6d5b:p7:c1"
+        ],
+        "new_source_hits": [
+          "Pd4d07b9361cfc0e3:p6:c2",
+          "P3eafeb60a3035432:p6:c2",
+          "Pb451007e959e5dd4:p5:c3",
+          "Pd4d07b9361cfc0e3:p1:c1",
+          "Pb451007e959e5dd4:p6:c1",
+          "S279:web:1",
+          "S279:web:2",
+          "P86663e8e7add6d5b:p7:c1"
+        ]
+      },
+      {
+        "question": "What does the 2023 New Zealand strategy say about DMI use in Otago apples?",
+        "hit_ids": [
+          "Pd4d07b9361cfc0e3:p6:c2",
+          "S268:web:4",
+          "P3eafeb60a3035432:p6:c2",
+          "S263:web:2",
+          "P2f964142f9956fd5:p6:c1",
+          "P2f964142f9956fd5:p6:c3",
+          "S263:web:4",
+          "Pb451007e959e5dd4:p5:c3",
+          "Pac2f744e6d94a879:p10:c1",
+          "P8f0bceeb6a5ac6cb:p5:c2"
+        ],
+        "new_source_hits": [
+          "Pd4d07b9361cfc0e3:p6:c2",
+          "S268:web:4",
+          "P3eafeb60a3035432:p6:c2",
+          "S263:web:2",
+          "P2f964142f9956fd5:p6:c1",
+          "P2f964142f9956fd5:p6:c3",
+          "S263:web:4",
+          "Pb451007e959e5dd4:p5:c3",
+          "P8f0bceeb6a5ac6cb:p5:c2"
+        ]
+      },
+      {
+        "question": "How can woolly apple aphid natural enemies be protected in New Zealand?",
+        "hit_ids": [
+          "S012:web:5",
+          "S020:web:13",
+          "S010:web:4",
+          "S084:web:2",
+          "S009:web:3",
+          "S244:web:6",
+          "S020:web:8",
+          "P3d07789f7d8148ec:p156:c1",
+          "S084:web:1",
+          "Pac2f744e6d94a879:p53:c1"
+        ],
+        "new_source_hits": []
+      }
+    ],
+    "topic_sources": {
+      "Alternaria Rot": [
+        "S290"
+      ],
+      "Apple Leafcurling Midge": [
+        "S266"
+      ],
+      "Apple Replant Disease": [
+        "S288"
+      ],
+      "Apple Scab": [
+        "S267",
+        "S268",
+        "S283",
+        "S285"
+      ],
+      "Bitter Rot": [
+        "S275",
+        "S287"
+      ],
+      "Blue Mold": [
+        "S287",
+        "S290"
+      ],
+      "Bronze Beetle": [
+        "S269"
+      ],
+      "Bull's Eye Rot": [
+        "S277"
+      ],
+      "Codling Moth": [
+        "S281"
+      ],
+      "Elsinoe Leaf Spot": [
+        "S289"
+      ],
+      "European Canker": [
+        "S273",
+        "S274",
+        "S279",
+        "S291",
+        "S292"
+      ],
+      "European Red Mite": [
+        "S264",
+        "S271"
+      ],
+      "Fire Blight": [
+        "S265",
+        "S284"
+      ],
+      "Gray Mold": [
+        "S290"
+      ],
+      "Leafhoppers": [
+        "S263"
+      ],
+      "Leafrollers": [
+        "S261",
+        "S280"
+      ],
+      "Lightbrown Apple Moth": [
+        "S261",
+        "S280"
+      ],
+      "Mealybugs": [
+        "S262",
+        "S278"
+      ],
+      "Mucor Rot": [
+        "S290"
+      ],
+      "Phytophthora Fruit Rot": [
+        "S275"
+      ],
+      "Powdery Mildew": [
+        "S267",
+        "S268",
+        "S282",
+        "S285"
+      ],
+      "Spider Mites": [
+        "S264"
+      ],
+      "Woolly Apple Aphid": [
+        "S270",
+        "S271",
+        "S272"
+      ]
+    },
+    "admission_audit": [
+      {
+        "key": "NZ01",
+        "source_id": "S261",
+        "status": "approved_scoped_html",
+        "approved_blocks": 19,
+        "chunks": 2,
+        "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Page updated August 2024, but omitted label-claim table is November 2002 and resistance-assessment material is 2004. Technical prevention prose only."
+      },
+      {
+        "key": "NZ02",
+        "source_id": "S262",
+        "status": "approved_scoped_html",
+        "approved_blocks": 20,
+        "chunks": 4,
+        "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Research evidence: experimental methods/results are not automatically a general grower prescription."
+      },
+      {
+        "key": "NZ03",
+        "source_id": "S263",
+        "status": "approved_scoped_html",
+        "approved_blocks": 16,
+        "chunks": 5,
+        "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Research evidence: experimental methods/results are not automatically a general grower prescription."
+      },
+      {
+        "key": "NZ04",
+        "source_id": "S264",
+        "status": "approved_scoped_html",
+        "approved_blocks": 7,
+        "chunks": 3,
+        "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. February 2025 revision; retain apple/pipfruit predator and monitoring strategy only. Product tables and other-crop recommendations excluded."
+      },
+      {
+        "key": "NZ05",
+        "source_id": "S265",
+        "status": "approved_scoped_html",
+        "approved_blocks": 19,
+        "chunks": 5,
+        "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Undated legacy HortInfo guidance: retain biology, risk monitoring and cultural practices. Numerical weather criteria with ambiguous inequalities, chemical approval and pear-only recommendations are excluded."
+      },
+      {
+        "key": "NZ06",
+        "source_id": "S266",
+        "status": "approved_scoped_html",
+        "approved_blocks": 17,
+        "chunks": 13,
+        "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Undated legacy HortInfo guidance: young/newly grafted apple trees versus mature trees must be distinguished. Source sampling thresholds and named-product programmes are historical and are not a current New Zealand prescription."
+      },
+      {
+        "key": "NZ07",
+        "source_id": "S267",
+        "status": "approved_scoped_html",
+        "approved_blocks": 2,
+        "chunks": 2,
+        "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. 2023 strategy: apple powdery-mildew row includes a specific warning about scab; retain the whole row so the exception survives. Not a general recommendation for using QoIs against scab."
+      },
+      {
+        "key": "NZ08",
+        "source_id": "S268",
+        "status": "approved_scoped_html",
+        "approved_blocks": 4,
+        "chunks": 4,
+        "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. 2023 strategy: preserve the complete apple/pear table row, including Otago and Hawke’s Bay qualifications. Apple claims only; no registration conclusions."
+      },
+      {
+        "key": "NZ09",
+        "source_id": "S269",
+        "status": "approved_scoped_pdf",
+        "pages": 6,
+        "qa_pages": [
+          1,
+          5,
+          6
+        ],
+        "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Research evidence: experimental methods/results are not automatically a general grower prescription.",
+        "evidence_type": "peer_reviewed_research_trial",
+        "database_source_id": "Pce0fa3cd01750de0",
+        "chunks": 4
+      },
+      {
+        "key": "NZ10",
+        "source_id": "S270",
+        "status": "approved_scoped_pdf",
+        "pages": 5,
+        "qa_pages": [
+          1,
+          4
+        ],
+        "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Research evidence: experimental methods/results are not automatically a general grower prescription.",
+        "evidence_type": "peer_reviewed_research_trial",
+        "database_source_id": "P22b2f2a0c04d1246",
+        "chunks": 2
+      },
+      {
+        "key": "NZ11",
+        "source_id": "S271",
+        "status": "approved_scoped_pdf",
+        "pages": 5,
+        "qa_pages": [
+          1
+        ],
+        "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Only the intact abstract is admitted because substantial body text has unresolved font-encoding corruption. Full original PDF remains available; no claim of full-body extraction quality.",
+        "evidence_type": "partially_extractable_research_article",
+        "database_source_id": "P1df49840bbb82784",
+        "chunks": 1
+      },
+      {
+        "key": "NZ12",
+        "source_id": "S272",
+        "status": "approved_scoped_pdf",
+        "pages": 7,
+        "qa_pages": [
+          1,
+          4,
+          5,
+          6
+        ],
+        "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Research evidence: experimental methods/results are not automatically a general grower prescription.",
+        "evidence_type": "peer_reviewed_research_trial",
+        "database_source_id": "Pb451007e959e5dd4",
+        "chunks": 8
+      },
+      {
+        "key": "NZ13",
+        "source_id": "S273",
+        "status": "approved_scoped_pdf",
+        "pages": 6,
+        "qa_pages": [
+          1,
+          6
+        ],
+        "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. 2017–2018 leaf-scar trial did not establish efficacy of phosphorous acid against canker; do not turn this negative result into a recommended treatment. Publication year is 2019.",
+        "evidence_type": "peer_reviewed_research_trial",
+        "database_source_id": "Pd4d07b9361cfc0e3",
+        "chunks": 3
+      },
+      {
+        "key": "NZ14",
+        "source_id": "S274",
+        "status": "approved_scoped_pdf",
+        "pages": 9,
+        "qa_pages": [
+          1,
+          8
+        ],
+        "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Research evidence: experimental methods/results are not automatically a general grower prescription.",
+        "evidence_type": "peer_reviewed_research_trial",
+        "database_source_id": "P882f31f1ac437ffe",
+        "chunks": 2
+      },
+      {
+        "key": "NZ15",
+        "source_id": "S275",
+        "status": "approved_scoped_pdf",
+        "pages": 11,
+        "qa_pages": [
+          1,
+          8,
+          9
+        ],
+        "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Apple bitter-rot and Phytophthora fruit/sprinkler-rot trials; not evidence for treating Phytophthora root/crown rot. Fungicide results are historical, conditional trial results.",
+        "evidence_type": "peer_reviewed_research_trial",
+        "database_source_id": "P2e19085cc186e3a4",
+        "chunks": 7
+      },
+      {
+        "key": "NZ16",
+        "source_id": "S276",
+        "status": "not_imported",
+        "reason": "No accessible full-text download."
+      },
+      {
+        "key": "NZ17",
+        "source_id": "S277",
+        "status": "approved_scoped_pdf",
+        "pages": 8,
+        "qa_pages": [
+          1,
+          6
+        ],
+        "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Research evidence: experimental methods/results are not automatically a general grower prescription.",
+        "evidence_type": "peer_reviewed_research_trial",
+        "database_source_id": "Pecf09cdda8cf073d",
+        "chunks": 3
+      },
+      {
+        "key": "NZ18",
+        "source_id": "S278",
+        "status": "approved_scoped_pdf",
+        "pages": 1,
+        "qa_pages": [
+          1
+        ],
+        "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Poster abstract only. Retain only the apple mealybug study; neighbouring sharpshooter/spittlebug abstract excluded. This is monitoring evidence, not a complete control protocol.",
+        "evidence_type": "poster_abstract",
+        "database_source_id": "Pacbf43db739da6f4",
+        "chunks": 1
+      },
+      {
+        "key": "NZ19",
+        "source_id": "S279",
+        "status": "approved_scoped_html",
+        "approved_blocks": 22,
+        "chunks": 6,
+        "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Undated legacy HortInfo guide. Cultural sanitation/pruning only; chemical rates and registrations excluded."
+      },
+      {
+        "key": "NZ20",
+        "source_id": "S280",
+        "status": "approved_scoped_pdf",
+        "pages": 7,
+        "qa_pages": [
+          1,
+          5,
+          6
+        ],
+        "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Research evidence: experimental methods/results are not automatically a general grower prescription.",
+        "evidence_type": "peer_reviewed_research_trial",
+        "database_source_id": "P2f964142f9956fd5",
+        "chunks": 5
+      },
+      {
+        "key": "NZ21",
+        "source_id": "S281",
+        "status": "approved_scoped_pdf",
+        "pages": 5,
+        "qa_pages": [
+          1,
+          4,
+          5
+        ],
+        "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Research evidence: experimental methods/results are not automatically a general grower prescription.",
+        "evidence_type": "peer_reviewed_research_trial",
+        "database_source_id": "P7f06906fa20a6997",
+        "chunks": 4
+      },
+      {
+        "key": "NZ22",
+        "source_id": "S282",
+        "status": "approved_scoped_pdf",
+        "pages": 8,
+        "qa_pages": [
+          1,
+          4,
+          6,
+          7
+        ],
+        "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Glasshouse apple seedlings and lipid emulsions, not a validated mature-orchard spray programme. Crop injury and formulation qualifications must be retained.",
+        "evidence_type": "peer_reviewed_research_trial",
+        "database_source_id": "P93502a866cffdf0e",
+        "chunks": 6
+      },
+      {
+        "key": "NZ23",
+        "source_id": "S283",
+        "status": "approved_scoped_pdf",
+        "pages": 6,
+        "qa_pages": [
+          1,
+          5
+        ],
+        "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Research evidence: experimental methods/results are not automatically a general grower prescription.",
+        "evidence_type": "peer_reviewed_research_trial",
+        "database_source_id": "P76d3c4d7b965acfd",
+        "chunks": 2
+      },
+      {
+        "key": "NZ24",
+        "source_id": "S284",
+        "status": "approved_scoped_pdf",
+        "pages": 5,
+        "qa_pages": [
+          1,
+          4
+        ],
+        "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Research evidence: experimental methods/results are not automatically a general grower prescription.",
+        "evidence_type": "peer_reviewed_research_trial",
+        "database_source_id": "P18341c3865d73ea0",
+        "chunks": 3
+      },
+      {
+        "key": "NZ25",
+        "source_id": "S285",
+        "status": "approved_scoped_pdf",
+        "pages": 8,
+        "qa_pages": [
+          1,
+          6,
+          7
+        ],
+        "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Research evidence: experimental methods/results are not automatically a general grower prescription.",
+        "evidence_type": "peer_reviewed_research_trial",
+        "database_source_id": "P6b24c75c81538249",
+        "chunks": 4
+      },
+      {
+        "key": "NZ26",
+        "source_id": "S286",
+        "status": "not_imported",
+        "reason": "Image-only 19-page September-2025 CEDA guide; OCR required. No extracted text fabricated."
+      },
+      {
+        "key": "NZ27",
+        "source_id": "S287",
+        "status": "approved_scoped_pdf",
+        "pages": 6,
+        "qa_pages": [
+          1,
+          4,
+          5
+        ],
+        "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Detached, inoculated apple-fruit yeast experiments. Not a validated commercial product or whole-orchard treatment protocol.",
+        "evidence_type": "peer_reviewed_research_trial",
+        "database_source_id": "P8f0bceeb6a5ac6cb",
+        "chunks": 4
+      },
+      {
+        "key": "NZ28",
+        "source_id": "S288",
+        "status": "approved_scoped_pdf",
+        "pages": 5,
+        "qa_pages": [
+          1,
+          3,
+          4,
+          5
+        ],
+        "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Controlled M26 rootstock and replant-soil research. Colonisation/growth findings and future research suggestions are not evidence that a commercial bio-inoculant cures replant disease.",
+        "evidence_type": "peer_reviewed_research_trial",
+        "database_source_id": "Pf693cbccee9707a1",
+        "chunks": 5
+      },
+      {
+        "key": "NZ29",
+        "source_id": "S289",
+        "status": "approved_scoped_pdf",
+        "pages": 1,
+        "qa_pages": [
+          1
+        ],
+        "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Poster abstract, Royal Gala pot/seedling glasshouse and in-vitro pretreatment experiments only. Carrot study on the same page excluded; numeric inoculum exponent not reliably extracted and excluded. No claim of commercial field efficacy.",
+        "evidence_type": "poster_abstract",
+        "database_source_id": "P9ff1d68283b5dcb7",
+        "chunks": 2
+      },
+      {
+        "key": "NZ30",
+        "source_id": "S290",
+        "status": "approved_scoped_pdf",
+        "pages": 8,
+        "qa_pages": [
+          1,
+          7
+        ],
+        "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Apple washing/storage-rot trial; only intact prose and sentences admitted because font encoding corrupts some digits. Quantitative incidence data with corrupted digits excluded. Mixed rot species are not independently validated species-specific treatment protocols.",
+        "evidence_type": "partially_extractable_research_article",
+        "database_source_id": "P1238bed29496c60c",
+        "chunks": 5
+      },
+      {
+        "key": "NZ31",
+        "source_id": "S291",
+        "status": "approved_scoped_pdf",
+        "pages": 9,
+        "qa_pages": [
+          1,
+          6,
+          8
+        ],
+        "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Research evidence: experimental methods/results are not automatically a general grower prescription.",
+        "evidence_type": "peer_reviewed_research_trial",
+        "database_source_id": "P3eafeb60a3035432",
+        "chunks": 5
+      },
+      {
+        "key": "NZ32",
+        "source_id": "S292",
+        "status": "approved_scoped_pdf",
+        "pages": 7,
+        "qa_pages": [
+          1,
+          6,
+          7
+        ],
+        "scope_note": "New Zealand apple evidence. Use the stated source year and exact experimental/crop conditions. Not a verification of current pesticide registration or a current-use recommendation. Exclude regulatory and species-status questions. Research evidence: experimental methods/results are not automatically a general grower prescription.",
+        "evidence_type": "peer_reviewed_research_trial",
+        "database_source_id": "P86663e8e7add6d5b",
+        "chunks": 5
+      }
+    ],
+    "specific_woolly_aphid_check": {
+      "question": "What did the Nelson integrated fruit production study find about biological control of woolly apple aphid by Aphelinus mali?",
+      "hit_ids": [
+        "P22b2f2a0c04d1246:p1:c1",
+        "P3d07789f7d8148ec:p237:c2",
+        "S083:web:9",
+        "P22b2f2a0c04d1246:p4:c1",
+        "P3d07789f7d8148ec:p164:c1",
+        "P1df49840bbb82784:p1:c1",
+        "S083:web:7",
+        "S244:web:6",
+        "S244:web:5",
+        "S083:web:1"
+      ],
+      "new_source_hits": [
+        "P22b2f2a0c04d1246:p1:c1",
+        "P22b2f2a0c04d1246:p4:c1",
+        "P1df49840bbb82784:p1:c1"
+      ]
+    },
+    "retrieval_limit": "The broad woolly-aphid/natural-enemy query had no new NZ source in lexical Top 10; specific Nelson/Aphelinus trial query retrieves additions. Regional filtering/prioritisation is not implemented; embedding alone must not be assumed to solve it.",
+    "metadata_note": "New-source observational/laboratory study types clarified. A Phytophthora fruit-rot keyword tag was corrected to avoid calling it root/crown rot; future full PDF re-extraction still uses the generic keyword tagger, so regional/topic classification requires validation before corpus freeze."
+  },
+  "not_imported": [
+    {
+      "key": "NZ16",
+      "source_id": "S276",
+      "status": "not_imported",
+      "reason": "No accessible full-text download."
+    },
+    {
+      "key": "NZ26",
+      "source_id": "S286",
+      "status": "not_imported",
+      "reason": "Image-only 19-page September-2025 CEDA guide; OCR required. No extracted text fabricated."
+    }
+  ],
+  "no_model_api_calls": true,
+  "no_runtime_application_change": true
+}
